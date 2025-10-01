@@ -1,0 +1,21 @@
+---
+title: 'Coastal Ecology for a Living Planet Lab @ <span style="color:#516FBF">UMass Boston</span>'
+page-layout: full
+---
+
+::::: {.columns}
+
+::: {.column .bigger-font .center-y width="40%"}
+<br><br><br>
+The CELP lab at UMass Boston seeks to understand the causes and consequences of changing biodiversity in our coastal oceans. We study how the planet has, is, and will be changing using ecological theory as our guide and the myriad of coastal ecosystems - from kelp forests to urban shorelines - as our living laboratory.
+
+:::
+
+::: {.column .bigger-font .center-y width="5%"}
+:::
+
+::: {.column .center-y width="55%"}
+![](images/initial_logo.JPG){width="90%"}
+:::
+
+:::::

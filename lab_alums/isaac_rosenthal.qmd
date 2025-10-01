@@ -1,0 +1,10 @@
+---
+title: "Isaac Rosenthal"
+image: '/images/students/isaac_rosenthal.jpg'
+date: "2015-09-01"
+categories:
+    - PhD Student
+include-in-header: 
+      text: |
+        <meta http-equiv="refresh" content="0; url=https://scholar.google.com/citations?user=0wGxungAAAAJ&hl=en">
+---

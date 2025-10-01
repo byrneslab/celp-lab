@@ -1,0 +1,18 @@
+/* css styles */
+
+.center-y{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  vertical-align: middle;
+}
+
+.bigger-font{
+  font-size: 24px;
+}
+
+.container-center{
+  height:100vh;
+  display: flex;
+  align-items: center;
+}

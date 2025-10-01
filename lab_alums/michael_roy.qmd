@@ -1,0 +1,10 @@
+---
+title: "Michael Roy"
+image: '/images/students/michael_roy.jpg'
+date: "2015-09-03"
+categories:
+    - PhD Student
+---
+*Michael is currently a data scientist at the New York State Department of Public Health*  
+  
+I am interested in research related to non-native invertebrates of estuarine and brackish water ecosystems, how their introduction affects the ecology, biodiversity, environment, economics, and politics of coastal areas, and how parasitic infection by trematode parasites influences the successful establishment of such non-indigenous species. In addition, I explore factors that make a species successful in a non-native habitat (with subsequent impacts on coastal ecosystems) to implement prevention and management strategies of invasive species through governmental policy.

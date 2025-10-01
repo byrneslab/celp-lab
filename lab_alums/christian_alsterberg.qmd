@@ -1,0 +1,10 @@
+---
+title: "Christian Alsterberg"
+image: '/images/students/christian_alsterberg.jpg'
+date: "2018-09-01"
+categories:
+    - Postdoc
+include-in-header: 
+      text: |
+        <meta http-equiv="refresh" content="0; url=https://swedenwaterresearch.se/en/staff/christian-alsterberg-2/">
+---

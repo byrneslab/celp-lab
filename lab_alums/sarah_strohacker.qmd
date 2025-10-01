@@ -1,0 +1,12 @@
+---
+title: "Sarah Strohacker"
+image: '/images/students/sarah_strohacker.jpg'
+date: "2013-03-20"
+categories:
+    - Undergrad
+    - Tech
+---
+
+![](/images/students/sarah_strohacker.jpg)
+
+Sarah was one of the first undergrads in the lab, working on marsh sampling for lab marsh MIT Sea Grant projects.

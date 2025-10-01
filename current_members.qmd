@@ -1,0 +1,9 @@
+---
+title: "Current Lab Members"
+listing:
+  contents: current_members
+  categories: true
+  sort: "date"
+  type: grid
+  date-format: " "	
+---

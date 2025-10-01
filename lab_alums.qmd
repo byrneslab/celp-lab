@@ -1,0 +1,15 @@
+---
+title: "Past Lab Members"
+listing:
+  categories: true
+  sort: "date"
+  type: grid
+  date-format: " "	
+  contents:
+    - lab_alums
+    - path: 'https://soils.ifas.ufl.edu/people/faculty/marc-j-s-hensel/'
+      image: 'https://soils.ifas.ufl.edu/media/soilsifasufledu/sws-main-site/images/faculty/MHensel-280x300.jpg'
+      title: "Marc Hensel"
+      date: "2013-09-01"
+      categories: [PhD Student]
+---

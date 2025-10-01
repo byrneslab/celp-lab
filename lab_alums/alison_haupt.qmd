@@ -1,0 +1,10 @@
+---
+title: "Alison Haupt"
+image: '/images/students/HauptOverTheShoulder.jpg'
+date: "2013-06-01"
+categories:
+    - Postdoc
+include-in-header: 
+      text: |
+        <meta http-equiv="refresh" content="0; url=https://alisonjhaupt.weebly.com/">
+---

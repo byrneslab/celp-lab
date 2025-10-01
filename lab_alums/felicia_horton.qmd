@@ -1,0 +1,11 @@
+---
+title: "Felicia Horton"
+image: '/images/students/felicia_boat.jpg'
+date: "2017-09-03"
+categories:
+    - Undergrad
+    - REU
+include-in-header: 
+      text: |
+        <meta http-equiv="refresh" content="0; url=https://www.linkedin.com/in/felicia-horton-boston/">
+---

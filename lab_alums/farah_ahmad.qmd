@@ -1,0 +1,10 @@
+---
+title: "Farah Ahmad"
+image: '/images/students/farah_ahmad.jpg'
+date: "2018-09-03"
+categories:
+    - Undergrad
+include-in-header: 
+      text: |
+        <meta http-equiv="refresh" content="0; url=https://www.linkedin.com/in/farahshehabahmad/">
+---

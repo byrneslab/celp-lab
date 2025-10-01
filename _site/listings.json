@@ -1,0 +1,56 @@
+[
+  {
+    "listing": "/current_members.html",
+    "items": [
+      "/current_members/jarrett_byrnes.html",
+      "/current_members/sundar_balan.html",
+      "/current_members/breckie_mccollum.html",
+      "/current_members/curtis_morris.html",
+      "/current_members/lexi_wilkes.html",
+      "/current_members/daniel_lopez.html",
+      "/current_members/melba_torres.html",
+      "/current_members/josie_wrinkle.html",
+      "/current_members/sarah_beecy.html",
+      "/current_members/taylor_kielczewski.html",
+      "/current_members/natalie_izbicki.html"
+    ]
+  },
+  {
+    "listing": "/past_members.html",
+    "items": [
+      "/past_members/nelson_nease.html",
+      "/past_members/nour_taibidi.html",
+      "/past_members/sarah_strohacker.html"
+    ]
+  },
+  {
+    "listing": "/lab_alums.html",
+    "items": [
+      "/lab_alums/nelson_nease.html",
+      "/lab_alums/nour_taibidi.html",
+      "/lab_alums/sarah_strohacker.html",
+      "/lab_alums/alison_haupt.html",
+      "/lab_alums/jillian_dunic.html",
+      "/lab_alums/isaac_rosenthal.html",
+      "/lab_alums/chena_farhat.html",
+      "/lab_alums/michael_roy.html",
+      "/lab_alums/brianna_shaughnessy.html",
+      "/lab_alums/felicia_horton.html",
+      "/lab_alums/christian_alsterberg.html",
+      "/lab_alums/richard_wong.html",
+      "/lab_alums/farah_ahmad.html",
+      "/lab_alums/amy_jones.html",
+      "/lab_alums/meredith_mcpherson.html",
+      "/lab_alums/ted_lyman.html",
+      "/lab_alums/tori_silverman.html",
+      "/lab_alums/linnea_sturdy.html",
+      "/lab_alums/libby_menders.html",
+      "/lab_alums/matt_souza.html",
+      "/lab_alums/wendi_white.html",
+      "/lab_alums/yichi_zhang.html",
+      "/lab_alums/lucy_lockwood.html",
+      "/lab_alums/rose_serra.html",
+      "/lab_alums/sofia_roitman.html"
+    ]
+  }
+]

@@ -1,0 +1,10 @@
+---
+title: "Meredith McPherson"
+image: '/images/students/'
+date: "2022-04-03"
+categories:
+    - Postdoc
+include-in-header: 
+      text: |
+        <meta http-equiv="refresh" content="0; url=https://www.linkedin.com/in/meredith-mcpherson-6717774b/">
+---

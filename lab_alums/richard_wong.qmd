@@ -1,0 +1,11 @@
+---
+title: "Richard Wong"
+image: '/images/students/richard_wong.jpg'
+date: "2018-09-01"
+categories:
+    - Undergrad
+    - REU
+include-in-header: 
+      text: |
+        <meta http-equiv="refresh" content="0; url=https://nicholas.duke.edu/people/students/wong">
+---

@@ -1,0 +1,21 @@
+---
+title: "Publications"
+bibliography: publications.bib
+link-citations: true
+nocite: |
+  @*
+csl: cv.csl
+---
+```{r}
+#| warning: false
+#| message: false
+#| echo: false
+#
+library(bibtex)
+refs <- read.bib(file = "publications.bib",
+  package = "bibtex",
+  encoding = "unknown"
+)
+```
+
+Below are the `r length(refs)` publications from Jarrett Byrnes, PI of the CELP lab.

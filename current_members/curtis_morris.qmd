@@ -1,0 +1,7 @@
+---
+title: "Curtis Morris"
+date: "2020-01-01"
+date-format: " "
+categories:
+  - PhD Student
+---

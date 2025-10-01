@@ -1,0 +1,10 @@
+---
+title: ""
+image: ''
+date: ""
+categories:
+    - Undergrad
+include-in-header: 
+      text: |
+        <meta http-equiv="refresh" content="0; url=https://www.linkedin.com/in/nelsonnease/">
+---

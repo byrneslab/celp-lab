@@ -1,0 +1,7 @@
+---
+title: "Natalie Izbicki"
+date: "2025-01-01"
+date-format: " "
+categories:
+  - Undergrad
+---

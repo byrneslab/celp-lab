@@ -1,0 +1,10 @@
+---
+title: "Nour Tabidi"
+image: '/images/students/nour_small.jpg'
+date: "2013-03-20"
+categories:
+    - Undergrad
+include-in-header: 
+      text: |
+        <meta http-equiv="refresh" content="0; url=https://www.linkedin.com/in/nour-tabidi-205463235/">
+---

@@ -1,0 +1,10 @@
+---
+title: "Chéna Farhat"
+image: '/images/students/Chena-Farhat.jpg'
+date: "2015-09-03"
+categories:
+    - Undergrad
+include-in-header: 
+      text: |
+        <meta http-equiv="refresh" content="0; url=https://www.linkedin.com/in/chenafarhat/">
+---

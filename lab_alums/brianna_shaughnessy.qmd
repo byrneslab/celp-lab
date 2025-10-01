@@ -1,0 +1,10 @@
+---
+title: "Brianna Shaughnessy"
+image: '/images/students/brianna_shaughnessy.jpg'
+date: "2015-09-03"
+categories:
+    - PhD Student
+include-in-header: 
+      text: |
+        <meta http-equiv="refresh" content="0; url=https://orcid.org/0000-0003-3948-6565">
+---

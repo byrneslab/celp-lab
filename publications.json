@@ -1,0 +1,4612 @@
+[
+	{
+		"id": "http://zotero.org/users/1810851/items/MK5WRLDD",
+		"type": "article-journal",
+		"abstract": "Predators are often the most vulnerable group to extinction, yet the consequences of changing predator diversity are poorly understood. One source of confusion has been different experimental designs. The multiple-predator effects literature typically employs an additive design, while the biodiversity ecosystem function literature typically uses a replacement design. Separately, these designs each detect only a subset of the changes in food web interactions caused by predator loss. Here, we measure the impact of consumer diversity on sessile marine invertebrates using a combination additive-replacement design. We couple this with a meta-analysis of previous combination experiments. We use these two approaches to explore how each design can detect different types of interactions among predators. We find that, while high diversity does lead to more negative interspecific interactions, the strength of these interactions is often weaker than negative intraspecific interactions caused by increasing the density of a single species alone. We conclude that a hybrid design is the optimal method to explore the mechanisms behind the effects of changing predator diversity. If researchers merely want to know the consequences of changing predator diversity, at a bare minimum, the experimental design must mimic the actual changes in both predator density and diversity in their system of interest. However, only a hybrid design can distinguish the consequences of shifting the balance of interspecific and intraspecific interactions within a community, an issue of great importance when considering both natural diversity loss and pest biocontrol.",
+		"container-title": "Ecology",
+		"DOI": "10.1890/08-1073.1",
+		"issue": "10",
+		"journalAbbreviation": "Ecology",
+		"license": "All rights reserved",
+		"page": "2879-2888",
+		"title": "The consequences of consumer diversity loss: different answers from different experimental designs.",
+		"URL": "http://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&id=19886496&retmode=ref&cmd=prlinks",
+		"volume": "90",
+		"author": [
+			{
+				"family": "Byrnes",
+				"given": "Jarrett E"
+			},
+			{
+				"family": "Stachowicz",
+				"given": "John J"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2009"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1810851/items/B8W773V9",
+		"type": "article-journal",
+		"abstract": "The biodiversity of ecosystems worldwide is changing because of species loss due to human-caused extinctions and species gain through intentional and accidental introductions. Here we show that the combined effect of these two processes is altering the trophic structure of food webs in coastal marine systems. This is because most extinctions ( approximately 70%) occur at high trophic levels (top predators and other carnivores), while most invasions are by species from lower trophic levels (70% macroplanktivores, deposit feeders, and detritivores). These opposing changes thus alter the shape of marine food webs from a trophic pyramid capped by a diverse array of predators and consumers to a shorter, squatter configuration dominated by filter feeders and scavengers. The consequences of the simultaneous loss of diversity at top trophic levels and gain at lower trophic levels is largely unknown. However, current research suggests that a better understanding of how such simultaneous changes in diversity can impact ecosystem function will be required to manage coastal ecosystems and forecast future changes.",
+		"container-title": "PloS one",
+		"DOI": "10.1371/journal.pone.0000295",
+		"issue": "3",
+		"journalAbbreviation": "PLoS ONE",
+		"license": "All rights reserved",
+		"page": "e295",
+		"title": "Invasions and extinctions reshape coastal marine food webs.",
+		"URL": "http://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&id=17356703&retmode=ref&cmd=prlinks",
+		"volume": "2",
+		"author": [
+			{
+				"family": "Byrnes",
+				"given": "Jarrett E"
+			},
+			{
+				"family": "Reynolds",
+				"given": "Pamela L"
+			},
+			{
+				"family": "Stachowicz",
+				"given": "John J"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2007"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1810851/items/WRCXV5P2",
+		"type": "article-journal",
+		"abstract": "Didemnum sp. A is a colonial ascidian with rapidly expanding populations on the east and west coasts of North America. The origin of Didemum sp. A is unknown. Populations were first observed on the northeast coast of the U.S. in the late 1980s and on the west coast during the 1990s. It is currently undergoing a massive population explosion and is now a dominant member of many subtidal communities on both coasts. To determine Didemnum sp. A's current distribution, we conducted surveys from Maine to Virginia on the east coast and from British Columbia to southern California on the west coast of the U.S. between 1998 and 2005. In nearshore locations Didemnum sp. A currently ranges from Eastport, Maine to Shinnecock Bay, New York on the east coast. On the west coast it has been recorded from Humboldt Bay to Port San Luis in California, several sites in Puget Sound, Washington, including a heavily fouled mussel culture facility, and several sites in southwestern British Columbia on and adjacent to oyster and mussel farms. The species also occurs at deeper subtidal sites (up to 81 m) off New England, including Georges, Stellwagen and Tillies Banks. On Georges Bank numerous sites within a 230 km2 area are 50-90% covered by Didemnum sp. A; large colonies cement the pebble gravel into nearly solid mats that may smother infaunal organisms. These observations suggest that Didemnum sp. A has the potential to alter marine communities and affect economically important activities such as fishing and aquaculture.",
+		"container-title": "Journal of Experimental Marine Biology and Ecology",
+		"DOI": "10.1016/j.jembe.2006.10.020",
+		"issue": "1",
+		"journalAbbreviation": "J. Exp. Mar. Biol. Ecol.",
+		"license": "All rights reserved",
+		"page": "99-108",
+		"title": "The colonial ascidian <i>Didemnum sp. A:</i> Current distribution, basic biology and potential threat to marine communities of the northeast and west coasts of North America",
+		"URL": "http://www.sciencedirect.com/science/article/B6T8F-4M6RXM7-6/2/2a7e4301b84a84a2422d59b874d56756",
+		"volume": "342",
+		"author": [
+			{
+				"family": "Bullard",
+				"given": "S. G."
+			},
+			{
+				"family": "Lambert",
+				"given": "G."
+			},
+			{
+				"family": "Carman",
+				"given": "M. R."
+			},
+			{
+				"family": "Byrnes",
+				"given": "J."
+			},
+			{
+				"family": "Whitlatch",
+				"given": "R. B."
+			},
+			{
+				"family": "Ruiz",
+				"given": "G."
+			},
+			{
+				"family": "Miller",
+				"given": "R. J."
+			},
+			{
+				"family": "Harris",
+				"given": "L."
+			},
+			{
+				"family": "Valentine",
+				"given": "P. C."
+			},
+			{
+				"family": "Collie",
+				"given": "J. S."
+			},
+			{
+				"family": "Pederson",
+				"given": "J."
+			},
+			{
+				"family": "McNaught",
+				"given": "D. C."
+			},
+			{
+				"family": "Cohen",
+				"given": "A.N."
+			},
+			{
+				"family": "Asch",
+				"given": "R. G."
+			},
+			{
+				"family": "Dijkstra",
+				"given": "J."
+			},
+			{
+				"family": "Heinonen",
+				"given": "K."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2007"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1810851/items/Y28DDVXN",
+		"type": "article-journal",
+		"abstract": "Climate models predict a dramatic increase in the annual frequency and severity of extreme weather events during the next century. Here we show that increases in the annual frequency of severe storms lead to a decrease in the diversity and complexity of food webs of giant kelp forests, one of the most productive habitats on Earth. We demonstrate this by linking natural variation in storms with measured changes in kelp forest food web structure in the Santa Barbara Channel using structural equation modeling (SEM). We then match predictions from statistical models to results from a multiyear kelp removal experiment designed to simulate frequent large storms. Both SEM models and experiments agree: if large storms remain at their current annual frequency (roughly one major kelp-removing storm every 3.5 years), periodic storms help maintain the complexity of kelp forest food webs. However, if large storms increase in annual frequency and begin to occur year after year, kelp forest food webs become less diverse and complex as species go locally extinct. The loss of complexity occurs primarily due to decreases in the diversity and complexity of higher trophic levels. Our findings demonstrate that shifts in climate-driven disturbances that affect foundation species are likely to have impacts that cascade through entire ecosystems.",
+		"container-title": "Global Change Biology",
+		"DOI": "10.1111/j.1365-2486.2011.02409.x",
+		"journalAbbreviation": "Glob Change Biol",
+		"license": "All rights reserved",
+		"page": "2513-2524",
+		"title": "Climate driven increases in storm frequency simplify kelp forest food webs",
+		"URL": "http://dx.doi.org/10.1111/j.1365-2486.2011.02409.x",
+		"volume": "17",
+		"author": [
+			{
+				"family": "Byrnes",
+				"given": "J. E."
+			},
+			{
+				"family": "Reed",
+				"given": "D. C."
+			},
+			{
+				"family": "Cardinale",
+				"given": "B. J."
+			},
+			{
+				"family": "Cavanaugh",
+				"given": "K. C."
+			},
+			{
+				"family": "Holbrook",
+				"given": "S. J."
+			},
+			{
+				"family": "Schmitt",
+				"given": "R. J."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1810851/items/BNQH7BUL",
+		"type": "article-journal",
+		"container-title": "Methods in Ecology and Evolution",
+		"DOI": "10.1111/2041-210X.12143",
+		"issue": "2",
+		"journalAbbreviation": "Methods in Ecology and Evolution",
+		"license": "All rights reserved",
+		"page": "111-124",
+		"title": "Investigating the relationship between biodiversity and ecosystem multifunctionality: challenges and solutions",
+		"URL": "http://dx.doi.org/10.1111/2041-210X.12143",
+		"volume": "5",
+		"author": [
+			{
+				"family": "Byrnes",
+				"given": "Jarrett E K"
+			},
+			{
+				"family": "Gamfeldt",
+				"given": "Lars"
+			},
+			{
+				"family": "Isbell",
+				"given": "Forest"
+			},
+			{
+				"family": "Lefcheck",
+				"given": "Jonathan S"
+			},
+			{
+				"family": "Griffin",
+				"given": "John N."
+			},
+			{
+				"family": "Hector",
+				"given": "Andy"
+			},
+			{
+				"family": "Cardinale",
+				"given": "Bradley J"
+			},
+			{
+				"family": "Hooper",
+				"given": "David U"
+			},
+			{
+				"family": "Dee",
+				"given": "Laura E"
+			},
+			{
+				"family": "Emmett Duffy",
+				"given": "J."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1810851/items/LIV8ANTC",
+		"type": "article-journal",
+		"container-title": "PloS one",
+		"DOI": "10.1371/journal.pone.0110329",
+		"issue": "12",
+		"journalAbbreviation": "PLoS ONE",
+		"license": "All rights reserved",
+		"page": "e110329",
+		"title": "To Crowdfund Research, Scientists Must Build an Audience for Their Work",
+		"URL": "http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0110329",
+		"volume": "9",
+		"author": [
+			{
+				"family": "Byrnes",
+				"given": "Jarrett E K"
+			},
+			{
+				"family": "Ranganathan",
+				"given": "Jai"
+			},
+			{
+				"family": "Walker",
+				"given": "Barbara L E"
+			},
+			{
+				"family": "Faulkes",
+				"given": "Zen"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1810851/items/4WZGYCCE",
+		"type": "article-journal",
+		"abstract": "Manipulative field experiments provide a window into the complexity of nature. Yet there is concern that we lack resolution by conducting experiments on a scale that is too small and short to include the relevant complexity of the study system. We addressed this issue by asking how and why the scale (local and global spatial extent, spatial grain, duration) and complexity (number of species, factors, treatment combinations) of experiments performed on marine hard substrata (rocky intertidal, RI; coral reef, CR; rocky subtidal, RS; mangrove root, MR) has changed by assessing 311 total experiments published since 1961 in Ecology and Ecological Monographs and since 1967 in Journal of Experimental Marine Biology and Ecology. We show that the local spatial extent and all metrics of complexity increased as a positive, log-linear function of time. In contrast, the size of experimental units (spatial grain) decreased with time. Quantile regression analysis revealed that these trends are largely driven by changes in the upper bounds of experimental scale and complexity; most studies are still relatively simple in design and conducted over small areas. A structural equation model (SEM) incorporated the direct and indirect effects of six metrics indicating that the complexity of field experiments has increased both as a direct effect of time and because experiments have become smaller in spatial grain. The SEM also showed longer experiments tended to be more complex. We show striking habitat differences, as subtidal experiments (CR, RS) involved more species and were carried out on the largest global spatial scales. RI experiments were the longest. Future prospects to incorporate more of the complexity of nature into field experiments include site replication, as only 34.7% of all experiments were conducted at more than one site, open experimental designs monitored by technology, and integrating experimental manipulations with long-term monitoring to achieve mechanistic insight across scales relevant to human alteration of the biosphere. The increasing resolution of remote sensing also creates opportunities to track experiment-driven changes in community structure across large scales. We suggest applying these methods to a wider class of problems to enhance our understanding of marine communities and ecosystems.",
+		"container-title": "Ecological Monographs",
+		"DOI": "10.1890/14-2265.1",
+		"issue": "4",
+		"journalAbbreviation": "Ecol. Monogr.",
+		"license": "All rights reserved",
+		"page": "475-504",
+		"title": "Towards an integration of scale and complexity in marine ecology",
+		"URL": "http://dx.doi.org/10.1890/14-2265.1",
+		"volume": "85",
+		"author": [
+			{
+				"family": "Witman",
+				"given": "Jon D"
+			},
+			{
+				"family": "Lamb",
+				"given": "Robert W"
+			},
+			{
+				"family": "Byrnes",
+				"given": "Jarrett E K"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1810851/items/N5KNRELV",
+		"type": "article-journal",
+		"abstract": "Kelp forests (Order Laminariales) form key biogenic habitats in coastal regions of temperate and Arctic seas worldwide, providing ecosystem services valued in the range of billions of dollars annually. Although local evidence suggests that kelp forests are increasingly threatened by a variety of stressors, no comprehensive global analysis of change in kelp abundances currently exists. Here, we build and analyze a global database of kelp time series spanning the past half-century to assess regional and global trends in kelp abundances. We detected a high degree of geographic variation in trends, with regional variability in the direction and magnitude of change far exceeding a small global average decline (instantaneous rate of change = −0.018 y−1). Our analysis identified declines in 38% of ecoregions for which there are data (−0.015 to −0.18 y−1), increases in 27% of ecoregions (0.015 to 0.11 y−1), and no detectable change in 35% of ecoregions. These spatially variable trajectories reflected regional differences in the drivers of change, uncertainty in some regions owing to poor spatial and temporal data coverage, and the dynamic nature of kelp populations. We conclude that although global drivers could be affecting kelp forests at multiple scales, local stressors and regional variation in the effects of these drivers dominate kelp dynamics, in contrast to many other marine and terrestrial foundation species.",
+		"container-title": "Proceedings of the National Academy of Sciences",
+		"DOI": "10.1073/pnas.1606102113",
+		"issue": "48",
+		"journalAbbreviation": "Proc. Natl. Acad. Sci. U.S.A.",
+		"license": "All rights reserved",
+		"page": "13785-13790",
+		"title": "Global patterns of kelp forest change over the past half-century",
+		"URL": "http://www.pnas.org/content/early/2016/11/09/1606102113.abstract",
+		"volume": "113",
+		"author": [
+			{
+				"family": "Krumhansl",
+				"given": "Kira A"
+			},
+			{
+				"family": "Okamoto",
+				"given": "Daniel K"
+			},
+			{
+				"family": "Rassweiler",
+				"given": "Andrew"
+			},
+			{
+				"family": "Novak",
+				"given": "Mark"
+			},
+			{
+				"family": "Bolton",
+				"given": "John J"
+			},
+			{
+				"family": "Cavanaugh",
+				"given": "Kyle C"
+			},
+			{
+				"family": "Connell",
+				"given": "Sean D."
+			},
+			{
+				"family": "Johnson",
+				"given": "Craig R."
+			},
+			{
+				"family": "Konar",
+				"given": "Brenda"
+			},
+			{
+				"family": "Ling",
+				"given": "Scott D"
+			},
+			{
+				"family": "Micheli",
+				"given": "Fiorenza"
+			},
+			{
+				"family": "Norderhaug",
+				"given": "Kjell M"
+			},
+			{
+				"family": "Pérez-Matus",
+				"given": "Alejandro"
+			},
+			{
+				"family": "Sousa-Pinto",
+				"given": "Isabel"
+			},
+			{
+				"family": "Reed",
+				"given": "Daniel C."
+			},
+			{
+				"family": "Salomon",
+				"given": "Anne K."
+			},
+			{
+				"family": "Shears",
+				"given": "Nick T."
+			},
+			{
+				"family": "Wernberg",
+				"given": "Thomas"
+			},
+			{
+				"family": "Anderson",
+				"given": "Robert J"
+			},
+			{
+				"family": "Barrett",
+				"given": "Nevell S"
+			},
+			{
+				"family": "Buschmann",
+				"given": "Alejandro H"
+			},
+			{
+				"family": "Carr",
+				"given": "Mark H."
+			},
+			{
+				"family": "Caselle",
+				"given": "Jennifer E."
+			},
+			{
+				"family": "Derrien-Courtel",
+				"given": "Sandrine"
+			},
+			{
+				"family": "Edgar",
+				"given": "Graham J"
+			},
+			{
+				"family": "Edwards",
+				"given": "Matt"
+			},
+			{
+				"family": "Estes",
+				"given": "James A."
+			},
+			{
+				"family": "Goodwin",
+				"given": "Claire"
+			},
+			{
+				"family": "Kenner",
+				"given": "Michael C"
+			},
+			{
+				"family": "Kushner",
+				"given": "David. J."
+			},
+			{
+				"family": "Moy",
+				"given": "Frithjof E"
+			},
+			{
+				"family": "Nunn",
+				"given": "Julia"
+			},
+			{
+				"family": "Steneck",
+				"given": "Robert S"
+			},
+			{
+				"family": "Vásquez",
+				"given": "Julio"
+			},
+			{
+				"family": "Watson",
+				"given": "Jane"
+			},
+			{
+				"family": "Witman",
+				"given": "Jon D"
+			},
+			{
+				"family": "Byrnes",
+				"given": "Jarrett E K"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1810851/items/UPIN9IJ9",
+		"type": "article-journal",
+		"abstract": "Species diversity affects the functioning of ecosystems, including the efficiency by which communities capture limited resources, produce biomass, recycle and retain biologically essential nutrients. These ecological functions ultimately support the ecosystem services upon which humanity depends. Despite hundreds of experimental tests of the effect of biodiversity on ecosystem function (BEF), it remains unclear whether diversity effects are sufficiently general that we can use a single relationship to quantitatively predict how changes in species richness alter an ecosystem function across trophic levels, ecosystems and ecological conditions. Our objective here is to determine whether a general relationship exists between biodiversity and standing biomass. We used hierarchical mixed effects models, based on a power function between species richness and biomass production (Y = a × Sb), and a database of 374 published experiments to estimate the BEF relationship (the change in biomass with the addition of species), and its associated uncertainty, in the context of environmental factors. We found that the mean relationship (b = 0.26, 95% CI: 0.16, 0.37) characterized the vast majority of observations, was robust to differences in experimental design, and was independent of the range of species richness levels considered. However, the richness–biomass relationship varied by trophic level and among ecosystems; in aquatic systems b was nearly twice as large for consumers (herbivores and detritivores) compared to primary producers; in terrestrial ecosystems, b for detritivores was negative but depended on few studies. We estimated changes in biomass expected for a range of changes in species richness, highlighting that species loss has greater implications than species gains, skewing a distribution of biomass change relative to observed species richness change. When biomass provides a good proxy for processes that underpin ecosystem services, this relationship could be used as a step in modeling the production of ecosystem services and their dependence on biodiversity.",
+		"container-title": "Oikos",
+		"DOI": "10.1111/oik.03652",
+		"issue": "1",
+		"journalAbbreviation": "Oikos",
+		"license": "All rights reserved",
+		"page": "n-a-n-a",
+		"title": "A general biodiversity-function relationship is mediated by trophic level",
+		"URL": "http://doi.wiley.com/10.1111/oik.03652",
+		"volume": "126",
+		"author": [
+			{
+				"family": "O'Connor",
+				"given": "Mary I"
+			},
+			{
+				"family": "Gonzalez",
+				"given": "Andrew"
+			},
+			{
+				"family": "Byrnes",
+				"given": "Jarrett E K"
+			},
+			{
+				"family": "Cardinale",
+				"given": "Bradley J"
+			},
+			{
+				"family": "Duffy",
+				"given": "J. Emmett"
+			},
+			{
+				"family": "Gamfeldt",
+				"given": "Lars"
+			},
+			{
+				"family": "Griffin",
+				"given": "John N."
+			},
+			{
+				"family": "Hooper",
+				"given": "David"
+			},
+			{
+				"family": "Hungate",
+				"given": "Bruce A"
+			},
+			{
+				"family": "Paquette",
+				"given": "Alain"
+			},
+			{
+				"family": "Thompson",
+				"given": "Patrick L"
+			},
+			{
+				"family": "Dee",
+				"given": "Laura E"
+			},
+			{
+				"family": "Dolan",
+				"given": "Kristin L"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1810851/items/RJUVAGGJ",
+		"type": "article-journal",
+		"abstract": "Scientists commonly ask questions about the relative importance of processes and then turn to statistical models for answers. Standardized coefficients are typically used in such situations, with the goal being to compare effects on a common scale. Traditional approaches to obtaining standardized coefficients were developed with idealized Gaussian variables in mind. When responses are binary, complications arise that impact standardization methods. In this paper, we review, evaluate, and propose new methods for stan- dardizing coefficients from models that contain binary outcomes. We first consider the interpretability of unstandardized coefficients and then examine two main approaches to standardization. One approach, which we refer to as the latent-theoretical (LT) method, assumes that underlying binary observations, there exists a latent, continuous propensity linearly related to the coefficients. A second approach, which we refer to as the observed-empirical (OE) method, assumes responses are purely discrete and estimates error vari- ance empirically via reference to a classical R2 estimator. We also evaluate the standard formula for calculat- ing standardized coefficients based on standard deviations. Criticisms of this practice have been persistent, leading us to propose an alternative formula that is based on user-defined “relevant ranges.” Finally, we implement all of the above in an open-source package for the statistical software R. Results from simulation studies show that both the LT and OE methods of standardization support a similarly broad range of coeffi- cient comparisons. The LT method estimates effects that reflect underlying latent-linear propensities, while the OE method computes a linear approximation for the effects of predictors on binary responses. The con- trast between assumptions for the two methods is reflected in persistently weaker standardized effects asso- ciated with OE standardization. Reliance on standard deviations for standardization (the traditional approach) is critically examined and shown to introduce substantial biases when predictors are non- Gaussian. The use of relevant ranges in place of standard deviations has the capacity to place LT and OE standardized coefficients on a more comparable scale. As ecologists address increasingly complex hypothe- ses, especially those that comparing the influences of different controlling factors (e.g., top-down vs. bottom- up or biotic vs. abiotic controls), comparable coefficients become necessary for evaluations.",
+		"container-title": "Ecosphere",
+		"DOI": "10.1002/ecs2.2283",
+		"issue": "6",
+		"journalAbbreviation": "Ecosphere",
+		"license": "All rights reserved",
+		"page": "e02283",
+		"title": "Quantifying relative importance: computing standardized effects in models with binary outcomes",
+		"URL": "http://doi.wiley.com/10.1002/ecs2.2283",
+		"volume": "9",
+		"author": [
+			{
+				"family": "Grace",
+				"given": "James B."
+			},
+			{
+				"family": "Johnson",
+				"given": "Darren J"
+			},
+			{
+				"family": "Lefcheck",
+				"given": "Jonathan S"
+			},
+			{
+				"family": "Byrnes",
+				"given": "Jarrett E K"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1810851/items/BD2YLG3Z",
+		"type": "document",
+		"license": "All rights reserved",
+		"publisher": "Kelp Ecosystem Ecology Network",
+		"title": "Kelp forest communities at Appledore Island, the Boston Harbor Islands, and Salem Sound.",
+		"URL": "http://catalogue-temperatereefbase.imas.utas.edu.au/geonetwork/srv/eng/metadata.show?uuid=a869dfaa-59a7-4d2f-aaa6-47c2dae5741a",
+		"author": [
+			{
+				"family": "Byrnes",
+				"given": "Jarrett E K"
+			},
+			{
+				"family": "Haupt",
+				"given": "Alison J"
+			},
+			{
+				"family": "Lyman",
+				"given": "Theodore"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1810851/items/PPD62BR7",
+		"type": "book",
+		"abstract": "\"In 2016 the City of Boston released Climate Ready Boston (Climate Ready Boston, 2016). This major initiative to organize a citywide response to climate change included detailed climate change projections, a vulnerability assessment, and proposals for adapting to climate change. Effective policies can lessen the long-germ threat and ensure that the city, the Greater Boston area and the region are better prepared for the sea level rise (SLR) and extreme weather events we are already beginning to experience.\" -- from introduction",
+		"collection-title": "Preliminary Analysis",
+		"ISBN": "1038019296",
+		"license": "All rights reserved",
+		"number-of-pages": "250",
+		"publisher": "Sustainable Solutions Lab, University of Massachusetts Boston",
+		"title": "Feasibility of Harbor-wide Barrier Systems",
+		"URL": "http://books.google.com/books?id=ndHmtwEACAAJ&dq=intitle:Feasibility+of+Harbor+wide+BarrierSystems&hl=&cd=1&source=gbs_api",
+		"author": [
+			{
+				"family": "Kirshen",
+				"given": "Paul"
+			},
+			{
+				"family": "Thurson",
+				"given": "Kelli"
+			},
+			{
+				"family": "McMann",
+				"given": "Brett"
+			},
+			{
+				"family": "Foster",
+				"given": "Carly"
+			},
+			{
+				"family": "Sprague",
+				"given": "Heather"
+			},
+			{
+				"family": "Roberts",
+				"given": "Hugh"
+			},
+			{
+				"family": "Borelli",
+				"given": "Mark"
+			},
+			{
+				"family": "Byrnes",
+				"given": "Jarrett E K"
+			},
+			{
+				"family": "Chen",
+				"given": "Robert"
+			},
+			{
+				"family": "Lockwood",
+				"given": "Lucy"
+			},
+			{
+				"family": "Watson",
+				"given": "Chris"
+			},
+			{
+				"family": "Starbuck",
+				"given": "Kimberly"
+			},
+			{
+				"family": "Wiggin",
+				"given": "Jack"
+			},
+			{
+				"family": "Novelly",
+				"given": "Allison"
+			},
+			{
+				"family": "Ulterwyk",
+				"given": "Kristin"
+			},
+			{
+				"family": "Bostoma",
+				"given": "Kirk"
+			},
+			{
+				"family": "Holmes",
+				"given": "Eric"
+			},
+			{
+				"family": "Stromer",
+				"given": "Zach"
+			},
+			{
+				"family": "Famely",
+				"given": "Joe"
+			},
+			{
+				"family": "Shaw",
+				"given": "Alex"
+			},
+			{
+				"family": "Hoffnagle",
+				"given": "Brittan"
+			},
+			{
+				"literal": "Di Jin"
+			},
+			{
+				"family": "Herst",
+				"given": "Rebecca"
+			},
+			{
+				"family": "Moothart",
+				"given": "Emily"
+			},
+			{
+				"family": "Humphries",
+				"given": "Courtney"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1810851/items/7JQKUT4T",
+		"type": "article-journal",
+		"abstract": "It is well established that species richness of primary producers and primary consumers can enhance efficiency of resource uptake and biomass production of respective trophic levels. At the level of secondary consumers (predators), however, conclusions about the functional role of biodiversity have been mixed. We take advantage of a recent surge of published experiments (totaling 46 since 2005) to both evaluate general effects of predator richness on aggregate prey suppression (top-down control) and explore sources of variability among experiments. Our results show that, across experiments, predator richness enhances prey suppression relative to the average single predator species (mean richness effect), but not the best-performing species. Mean richness effects in predator experiments were stronger than those for primary producers and detritivores, suggesting that relationships between richness and function may increase with trophic height in food webs. The strength of mean predator richness effects increased with the spatial and temporal scale of experiments, and the taxonomic distinctness (TD, used as a proxy of phylogenetic diversity) of species present. This latter result suggests that TD captures important aspects of functional differentiation among predators and that measures of biodiversity that go beyond species richness may help to better predict the effects of predator species loss.",
+		"container-title": "Ecology",
+		"DOI": "10.1890/13-0179.1",
+		"issue": "10",
+		"journalAbbreviation": "Ecology",
+		"license": "All rights reserved",
+		"page": "2180-2187",
+		"title": "Effects of predator richness on prey suppression: a meta-analysis",
+		"URL": "http://dx.doi.org/10.1890/13-0179.1",
+		"volume": "94",
+		"author": [
+			{
+				"family": "Griffin",
+				"given": "John N."
+			},
+			{
+				"family": "Byrnes",
+				"given": "Jarrett E K"
+			},
+			{
+				"family": "Cardinale",
+				"given": "Bradley J"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1810851/items/5A2GV9JJ",
+		"type": "article-journal",
+		"abstract": "While we frequently observe that increasing species richness within a trophic level can increase the rates of predation or herbivory on lower trophic levels, the general impacts of prey diversity on consumption rates by their predators or herbivores remains unclear. Here we report the results of two field experiments that examined how subcanopy sessile species richness affects rates of consumption by sea urchins. We crossed a natural gradient of species richness in a benthic subtidal community of understory macroalgae and sessile invertebrates against two experimental gradients of urchin density (0–50 and 0–14 individuals) in 0.5-m2 fenced plots. We found that the percent cover of macroalgae and invertebrates consumed by urchins was greater at higher levels of sessile prey species richness. However, this positive association between prey richness and sea urchin consumption was only apparent at low urchin densities; at high urchin densities nearly all algal and invertebrate biomass was consumed irrespectiv...",
+		"container-title": "Ecology",
+		"DOI": "10.1890/11-2310.1",
+		"issue": "7",
+		"journalAbbreviation": "Ecology",
+		"license": "All rights reserved",
+		"page": "1636-1646",
+		"title": "Interactions between sea urchin grazing and prey diversity on temperate rocky reef communities",
+		"URL": "http://www.esajournals.org/doi/abs/10.1890/11-2310.1",
+		"volume": "94",
+		"author": [
+			{
+				"family": "Byrnes",
+				"given": "Jarrett E K"
+			},
+			{
+				"family": "Cardinale",
+				"given": "Bradley J"
+			},
+			{
+				"family": "Reed",
+				"given": "Daniel C."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1810851/items/I2X64QRQ",
+		"type": "article-journal",
+		"abstract": "Understanding when biodiversity conservation and ecosystem-service maintenance are compatible is needed within the Intergovernmental Platform on Biodiversity and Ecosystem Services (IPBES). Here, we evaluate current understanding and uncertainties of the effects of biodiversity change on selected ecosystem services and suggest ways to further understand the links between biodiversity change and ecosystem services. We reviewed experiments, observations, and syntheses on the effects of species richness on six ecosystem services: forage, timber, fisheries, climate regulation, agricultural pest control, and water quality. Establishing a direct link from biodiversity to ecosystem-service provision has often been precluded by limited data (i.e., the amount, consistency, or generality of the data) and a mismatch between the variables measured and the final ecosystem service that is relevant to stakeholders. We suggest that encompassing syntheses and a network of interdisciplinary experiments under realistic conditions could fill these gaps and could inform the outcomes of alternative management and policy scenarios within IPBES.",
+		"container-title": "Bioscience",
+		"issue": "1",
+		"journalAbbreviation": "Bioscience",
+		"license": "All rights reserved",
+		"page": "49-57",
+		"title": "Linking Biodiversity and Ecosystem Services: Current Uncertainties and the Necessary Next Steps",
+		"URL": "http://bioscience.oxfordjournals.org/content/64/1/49.abstract?keytype=ref&ijkey=wxdyBtBIImUmeKu",
+		"volume": "64",
+		"author": [
+			{
+				"family": "Balvanera",
+				"given": "Patricia"
+			},
+			{
+				"family": "Siddique",
+				"given": "Ilyas"
+			},
+			{
+				"family": "Dee",
+				"given": "Laura"
+			},
+			{
+				"family": "Paquette",
+				"given": "Alain"
+			},
+			{
+				"family": "Isbell",
+				"given": "Forest"
+			},
+			{
+				"family": "Gonzalez",
+				"given": "Andrew"
+			},
+			{
+				"family": "Byrnes",
+				"given": "Jarrett"
+			},
+			{
+				"family": "O'Connor",
+				"given": "Mary I"
+			},
+			{
+				"family": "Hungate",
+				"given": "Bruce A"
+			},
+			{
+				"family": "Griffin",
+				"given": "John N."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1810851/items/Y9WDMLVG",
+		"type": "article-journal",
+		"abstract": "Large-scale research endeavors can be hindered by logistical constraints limiting the amount of available data. For example, global ecological questions require a global dataset, and traditional sampling protocols are often too inefficient for a small research team to collect an adequate amount of data. Citizen science offers an alternative by crowdsourcing data collection. Despite growing popularity, the community has been slow to embrace it largely due to concerns about quality of data collected by citizen scientists. Using the citizen science project Floating Forests (http://floatingforests.org), we show that consensus classifications made by citizen scientists produce data that is of comparable quality to expert generated classifications. Floating Forests is a web-based project in which citizen scientists view satellite photographs of coastlines and trace the borders of kelp patches. Since launch in 2014, over 7,000 citizen scientists have classified over 750,000 images of kelp forests largely in California and Tasmania. Images are classified by 15 users. We generated consensus classifications by overlaying all citizen classifications and assessed accuracy by comparing to expert classifications. Matthews correlation coefficient (MCC) was calculated for each threshold (1-15), and the threshold with the highest MCC was considered optimal. We showed that optimal user threshold was 4.2 with an MCC of 0.400 (0.023 SE) for Landsats 5 and 7, and a MCC of 0.639 (0.246 SE) for Landsat 8. These results suggest that citizen science data derived from consensus classifications are of comparable accuracy to expert classifications. Citizen science projects should implement methods such as consensus classification in conjunction with a quantitative comparison to expert generated classifications to avoid concerns about data quality.",
+		"container-title": "arXiv:1801.08522 [physics, q-bio]",
+		"license": "All rights reserved",
+		"note": "arXiv: 1801.08522",
+		"source": "arXiv.org",
+		"title": "Floating Forests: Quantitative Validation of Citizen Science Data Generated From Consensus Classifications",
+		"title-short": "Floating Forests",
+		"URL": "http://arxiv.org/abs/1801.08522",
+		"author": [
+			{
+				"family": "Rosenthal",
+				"given": "Isaac S."
+			},
+			{
+				"family": "Byrnes",
+				"given": "Jarrett E. K."
+			},
+			{
+				"family": "Cavanaugh",
+				"given": "Kyle C."
+			},
+			{
+				"family": "Bell",
+				"given": "Tom W."
+			},
+			{
+				"family": "Harder",
+				"given": "Briana"
+			},
+			{
+				"family": "Haupt",
+				"given": "Alison J."
+			},
+			{
+				"family": "Rassweiler",
+				"given": "Andrew T. W."
+			},
+			{
+				"family": "Pérez-Matus",
+				"given": "Alejandro"
+			},
+			{
+				"family": "Assis",
+				"given": "Jorge"
+			},
+			{
+				"family": "Swanson",
+				"given": "Ali"
+			},
+			{
+				"family": "Boyer",
+				"given": "Amy"
+			},
+			{
+				"family": "McMaster",
+				"given": "Adam"
+			},
+			{
+				"family": "Trouille",
+				"given": "Laura"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					10,
+					25
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					1,
+					25
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1810851/items/KB3JBL43",
+		"type": "article-journal",
+		"abstract": "Humans have elevated global extinction rates and thus lowered global scale species richness. However, there is no a priori reason to expect that losses of global species richness should always, or even often, trickle down to losses of species richness at regional and local scales, even though this relationship is often assumed. Here, we show that scale can modulate our estimates of species richness change through time in the face of anthropogenic pressures, but not in a unidirectional way. Instead, the magnitude of species richness change through time can increase, decrease, reverse, or be unimodal across spatial scales. Using several case studies, we show different forms of scale-dependent richness change through time in the face of anthropogenic pressures. For example, Central American corals show a homogenization pattern, where small scale richness is largely unchanged through time, while larger scale richness change is highly negative. Alternatively, birds in North America showed a differentiation effect, where species richness was again largely unchanged through time at small scales, but was more positive at larger scales. Finally, we collated data from a heterogeneous set of studies of different taxa measured through time from sites ranging from small plots to entire continents, and found highly variable patterns that nevertheless imply complex scale-dependence in several taxa. In summary, understanding how biodiversity is changing in the Anthropocene requires an explicit recognition of the influence of spatial scale, and we conclude with some recommendations for how to better incorporate scale into our estimates of change.",
+		"container-title": "Oikos",
+		"DOI": "https://doi.org/10.1111/oik.05968",
+		"ISSN": "1600-0706",
+		"issue": "8",
+		"language": "en",
+		"license": "All rights reserved",
+		"note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/oik.05968",
+		"page": "1079-1091",
+		"source": "onlinelibrary.wiley.com",
+		"title": "Species richness change across spatial scales",
+		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1111/oik.05968",
+		"volume": "128",
+		"author": [
+			{
+				"family": "Chase",
+				"given": "Jonathan M."
+			},
+			{
+				"family": "McGill",
+				"given": "Brian J."
+			},
+			{
+				"family": "Thompson",
+				"given": "Patrick L."
+			},
+			{
+				"family": "Antão",
+				"given": "Laura H."
+			},
+			{
+				"family": "Bates",
+				"given": "Amanda E."
+			},
+			{
+				"family": "Blowes",
+				"given": "Shane A."
+			},
+			{
+				"family": "Dornelas",
+				"given": "Maria"
+			},
+			{
+				"family": "Gonzalez",
+				"given": "Andrew"
+			},
+			{
+				"family": "Magurran",
+				"given": "Anne E."
+			},
+			{
+				"family": "Supp",
+				"given": "Sarah R."
+			},
+			{
+				"family": "Winter",
+				"given": "Marten"
+			},
+			{
+				"family": "Bjorkman",
+				"given": "Anne D."
+			},
+			{
+				"family": "Bruelheide",
+				"given": "Helge"
+			},
+			{
+				"family": "Byrnes",
+				"given": "Jarrett E. K."
+			},
+			{
+				"family": "Cabral",
+				"given": "Juliano Sarmento"
+			},
+			{
+				"family": "Elahi",
+				"given": "Robin"
+			},
+			{
+				"family": "Gomez",
+				"given": "Catalina"
+			},
+			{
+				"family": "Guzman",
+				"given": "Hector M."
+			},
+			{
+				"family": "Isbell",
+				"given": "Forest"
+			},
+			{
+				"family": "Myers‐Smith",
+				"given": "Isla H."
+			},
+			{
+				"family": "Jones",
+				"given": "Holly P."
+			},
+			{
+				"family": "Hines",
+				"given": "Jes"
+			},
+			{
+				"family": "Vellend",
+				"given": "Mark"
+			},
+			{
+				"family": "Waldock",
+				"given": "Conor"
+			},
+			{
+				"family": "O'Connor",
+				"given": "Mary"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					4,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1810851/items/B46D6JU9",
+		"type": "article-journal",
+		"abstract": "Invasive consumers can cause extensive ecological damage to native communities but effects on ecosystem resilience are less understood. Here, we use drone surveys, manipulative experiments, and mathematical models to show how feral hogs reduce resilience in southeastern US salt marshes by dismantling an essential marsh cordgrass-ribbed mussel mutualism. Mussels usually double plant growth and enhance marsh resilience to extreme drought but, when hogs invade, switch from being essential for plant survival to a liability; hogs selectively forage in mussel-rich areas leading to a 50% reduction in plant biomass and slower post-drought recovery rate. Hogs increase habitat fragmentation across landscapes by maintaining large, disturbed areas through trampling of cordgrass during targeted mussel consumption. Experiments and climate-disturbance recovery models show trampling alone slows marsh recovery by 3x while focused mussel predation creates marshes that may never recover from large-scale disturbances without hog eradication. Our work highlights that an invasive consumer can reshape ecosystems not just via competition and predation, but by disrupting key, positive species interactions that underlie resilience to climatic disturbances.",
+		"container-title": "Nature Communications",
+		"DOI": "10.1038/s41467-021-26504-4",
+		"ISSN": "2041-1723",
+		"issue": "1",
+		"journalAbbreviation": "Nat Commun",
+		"language": "en",
+		"license": "2021 The Author(s)",
+		"note": "Bandiera_abtest: a\nCc_license_type: cc_by\nCg_type: Nature Research Journals\nnumber: 1\nPrimary_atype: Research\npublisher: Nature Publishing Group\nSubject_term: Ecosystem services;Invasive species;Wetlands ecology\nSubject_term_id: ecosystem-services;invasive-species;wetlands-ecology",
+		"page": "6290",
+		"source": "www.nature.com",
+		"title": "A large invasive consumer reduces coastal ecosystem resilience by disabling positive species interactions",
+		"URL": "https://www.nature.com/articles/s41467-021-26504-4",
+		"volume": "12",
+		"author": [
+			{
+				"family": "Hensel",
+				"given": "Marc J. S."
+			},
+			{
+				"family": "Silliman",
+				"given": "Brian R."
+			},
+			{
+				"family": "Koppel",
+				"given": "Johan",
+				"non-dropping-particle": "van de"
+			},
+			{
+				"family": "Hensel",
+				"given": "Enie"
+			},
+			{
+				"family": "Sharp",
+				"given": "Sean J."
+			},
+			{
+				"family": "Crotty",
+				"given": "Sinead M."
+			},
+			{
+				"family": "Byrnes",
+				"given": "Jarrett E. K."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					11,
+					1
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					11,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1810851/items/GBJJPADR",
+		"type": "article-journal",
+		"abstract": "... Journal name: Nature Communications Volume: 6, Article number: 6936 DOI: doi : 10.1038 / ncomms7936 Received 12 November 2014 Accepted 17 March 2015 Published 24 April 2015 ...",
+		"container-title": "Nature",
+		"DOI": "doi:10.1038/ncomms7936",
+		"journalAbbreviation": "Nature",
+		"license": "All rights reserved",
+		"title": "Biodiversity enhances ecosystem multifunctionality across trophic levels and habitats",
+		"URL": "http://www.nature.com/ncomms/2015/150424/ncomms7936/full/ncomms7936.html",
+		"author": [
+			{
+				"family": "Lefcheck",
+				"given": "J S"
+			},
+			{
+				"family": "Byrnes",
+				"given": "JEK"
+			},
+			{
+				"family": "Isbell",
+				"given": "F"
+			},
+			{
+				"family": "Gamfeldt",
+				"given": "L."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1810851/items/LRTQ87T8",
+		"type": "article-journal",
+		"container-title": "PNAS",
+		"DOI": "10.1073/pnas.1419515112",
+		"issue": "51",
+		"journalAbbreviation": "PNAS",
+		"language": "English",
+		"license": "All rights reserved",
+		"note": "PMID: 25480551",
+		"page": "E5490",
+		"title": "Multifunctionality does not imply that all functions are positively correlated.",
+		"URL": "http://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&id=25480551&retmode=ref&cmd=prlinks",
+		"volume": "111",
+		"author": [
+			{
+				"family": "Byrnes",
+				"given": "Jarrett"
+			},
+			{
+				"family": "Lefcheck",
+				"given": "Jonathan S"
+			},
+			{
+				"family": "Gamfeldt",
+				"given": "Lars"
+			},
+			{
+				"family": "Griffin",
+				"given": "John N."
+			},
+			{
+				"family": "Isbell",
+				"given": "Forest"
+			},
+			{
+				"family": "Hector",
+				"given": "Andy"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1810851/items/NRIJYTEA",
+		"type": "article-journal",
+		"container-title": "PNAS",
+		"DOI": "10.1073/pnas.1421203112",
+		"issue": "51",
+		"journalAbbreviation": "PNAS",
+		"language": "English",
+		"license": "All rights reserved",
+		"page": "E5491–E5491",
+		"title": "Reply to Byrnes et al.: Aggregation can obscure understanding of ecosystem multifunctionality",
+		"URL": "http://www.pnas.org/lookup/doi/10.1073/pnas.1421203112",
+		"volume": "111",
+		"author": [
+			{
+				"family": "Bradford",
+				"given": "Mark A."
+			},
+			{
+				"family": "Wood",
+				"given": "Stephen A"
+			},
+			{
+				"family": "Bardgett",
+				"given": "Richard D"
+			},
+			{
+				"family": "Black",
+				"given": "Helaina I J"
+			},
+			{
+				"family": "Bonkowski",
+				"given": "Michael"
+			},
+			{
+				"family": "Eggers",
+				"given": "Till"
+			},
+			{
+				"family": "Grayston",
+				"given": "Susan J"
+			},
+			{
+				"family": "Kandeler",
+				"given": "Ellen"
+			},
+			{
+				"family": "Manning",
+				"given": "Peter"
+			},
+			{
+				"family": "Setälä",
+				"given": "Heikki"
+			},
+			{
+				"family": "Jones",
+				"given": "T Hefin"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1810851/items/B6MCHFWD",
+		"type": "article-journal",
+		"abstract": "Biodiversity is undergoing rapid change driven by climate change and other human influences. Blowes et al. analyze the global patterns in temporal change in biodiversity using a large quantity of time-series data from different regions (see the Perspective by Eriksson and Hillebrand). Their findings reveal clear spatial patterns in richness and composition change, where marine taxa exhibit the highest rates of change. The marine tropics, in particular, emerge as hotspots of species richness losses. Given that human activities are affecting biodiversity in magnitudes and directions that differ across the planet, these findings will provide a much needed biogeographic understanding of biodiversity change that can help inform conservation prioritization.Science, this issue p. 339; see also p. 308Human activities are fundamentally altering biodiversity. Projections of declines at the global scale are contrasted by highly variable trends at local scales, suggesting that biodiversity change may be spatially structured. Here, we examined spatial variation in species richness and composition change using more than 50,000 biodiversity time series from 239 studies and found clear geographic variation in biodiversity change. Rapid compositional change is prevalent, with marine biomes exceeding and terrestrial biomes trailing the overall trend. Assemblage richness is not changing on average, although locations exhibiting increasing and decreasing trends of up to about 20% per year were found in some marine studies. At local scales, widespread compositional reorganization is most often decoupled from richness change, and biodiversity change is strongest and most variable in the oceans.",
+		"container-title": "Science",
+		"DOI": "10.1126/science.aaw1620",
+		"issue": "6463",
+		"journalAbbreviation": "Science",
+		"license": "All rights reserved",
+		"note": "publisher: American Association for the Advancement of Science",
+		"page": "339-345",
+		"source": "science.org (Atypon)",
+		"title": "The geography of biodiversity change in marine and terrestrial assemblages",
+		"URL": "http://science.sciencemag.org/content/366/6463/339.abstract",
+		"volume": "366",
+		"author": [
+			{
+				"family": "Blowes",
+				"given": "Shane A."
+			},
+			{
+				"family": "Supp",
+				"given": "Sarah R."
+			},
+			{
+				"family": "Antão",
+				"given": "Laura H."
+			},
+			{
+				"family": "Bates",
+				"given": "Amanda"
+			},
+			{
+				"family": "Bruelheide",
+				"given": "Helge"
+			},
+			{
+				"family": "Chase",
+				"given": "Jonathan M."
+			},
+			{
+				"family": "Moyes",
+				"given": "Faye"
+			},
+			{
+				"family": "Magurran",
+				"given": "Anne"
+			},
+			{
+				"family": "McGill",
+				"given": "Brian"
+			},
+			{
+				"family": "Myers-Smith",
+				"given": "Isla H."
+			},
+			{
+				"family": "Winter",
+				"given": "Marten"
+			},
+			{
+				"family": "Bjorkman",
+				"given": "Anne D."
+			},
+			{
+				"family": "Bowler",
+				"given": "Diana E."
+			},
+			{
+				"family": "Byrnes",
+				"given": "Jarrett E. K."
+			},
+			{
+				"family": "Gonzalez",
+				"given": "Andrew"
+			},
+			{
+				"family": "Hines",
+				"given": "Jes"
+			},
+			{
+				"family": "Isbell",
+				"given": "Forest"
+			},
+			{
+				"family": "Jones",
+				"given": "Holly P."
+			},
+			{
+				"family": "Navarro",
+				"given": "Laetitia M."
+			},
+			{
+				"family": "Thompson",
+				"given": "Patrick L."
+			},
+			{
+				"family": "Vellend",
+				"given": "Mark"
+			},
+			{
+				"family": "Waldock",
+				"given": "Conor"
+			},
+			{
+				"family": "Dornelas",
+				"given": "Maria"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					3,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					10,
+					18
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1810851/items/XB9B8WMX",
+		"type": "article-journal",
+		"abstract": "Although human-mediated extinctions disproportionately affect higher trophic levels, the ecosystem consequences of declining diversity are best known for plants and herbivores. We combined field surveys and experimental manipulations to examine the consequences of changing predator diversity for trophic cascades in kelp forests. In field surveys we found that predator diversity was negatively correlated with herbivore abundance and positively correlated with kelp abundance. To assess whether this relationship was causal, we manipulated predator richness in kelp mesocosms, and found that decreasing predator richness increased herbivore grazing, leading to a decrease in the biomass of the giant kelp Macrocystis. The presence of different predators caused different herbivores to alter their behaviour by reducing grazing, such that total grazing was lowest at highest predator diversity. Our results suggest that declining predator diversity can have cascading effects on community structure by reducing the abundance of key habitat-providing species.",
+		"container-title": "Ecology letters",
+		"DOI": "10.1111/j.1461-0248.2005.00842.x",
+		"issue": "1",
+		"journalAbbreviation": "Ecol. Lett.",
+		"license": "All rights reserved",
+		"page": "61-71",
+		"title": "Predator diversity strengthens trophic cascades in kelp forests by modifying herbivore behaviour.",
+		"URL": "http://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&id=16958869&retmode=ref&cmd=prlinks",
+		"volume": "9",
+		"author": [
+			{
+				"family": "Byrnes",
+				"given": "Jarrett"
+			},
+			{
+				"family": "Stachowicz",
+				"given": "John J"
+			},
+			{
+				"family": "Hultgren",
+				"given": "Kristin M"
+			},
+			{
+				"family": "Randall Hughes",
+				"given": "A"
+			},
+			{
+				"family": "Olyarnik",
+				"given": "Suzanne V"
+			},
+			{
+				"family": "Thornber",
+				"given": "Carol S"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2006"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1810851/items/CUGEUPKA",
+		"type": "article-journal",
+		"abstract": "Over the past several decades, a rapidly expanding field of research known as biodiversity and ecosystem functioning has begun to quantify how the world's biological diversity can, as an independent variable, control ecological processes that are both essential for, and fundamental to, the functioning of ecosystems. Research in this area has often been justified on grounds that (1) loss of biological diversity ranks among the most pronounced changes to the global environment and that (2) reductions in diversity, and corresponding changes in species composition, could alter important services that ecosystems provide to humanity (e.g., food production, pest/disease control, water purification). Here we review over two decades of experiments that have examined how species richness of primary producers influences the suite of ecological processes that are controlled by plants and algae in terrestrial, marine, and freshwater ecosystems. Using formal meta-analyses, we assess the balance of evidence for eight fundamental questions and corresponding hypotheses about the functional role of producer diversity in ecosystems. These include questions about how primary producer diversity influences the efficiency of resource use and biomass production in ecosystems, how primary producer diversity influences the transfer and recycling of biomass to other trophic groups in a food web, and the number of species and spatial /temporal scales at which diversity effects are most apparent. After summarizing the balance of evidence and stating our own confidence in the conclusions, we outline several new questions that must now be addressed if this field is going to evolve into a predictive science that can help conserve and manage ecological processes in ecosystems.",
+		"container-title": "American journal of botany",
+		"DOI": "10.3732/ajb.1000364",
+		"issue": "3",
+		"journalAbbreviation": "Am. J. Bot.",
+		"license": "All rights reserved",
+		"page": "572-592",
+		"title": "The functional role of producer diversity in ecosystems.",
+		"URL": "http://www.amjbot.org/cgi/doi/10.3732/ajb.1000364",
+		"volume": "98",
+		"author": [
+			{
+				"family": "Cardinale",
+				"given": "Bradley J"
+			},
+			{
+				"family": "Matulich",
+				"given": "Kristin L"
+			},
+			{
+				"family": "Hooper",
+				"given": "David U"
+			},
+			{
+				"family": "Byrnes",
+				"given": "Jarrett E"
+			},
+			{
+				"family": "Duffy",
+				"given": "Emmett"
+			},
+			{
+				"family": "Gamfeldt",
+				"given": "Lars"
+			},
+			{
+				"family": "Balvanera",
+				"given": "Patricia"
+			},
+			{
+				"family": "O'Connor",
+				"given": "Mary I"
+			},
+			{
+				"family": "Gonzalez",
+				"given": "Andrew"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1810851/items/T4FWTQSR",
+		"type": "article-journal",
+		"abstract": "Two major foci of ecological research involve reciprocal views of the relationship between biodiversity and disturbance: disturbance determines community diversity or diversity determines realized disturbance severity. Here, we present an initial attempt to synthesize these two approaches in order to understand whether feedbacks occur, and what their effects on patterns of diversity might be. Our review of published experiments shows that (i) disturbance severity can be both a cause and a consequence of local diversity in a wide range of ecosystems and (ii) shapes of the unidirectional relationships between diversity and disturbance can be quite variable. To explore how feedbacks between diversity and disturbance might operate to alter expected patterns of diversity in nature, we develop and then evaluate a conceptual model that decomposes the relationships into component parts, considering sequentially the effect of diversity on disturbance severity, and the effect of realized disturbance on diversity loss, subsequent recruitment, and competitive exclusion. Our model suggests that feedbacks can increase mean values of richness, decrease variability, and alter the patterns of correlation between diversity and disturbance in nature. We close by offering ideas for future research to help fill gaps in our understanding of reciprocal relationships among ecological variables like diversity and disturbance.",
+		"container-title": "Ecology letters",
+		"DOI": "10.1111/j.1461-0248.2007.01075.x",
+		"issue": "9",
+		"journalAbbreviation": "Ecol. Lett.",
+		"license": "All rights reserved",
+		"page": "849-864",
+		"title": "Reciprocal relationships and potential feedbacks between biodiversity and disturbance.",
+		"URL": "http://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&id=17663718&retmode=ref&cmd=prlinks",
+		"volume": "10",
+		"author": [
+			{
+				"family": "Hughes",
+				"given": "A Randall"
+			},
+			{
+				"family": "Byrnes",
+				"given": "Jarrett E"
+			},
+			{
+				"family": "Kimbro",
+				"given": "David L"
+			},
+			{
+				"family": "Stachowicz",
+				"given": "John J"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2007"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1810851/items/JFIVMCGB",
+		"type": "article-journal",
+		"abstract": "Although recent research has considered the consequences of global declines in the number of species, less attention has focused on the aggregate effects of regional increases in species richness as a result of human-mediated introductions. Here we examine several potential ecosystem consequences of increasing exotic species diversity of suspension feeding marine invertebrates. First, we experimentally manipulated native and non-native suspension feeder richness and measured its effect on short-term phytoplankton clearance rates. Multispecies communities all performed similarly, regardless of whether they were dominated by natives, exotics, or an even mix of the two. Individual species varied considerably in filtration rates, but non-native species often filtered less than the most similar native. Second, we determined potential changes in integrated function over time by comparing seasonal patterns of recruitment as a proxy for the ability to quickly recover filtration capacity after a disturbance. We found that exotic species have complementary seasonal phenologies both to native species and each other. Our results suggest that the consequences of local increases in species richness due to invasions may be manifest over long (annual to interannual) time scales, even when short term changes in ecosystem function are negligible.",
+		"container-title": "Ecology letters",
+		"DOI": "10.1111/j.1461-0248.2009.01339.x",
+		"issue": "8",
+		"journalAbbreviation": "Ecol. Lett.",
+		"license": "All rights reserved",
+		"page": "830-841",
+		"title": "Short and long term consequences of increases in exotic species richness on water filtration by marine invertebrates.",
+		"URL": "http://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&id=19580587&retmode=ref&cmd=prlinks",
+		"volume": "12",
+		"author": [
+			{
+				"family": "Byrnes",
+				"given": "Jarrett"
+			},
+			{
+				"family": "Stachowicz",
+				"given": "John J"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2009"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1810851/items/LPD62UBY",
+		"type": "article-journal",
+		"abstract": "Convoluta convoluta (Abildgaard 1806) is a small (2-3 mm long) acoellous turbellarian flatworm from Europe that has invaded the Gulf of Maine within the last 5 years. Although it has been reported in densities of up to 19 individuals/cm(2), its ecological impact remains unknown. In its native habitat, it consumes harpacticoid copepods and primary settling mussels <0.5-mm shell length. This study estimated the impact of C convoluta on juvenile blue mussel populations (Mytilus edulis Linnaeus 1758) around the Isles of Shoals in the southern Gulf of Maine, USA as well as looking at their distribution in their new habitat. We surveyed worm densities at sites of differing wave exposure over three substrates (hard substrates, bladed algae, filamentous algae) to quantify patterns of worm abundance. We found worms on all substrate types with their highest abundances occurring in areas of maximal sunlight exposure and minimal physical disturbance. We showed a definite pattern of consumption of mussels in the lab and found C convoluta to consume up to 35% of primary settling mussels in the field, but only under certain conditions. Per capita impact on juvenile mussels was found to vary greatly in correlation with mussel recruitment rate and water temperature, but not with the consumption of harpacticoids. Our results also suggested that per capita interaction strength was reduced by intraspecific density-dependent competition and water temperature. The overall impact of C convoluta on mussel populations in the southern Gulf of Maine is therefore estimated to be minimal. (C) 2003 Elsevier B.V. All rights reserved.",
+		"container-title": "Journal of Experimental Marine Biology and Ecology",
+		"DOI": "10.1016/S0022-0981(03)00166-7",
+		"issue": "2",
+		"journalAbbreviation": "J. Exp. Mar. Biol. Ecol.",
+		"license": "All rights reserved",
+		"page": "173-191",
+		"title": "Impact assessment of an invasive flatworm, Convoluta convoluta, in the Southern Gulf of Maine",
+		"volume": "293",
+		"author": [
+			{
+				"family": "Byrnes",
+				"given": "J."
+			},
+			{
+				"family": "Witman",
+				"given": "J. D."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2003"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1810851/items/LECWSJTQ",
+		"type": "article-journal",
+		"container-title": "Global Change Biology",
+		"DOI": "10.1111/gcb.12502",
+		"journalAbbreviation": "Glob Change Biol",
+		"license": "All rights reserved",
+		"page": "n/a-n/a",
+		"title": "Combined climate- and prey-mediated range expansion of Humboldt squid ( Dosidicus gigas), a large marine predator in the California Current System",
+		"URL": "http://doi.wiley.com/10.1111/gcb.12502",
+		"author": [
+			{
+				"family": "Stewart",
+				"given": "Julia S"
+			},
+			{
+				"family": "Hazen",
+				"given": "Elliott L"
+			},
+			{
+				"family": "Bograd",
+				"given": "Steven J"
+			},
+			{
+				"family": "Byrnes",
+				"given": "Jarrett E K"
+			},
+			{
+				"family": "Foley",
+				"given": "David G"
+			},
+			{
+				"family": "Gilly",
+				"given": "William F."
+			},
+			{
+				"family": "Robison",
+				"given": "Bruce H"
+			},
+			{
+				"family": "Field",
+				"given": "John C"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1810851/items/RG6M9TEH",
+		"type": "software",
+		"license": "All rights reserved",
+		"publisher": "http://r-forge.r-project.org/projects/sem-additions/",
+		"title": "The sem.additions package for R",
+		"URL": "http://r-forge.r-project.org/projects/sem-additions/",
+		"author": [
+			{
+				"family": "Byrnes",
+				"given": "Jarrett E"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1810851/items/9TLM2W9U",
+		"type": "article-journal",
+		"container-title": "Ethnobiology Letters",
+		"license": "All rights reserved",
+		"page": "65-71",
+		"title": "Sustainable Science? Reducing the Carbon Impact of Scientific Mega-Meetings",
+		"volume": "2",
+		"author": [
+			{
+				"family": "Ponette-González",
+				"given": "Alexandra G"
+			},
+			{
+				"family": "Byrnes",
+				"given": "Jarrett E"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1810851/items/AF5NVJL6",
+		"type": "article-journal",
+		"abstract": "Experimental manipulations and observational surveys often produce conflicting conclusions\nregarding the effects of native species diversity on community susceptibility to invasion.\nBoth provide useful pieces of information, but typically each asks fundamentally different questions.\nSurveys tell us that locations with species-rich native communities are characterized by conditions\nthat promote exotic species richness, whereas experiments tell us that, within a location, the loss of\nresident species increases the likelihood of the establishment of new species. In the present study, we\napply observational data to a study of the consequences of species loss for invasion in order to assess\nthe generality across scales and the relative importance of experimental results. We begin by using\nlong-term recruitment data to explore how small-scale mechanisms of biotic resistance could operate\non a landscape scale. We find that individual species have complementary seasonal recruitment patterns\nsuch that more diverse communities might be able to more consistently fill space that opens\nthroughout the season, leading to reduced invasion success. However, field surveys of native and\ninvader richness show that the slope of the relationship between native and invader diversity\nchanges with the availability of resources (space) and the presence of habitat-forming foundation\nspecies. In these systems, biotic resistance appears to be important only when resources are scarce\nand foundation species are rare. Thus, we conclude that biotic resistance, as identified in experiments,\nis a consistent effect of diversity that can be explained mechanistically at even a landscape\nscale, but that it plays a dominant role only when total diversity is constrained by resource limitation.\nThis situation is common in experimentally constructed communities, but may be less so in nature.",
+		"container-title": "Marine Ecology Progress Series",
+		"DOI": "10.3354/meps311251",
+		"journalAbbreviation": "Marine Ecology Progress Series",
+		"license": "All rights reserved",
+		"page": "251-262",
+		"title": "Species diversity, invasion success, and ecosystem functioning: disentangling the influence of resource competition, facilitation, and extrinsic factors",
+		"volume": "311",
+		"author": [
+			{
+				"family": "Stachowicz",
+				"given": "John J"
+			},
+			{
+				"family": "Byrnes",
+				"given": "Jarrett E"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2006"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1810851/items/7573NZ78",
+		"type": "article-journal",
+		"container-title": "Ecological Monographs",
+		"DOI": "10.1890/08-1996.1",
+		"issue": "1",
+		"journalAbbreviation": "Ecol. Monogr.",
+		"license": "All rights reserved",
+		"page": "125-151",
+		"title": "A meta-analysis of resource pulse-consumer interactions",
+		"URL": "http://www.esajournals.org/doi/abs/10.1890/08-1996.1",
+		"volume": "80",
+		"author": [
+			{
+				"family": "Yang",
+				"given": "Louie H."
+			},
+			{
+				"family": "Edwards",
+				"given": "Kyle F."
+			},
+			{
+				"family": "Byrnes",
+				"given": "Jarrett E"
+			},
+			{
+				"family": "Bastow",
+				"given": "Justin L."
+			},
+			{
+				"family": "Wright",
+				"given": "Amber N."
+			},
+			{
+				"family": "Spence",
+				"given": "Kenneth O."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1810851/items/2RTQ92NZ",
+		"type": "article-journal",
+		"abstract": "Marine ecosystems are experiencing rapid and pervasive changes in biodiversity and species composition. Understanding the ecosystem consequences of these changes is critical to effectively managing these systems. Over the last several years, numerous experimental manipulations of species richness have been performed, yet existing quantitative syntheses have focused on a just a subset of processes measured in experiments and, as such, have not summarized the full data available from marine systems. Here, we present the results of a meta-analysis of 110 marine experiments from 42 studies that manipulated the species richness of organisms across a range of taxa and trophic levels and analysed the consequences for various ecosystem processes (categorised as production, consumption or biogeochemical fluxes). Our results show that, generally, mixtures of species tend to enhance levels of ecosystem function relative to the average component species in monoculture, but have no effect or a negative effect on functioning relative to the ‘highest- performing’ species. These results are largely consistent with those from other syntheses, and extend conclusions to ecological functions that are commonly measured in the marine realm (e.g. nutrient release from sediment bioturbation). For experiments that manipulated three or more levels of richness, we attempted to discern the functional form of the biodiversity–ecosystem functioning relationship. We found that, for response variables related to consumption, a power-function best described the relationship, which is also consistent with previous findings. However, we identified a linear relationship between richness and production. Combined, our results suggest that changes in the number of species will, on average, tend to alter the functioning of marine ecosystems. We outline several research frontiers that will allow us to more fully understand how, why, and when diversity may drive the functioning of marine ecosystems. Synthesis The oceans host an incredible number and variety of species. However, human activities are driving rapid changes in the marine environment. It is imperative we understand ecosystem consequences of any associated loss of species. We summarized data from 110 experiments that manipulated species diversity and evaluated resulting changes to a range of ecosystem responses. We show that losing species, on average, decreases productivity, growth, and a myriad of other processes related to how marine organisms capture and utilize resources. Finally, we suggest that the loss of species may have stronger consequences for some processes than others.",
+		"container-title": "Oikos",
+		"DOI": "10.1111/oik.01549",
+		"issue": "3",
+		"journalAbbreviation": "Oikos",
+		"license": "All rights reserved",
+		"page": "252-265",
+		"title": "Marine biodiversity and ecosystem functioning: what's known and what's next?",
+		"URL": "http://dx.doi.org/10.1111/oik.01549",
+		"volume": "124",
+		"author": [
+			{
+				"family": "Gamfeldt",
+				"given": "Lars"
+			},
+			{
+				"family": "Lefcheck",
+				"given": "Jonathan S"
+			},
+			{
+				"family": "Byrnes",
+				"given": "Jarrett E K"
+			},
+			{
+				"family": "Cardinale",
+				"given": "Bradley J"
+			},
+			{
+				"family": "Duffy",
+				"given": "J. Emmett"
+			},
+			{
+				"family": "Griffin",
+				"given": "John N."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1810851/items/JC9ZQNUJ",
+		"type": "article-journal",
+		"container-title": "PeerJ",
+		"DOI": "10.7717/peerj.719",
+		"journalAbbreviation": "PeerJ",
+		"license": "All rights reserved",
+		"page": "e719",
+		"title": "Effects of five southern California macroalgal diets on consumption, growth, and gonad weight, in the purple sea urchin Strongylocentrotus purpuratus",
+		"URL": "https://peerj.com/articles/719",
+		"volume": "3",
+		"author": [
+			{
+				"family": "Foster",
+				"given": "Matthew C"
+			},
+			{
+				"family": "Byrnes",
+				"given": "Jarrett E K"
+			},
+			{
+				"family": "Reed",
+				"given": "Daniel C."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1810851/items/9MAAE8B6",
+		"type": "article-journal",
+		"container-title": "Science",
+		"DOI": "10.1126/science.aaa6635",
+		"issue": "6234",
+		"journalAbbreviation": "Science",
+		"license": "All rights reserved",
+		"page": "567-570",
+		"title": "Paleontological baselines for evaluating extinction risk in the modern oceans",
+		"URL": "http://www.sciencemag.org/cgi/doi/10.1126/science.aaa6635",
+		"volume": "348",
+		"author": [
+			{
+				"family": "Finnegan",
+				"given": "S"
+			},
+			{
+				"family": "Anderson",
+				"given": "S C"
+			},
+			{
+				"family": "Harnik",
+				"given": "P G"
+			},
+			{
+				"family": "Simpson",
+				"given": "C"
+			},
+			{
+				"family": "Tittensor",
+				"given": "D. P."
+			},
+			{
+				"family": "Byrnes",
+				"given": "J. E."
+			},
+			{
+				"family": "Finkel",
+				"given": "Z V"
+			},
+			{
+				"family": "Lindberg",
+				"given": "D R"
+			},
+			{
+				"family": "Liow",
+				"given": "L H"
+			},
+			{
+				"family": "Lockwood",
+				"given": "R"
+			},
+			{
+				"family": "Lotze",
+				"given": "H K"
+			},
+			{
+				"family": "McClain",
+				"given": "C R"
+			},
+			{
+				"family": "McGuire",
+				"given": "J L"
+			},
+			{
+				"family": "O'Dea",
+				"given": "A"
+			},
+			{
+				"family": "Pandolfi",
+				"given": "J. M."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1810851/items/CXJWEMUM",
+		"type": "article-journal",
+		"container-title": "Global Change Biology",
+		"DOI": "10.1111/gcb.12963",
+		"journalAbbreviation": "Glob Change Biol",
+		"license": "All rights reserved",
+		"page": "n/a-n/a",
+		"title": "Marine extinction risk shaped by trait-environment interactions over 500 million years",
+		"URL": "http://doi.wiley.com/10.1111/gcb.12963",
+		"author": [
+			{
+				"family": "Orzechowski",
+				"given": "Emily A"
+			},
+			{
+				"family": "Lockwood",
+				"given": "Rowan"
+			},
+			{
+				"family": "Byrnes",
+				"given": "Jarrett E K"
+			},
+			{
+				"family": "Anderson",
+				"given": "Sean C"
+			},
+			{
+				"family": "Finnegan",
+				"given": "Seth"
+			},
+			{
+				"family": "Finkel",
+				"given": "Zoe V"
+			},
+			{
+				"family": "Harnik",
+				"given": "Paul G"
+			},
+			{
+				"family": "Lindberg",
+				"given": "David R."
+			},
+			{
+				"family": "Liow",
+				"given": "Lee Hsiang"
+			},
+			{
+				"family": "Lotze",
+				"given": "Heike K."
+			},
+			{
+				"family": "McClain",
+				"given": "Craig R"
+			},
+			{
+				"family": "McGuire",
+				"given": "Jenny L"
+			},
+			{
+				"family": "O’Dea",
+				"given": "Aaron"
+			},
+			{
+				"family": "Pandolfi",
+				"given": "John M."
+			},
+			{
+				"family": "Simpson",
+				"given": "Carl"
+			},
+			{
+				"family": "Tittensor",
+				"given": "Derek P."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1810851/items/67WCRHNA",
+		"type": "chapter",
+		"container-title": "Marine Community Ecology and Conservation",
+		"event-place": "Sunderland, MA",
+		"license": "All rights reserved",
+		"number-of-volumes": "6",
+		"page": "109-130",
+		"publisher": "Sinauer",
+		"publisher-place": "Sunderland, MA",
+		"title": "Biodiversity and Ecosystem Function: Does Pattern Influence Process?",
+		"URL": "message:%3C6911121A-9DFB-4666-AF5C-0F9F4B51E0DE@sinauer.com%3E",
+		"author": [
+			{
+				"family": "O'Connor",
+				"given": "Mary I"
+			},
+			{
+				"family": "Byrnes",
+				"given": "Jarrett E K"
+			}
+		],
+		"editor": [
+			{
+				"family": "Bertness",
+				"given": "Mark D."
+			},
+			{
+				"family": "Bruno",
+				"given": "John F."
+			},
+			{
+				"family": "Silliman",
+				"given": "Brian R."
+			},
+			{
+				"family": "Stachowicz",
+				"given": "John J"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1810851/items/6WHWHZF3",
+		"type": "article-journal",
+		"abstract": "Page 1. MARINE ECOLOGY PROGRESS SERIES Mar Ecol Prog Ser Vol. 545: 161–173, 2016 doi: 10.3354 / meps11611 Published March 8 INTRODUCTION The consumption of non-native species by native consumers is an ...",
+		"container-title": "Marine Ecology Progress Series",
+		"DOI": "10.3354/meps11611",
+		"journalAbbreviation": "Marine Ecology Progress Series",
+		"license": "All rights reserved",
+		"page": "161-173",
+		"title": "Native predators limit invasion of benthic invertebrate communities in Bodega Harbor, California, USA",
+		"URL": "http://www.int-res.com/abstracts/meps/v545/p161-173/",
+		"volume": "545",
+		"author": [
+			{
+				"family": "Rogers",
+				"given": "T L"
+			},
+			{
+				"family": "Byrnes",
+				"given": "J. E."
+			},
+			{
+				"family": "Stachowicz",
+				"given": "J. J."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1810851/items/PZ2K4779",
+		"type": "article-journal",
+		"abstract": "Tropical secondary forests are important sinks for atmospheric carbon, yet C uptake and accumulation rates are highly uncertain, and the mechanisms poorly understood. We evaluated the recovery of C stocks in four pools (aboveground biomass, litter, roots and topsoil) during dry forest regrowth by combining a space for time replacement (that is, a chronosequence) with a repeated measurements approach (that is, a resampling). We fit nonlinear models to chronosequence data to test whether forest age could explain differences in C stocks across sites, and to changes in aboveground biomass calculated from resampling over two 3-year periods, to test the predictive potential of forest age. We combined data from both approaches into structural equation models (SEM) to assess forest age and tree community attributes (diversity and dominance) as drivers of C stocks and changes in aboveground biomass. Forest age explained differences across sites in C stocks for aboveground biomass, litter and live roots, but not for the remaining pools. Observed C stock changes in aboveground biomass were poorly predicted by forest age. SEM revealed that aboveground biomass C was consistently and positively related to forest age and to the community weighted mean of maximum tree height (H max CWM), but not to tree diversity. Observed C stock changes were related only to H max CWM, although not consistently across the two 3-year periods. Our results highlight that the chronosequence approach can yield reasonable insights into long-term C accumulation trends, but erroneous estimates of C change over specific time periods. They also show that, in addition to age, dominance by tall statured species, but not tree species diversity, plays a significant role in C accumulation.",
+		"container-title": "Ecosystems",
+		"journalAbbreviation": "Ecosystems",
+		"license": "All rights reserved",
+		"title": "Carbon Accumulation in Neotropical Dry Secondary Forests: The Roles of Forest Age and Tree Dominance and Diversity",
+		"URL": "https://doi.org/10.1007/s10021-017-0168-2",
+		"author": [
+			{
+				"family": "Mora",
+				"given": "Francisco"
+			},
+			{
+				"family": "Jaramillo",
+				"given": "Víctor J"
+			},
+			{
+				"family": "Bhaskar",
+				"given": "Radika"
+			},
+			{
+				"family": "Gavito",
+				"given": "Mayra"
+			},
+			{
+				"family": "Siddique",
+				"given": "Ilyas"
+			},
+			{
+				"family": "Byrnes",
+				"given": "Jarret E K"
+			},
+			{
+				"family": "Balvanera",
+				"given": "Patricia"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1810851/items/3INMVNFT",
+		"type": "article-journal",
+		"abstract": "Plant–microbe interactions play crucial roles in species invasions but are rarely investigated at the intraspecific level. Here, we study these interactions in three lineages of a globally distributed plant, Phragmites australis. We use field surveys and a common garden experiment to analyze bacterial communities in the rhizosphere of P. australis stands from native, introduced, and Gulf lineages to determine lineage-specific controls on rhizosphere bacteria. We show that within-lineage bacterial communities are similar, but are distinct among lineages, which is consistent with our results in a complementary common garden experiment. Introduced P. australis rhizosphere bacterial communities have lower abundances of pathways involved in antimicrobial biosynthesis and degradation, suggesting a lower exposure to enemy attack than native and Gulf lineages. However, lineage and not rhizosphere bacterial communities dictate individual plant growth in the common garden experiment. We conclude that lineage is crucial for determination of both rhizosphere bacterial communities and plant fitness. Environmental factors often outweigh host heritable factors in structuring host-associated microbiomes. Here, Bowen et al. show that host lineage is crucial for determination of rhizosphere bacterial communities in Phragmites australis, a globally distributed invasive plant.",
+		"container-title": "Nature Communications",
+		"DOI": "10.18637/jss.v069.i01",
+		"issue": "1",
+		"journalAbbreviation": "Nature Communications",
+		"license": "All rights reserved",
+		"page": "501",
+		"title": "Lineage overwhelms environmental conditions in determining rhizosphere bacterial community structure in a cosmopolitan invasive plant",
+		"URL": "http://www.nature.com/articles/s41467-017-00626-0",
+		"volume": "8",
+		"author": [
+			{
+				"family": "Bowen",
+				"given": "Jennifer L"
+			},
+			{
+				"family": "Kearns",
+				"given": "Patrick J"
+			},
+			{
+				"family": "Byrnes",
+				"given": "Jarrett E K"
+			},
+			{
+				"family": "Wigginton",
+				"given": "Sara"
+			},
+			{
+				"family": "Allen",
+				"given": "Warwick J"
+			},
+			{
+				"family": "Greenwood",
+				"given": "Michael"
+			},
+			{
+				"family": "Tran",
+				"given": "Khang"
+			},
+			{
+				"family": "Yu",
+				"given": "Jennifer"
+			},
+			{
+				"family": "Cronin",
+				"given": "James T"
+			},
+			{
+				"family": "Meyerson",
+				"given": "Laura A"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1810851/items/6WT487XX",
+		"type": "article-journal",
+		"abstract": "Global species extinction rates are orders of magnitude above the background rate documented in the fossil record. However, recent data syntheses have found mixed evidence for patterns of net species loss at local spatial scales. For example, two recent data meta-analyses have found that species richness is decreasing in some locations and is increasing in others. When these trends are combined, these papers argued there has been no net change in species richness, and suggested this pattern is globally representative of biodiversity change at local scales. Here we reanalyze results of these data syntheses and outline why this conclusion is unfounded. First, we show the datasets collated for these syntheses are spatially biased and not representative of the spatial distribution of species richness or the distribution of many primary drivers of biodiversity change. This casts doubt that their results are representative of global patterns. Second, we argue that detecting the trend in local species richness is very difficult with short time series and can lead to biased estimates of change. Reanalyses of the data detected a signal of study duration on biodiversity change, indicating net biodiversity loss is most apparent in studies of longer duration. Third, estimates of species richness change can be biased if species gains during post-disturbance recovery are included without also including species losses that occurred during the disturbance. Net species gains or losses should be assessed with respect to common baselines or reference communities. Ultimately, we need a globally coordinated effort to monitor biodiversity so that we can estimate and attribute human impacts as causes of biodiversity change. A combination of technologies will be needed to produce regularly updated global datasets of local biodiversity change to guide future policy. At this time the conclusion that there is no net change in local species richness is not the consensus state of knowledge.",
+		"container-title": "Ecology",
+		"DOI": "10.1890/15-1759.1",
+		"issue": "8",
+		"journalAbbreviation": "Ecology",
+		"license": "All rights reserved",
+		"page": "1949-1960",
+		"title": "Estimating local biodiversity change: a critique of papers claiming no net loss of local diversity",
+		"URL": "http://dx.doi.org/10.1890/15-1759.1",
+		"volume": "97",
+		"author": [
+			{
+				"family": "Gonzalez",
+				"given": "Andrew"
+			},
+			{
+				"family": "Cardinale",
+				"given": "Bradley J"
+			},
+			{
+				"family": "Allington",
+				"given": "Ginger R H"
+			},
+			{
+				"family": "Byrnes",
+				"given": "Jarrett"
+			},
+			{
+				"family": "Arthur Endsley",
+				"given": "K"
+			},
+			{
+				"family": "Brown",
+				"given": "Daniel G"
+			},
+			{
+				"family": "Hooper",
+				"given": "David U"
+			},
+			{
+				"family": "Isbell",
+				"given": "Forest"
+			},
+			{
+				"family": "O'Connor",
+				"given": "Mary I"
+			},
+			{
+				"family": "Loreau",
+				"given": "Michel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1810851/items/A5MXXLA7",
+		"type": "article-journal",
+		"container-title": "Nature",
+		"DOI": "10.1038/nature11118",
+		"journalAbbreviation": "Nature",
+		"license": "All rights reserved",
+		"page": "105-108",
+		"title": "A global synthesis reveals biodiversity loss as a major driver of ecosystem change",
+		"URL": "http://www.nature.com/doifinder/10.1038/nature11118",
+		"volume": "486",
+		"author": [
+			{
+				"family": "Hooper",
+				"given": "David U"
+			},
+			{
+				"family": "Adair",
+				"given": "E Carol"
+			},
+			{
+				"family": "Cardinale",
+				"given": "Bradley J"
+			},
+			{
+				"family": "Byrnes",
+				"given": "Jarrett E K"
+			},
+			{
+				"family": "Hungate",
+				"given": "Bruce A"
+			},
+			{
+				"family": "Matulich",
+				"given": "Kristin L"
+			},
+			{
+				"family": "Gonzalez",
+				"given": "Andrew"
+			},
+			{
+				"family": "Duffy",
+				"given": "J. Emmett"
+			},
+			{
+				"family": "Gamfeldt",
+				"given": "Lars"
+			},
+			{
+				"family": "O'Connor",
+				"given": "Mary I"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1810851/items/A8C7HJVA",
+		"type": "article-journal",
+		"abstract": "In recent decades, environmental drivers of community change have been associated with changes in biodiversity from local to global scales. Here we evaluate the role of anthropogenic drivers in marine ecosystems as drivers of change in local species richness with a meta-analysis of a novel dataset of temporal change in species richness. We paired biodiversity data from 144 sites with large-scale drivers derived from geospatial databases: human cumulative impacts, sea surface temperature change, nutrient loading, and invasion potential. Three specific drivers (nutrient inputs, rate of linear temperature change, and non-native species invasion potential) explained patterns in local species richness change. We show that these drivers have opposing effects on biodiversity trends, and in some cases, contrasting directions of change can offset each other to yield observations of no net change across localities. Further, long-term studies reveal different effects of drivers that are not observed in short-term studies. These findings begin to explain high variability observed in species diversity trends at local scales. We suggest that local species diversity change is a predictable phenomenon and that observations of no net change across many time-series can be explained when the contrasting effects of human impacts are considered.",
+		"container-title": "bioRxiv",
+		"DOI": "10.1101/162362",
+		"journalAbbreviation": "bioRxiv",
+		"license": "All rights reserved",
+		"page": "162362",
+		"title": "Human activities influence the direction and magnitude of local biodiversity change over time",
+		"URL": "http://biorxiv.org/lookup/doi/10.1101/162362",
+		"author": [
+			{
+				"family": "Dunic",
+				"given": "Jillian C"
+			},
+			{
+				"family": "Elahi",
+				"given": "Robin"
+			},
+			{
+				"family": "Hensel",
+				"given": "Marc J S"
+			},
+			{
+				"family": "Kearns",
+				"given": "Patrick J"
+			},
+			{
+				"family": "O'Connor",
+				"given": "Mary I"
+			},
+			{
+				"family": "Acuña",
+				"given": "Daniel"
+			},
+			{
+				"family": "Honig",
+				"given": "Aaron"
+			},
+			{
+				"family": "Wilson",
+				"given": "Alexa R"
+			},
+			{
+				"family": "Byrnes",
+				"given": "Jarrett E K"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1810851/items/PRZDBNPI",
+		"type": "article-journal",
+		"license": "All rights reserved",
+		"title": "Kelp Ecosystem Ecology Network Monitoring Handbook",
+		"URL": "https://github.com/kelpecosystems/materials",
+		"author": [
+			{
+				"family": "Byrnes",
+				"given": "Jarret E K"
+			},
+			{
+				"family": "Haupt",
+				"given": "Alison J"
+			},
+			{
+				"family": "Reed",
+				"given": "Daniel C."
+			},
+			{
+				"family": "Wernberg",
+				"given": "Thomas"
+			},
+			{
+				"family": "Pérez-Matus",
+				"given": "Alejandro"
+			},
+			{
+				"family": "Shears",
+				"given": "Nick T."
+			},
+			{
+				"family": "Konar",
+				"given": "Brenda"
+			},
+			{
+				"family": "Gagnon",
+				"given": "Patrick"
+			},
+			{
+				"family": "Vergés",
+				"given": "Adriana"
+			},
+			{
+				"literal": "Adriana"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1810851/items/4K5QPTTW",
+		"type": "article-journal",
+		"container-title": "Trends in Ecology & Evolution",
+		"DOI": "10.1016/j.tree.2012.11.001",
+		"issue": "2",
+		"journalAbbreviation": "Trends Ecol. Evol.",
+		"license": "All rights reserved",
+		"page": "71-72",
+		"title": "Raising money for scientific research through crowdfunding",
+		"URL": "http://linkinghub.elsevier.com/retrieve/pii/S0169534712002984",
+		"volume": "28",
+		"author": [
+			{
+				"family": "Wheat",
+				"given": "Rachel E"
+			},
+			{
+				"family": "Wang",
+				"given": "Yiwei"
+			},
+			{
+				"family": "Byrnes",
+				"given": "Jarrett E"
+			},
+			{
+				"family": "Ranganathan",
+				"given": "Jai"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1810851/items/F5EKZABB",
+		"type": "article-journal",
+		"container-title": "PeerJ PrePrints",
+		"DOI": "10.7287/peerj.preprints.11",
+		"journalAbbreviation": "PeerJ PrePrints",
+		"license": "All rights reserved",
+		"page": "e11",
+		"title": "The four pillars of scholarly publishing: The future and a foundation",
+		"URL": "https://peerj.com/preprints/11",
+		"volume": "1",
+		"author": [
+			{
+				"family": "Byrnes",
+				"given": "Jarrett E K"
+			},
+			{
+				"family": "Baskerville",
+				"given": "Edward"
+			},
+			{
+				"family": "Caron",
+				"given": "Bruce"
+			},
+			{
+				"family": "Neylon",
+				"given": "Cameron"
+			},
+			{
+				"family": "Tenopir",
+				"given": "Carol"
+			},
+			{
+				"family": "Schildhauer",
+				"given": "Mark"
+			},
+			{
+				"family": "Budden",
+				"given": "Amber"
+			},
+			{
+				"family": "Aarssen",
+				"given": "Lonnie"
+			},
+			{
+				"family": "Lortie",
+				"given": "Christopher J."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1810851/items/QARFD829",
+		"type": "article-journal",
+		"abstract": "Abstract Wave-generated flows, associated hydrodynamic forces, and disturbances created by them play critical roles in determining the structure and health of near-shore coastal ecosystems. Oscillatory motions produced by waves increase delivery of nutrients and food to benthic organisms, and can enhance vertical mixing to facilitate delivery of larvae and spores to the seafloor. At the same time, wave disturbances can remove individuals and biomass with far-reaching effects on critical coastal ecosystems and the biodiversity within them. Commercial instruments designed to measure wave characteristics and the effects of wave energy can be expensive to purchase and deploy, limiting their use in large quantities or in areas where they may be lost. We have developed an inexpensive open-source pressure transducer data logger based on an Arduino microcontroller that can be used to characterize wave conditions for deployments lasting multiple months. Our design criteria centered around simplicity, longevity, low cost, and ease of use for researchers. Housed in ubiquitous polyvinylchloride (PVC) plumbing and constructed primarily with readily available materials, the Open Wave Height Logger (OWHL) can be fabricated in a college setting with basic shop tools. The OWHL performs comparably to commercial pressure-based wave height data loggers during tests in the field, creating the opportunity to expand the use of these sensors for applications where sufficient spatial replication or risk of instrument loss would otherwise be cost prohibitive.",
+		"container-title": "Limnology and Oceanography: Methods",
+		"DOI": "10.1002/lom3.10370",
+		"ISSN": "1541-5856",
+		"issue": "n/a",
+		"journalAbbreviation": "Limnology and Oceanography: Methods",
+		"license": "All rights reserved",
+		"note": "publisher: John Wiley & Sons, Ltd",
+		"title": "Open Wave Height Logger: An open source pressure sensor data logger for wave measurement",
+		"URL": "https://doi.org/10.1002/lom3.10370",
+		"volume": "n/a",
+		"author": [
+			{
+				"family": "Lyman",
+				"given": "Theodore P."
+			},
+			{
+				"family": "Elsmore",
+				"given": "Kristen"
+			},
+			{
+				"family": "Gaylord",
+				"given": "Brian"
+			},
+			{
+				"family": "Byrnes",
+				"given": "Jarrett E. K."
+			},
+			{
+				"family": "Miller",
+				"given": "Luke P."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					7,
+					16
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					6,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1810851/items/2P92KFUY",
+		"type": "article-journal",
+		"abstract": "Barren rocky seafloor landscapes, denuded of almost all life by ravenous sea urchins, liberated from their predators, stands as one of the iconic images of trophic cascades in Ecology. While this paradigm has been cited in nearly every temperate rocky reef ecosystem across the globe, there is widespread disagreement as to its generality. Given their biology, sea urchins are clearly one of the ocean’s strongest herbivores in many systems, but where will their impact be strongest? Here we perform a global meta-analysis of sea urchin-kelp relationships in the field. We find that sea urchins appear to be able to control kelp abundances in any system where they can achieve high densities. Furthermore, their ability to create large-scale long-lasting barrens appears to be limited to biogeographic regions where they can achieve high consumptive potential. Based on the literature, we outline a conceptual model that examines when and where sea urchins should be able to have a strong regulating impact on kelp forest ecosystems. We suggest that many elements of global change may shift the balance of forces regulating sea urchin consumptive potential in these ecosystems. Given their ability to have strong impacts on temperate rocky reefs, these drivers need to be considered in concert with their effect on sea urchins when attempting to predict future change to marine ecosystems.",
+		"container-title": "PeerJ PrePrints",
+		"DOI": "10.7287/peerj.preprints.174v1",
+		"ISSN": "2167-9843",
+		"journalAbbreviation": "PeerJ PrePrints",
+		"license": "All rights reserved",
+		"page": "e174v1",
+		"title": "The sea urchin – the ultimate herbivore and biogeographic variability in its ability to deforest kelp ecosystems",
+		"URL": "http://dx.doi.org/10.7287/peerj.preprints.174v1",
+		"volume": "1",
+		"author": [
+			{
+				"family": "Byrnes",
+				"given": "Jarrett E"
+			},
+			{
+				"family": "Johnson",
+				"given": "Ladd E."
+			},
+			{
+				"family": "Connell",
+				"given": "Sean D."
+			},
+			{
+				"family": "Shears",
+				"given": "Nick T."
+			},
+			{
+				"family": "McMillan",
+				"given": "Selena M"
+			},
+			{
+				"family": "Irving",
+				"given": "Andrew"
+			},
+			{
+				"family": "Buschmann",
+				"given": "Alejandro H"
+			},
+			{
+				"family": "Graham",
+				"given": "Michael H."
+			},
+			{
+				"family": "Kinlan",
+				"given": "Brian P."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1810851/items/AQS3HBX8",
+		"type": "article-journal",
+		"abstract": "Functional gene pyrosequencing is emerging as a useful tool to examine the diversity and abundance of microbes that facilitate key biogeochemical processes. One such process, denitrification, is of particular importance because it converts fixed nitrate (NO3-) to N2 gas, which returns to the atmosphere. In N limited salt marshes, removal of NO3- prior to entering adjacent waters helps prevent eutrophication. Understanding the dynamics of salt marsh microbial denitrification is thus imperative for the maintenance of healthy coastal ecosystems. We used pyrosequencing of the nirS gene to examine the denitrifying community response to fertilization in experimentally enriched marsh plots. A key challenge in the analysis of sequence data derived from pyrosequencing is understanding whether small differences in gene sequences are ecologically meaningful. We apply a novel approach from information theory that determined that the optimal similarity level for clustering DNA sequences into OTUs, while still capturing the ecological complexity of the system, was 88% similarity. With this clustering, phylogenetic analysis yielded 6 dominant clades of denitrifiers, the largest of which, accounting for more than half of all the sequences collected, had no close cultured representatives. Of the 638 OTUs identified, only 11 were present in all plots and no single OTU was dominant. We did, however, find a large number of specialist OTUs that were present only in a single plot. The high degree of endemic OTUs, while accounting for a large proportion of the nirS diversity in the plots, were found in lower abundance than the generalist taxa. The proportion of specialist taxa increased with increasing supply of nutrients, suggesting that addition of fertilizer may create conditions that expand the niche space for denitrifying organisms and may enhance the genetic capacity for denitrification.",
+		"container-title": "Frontiers in Microbiology",
+		"DOI": "10.3389/fmicb.2013.00342",
+		"journalAbbreviation": "Front. Microbiol.",
+		"license": "All rights reserved",
+		"title": "Functional gene pyrosequencing and network analysis: an approach to examine the response of denitrifying bacteria to increased nitrogen supply in salt marsh sediments",
+		"URL": "http://www.frontiersin.org/Terrestrial_Microbiology/10.3389/fmicb.2013.00342/abstract",
+		"volume": "4",
+		"author": [
+			{
+				"family": "Bowen",
+				"given": "Jennifer L"
+			},
+			{
+				"family": "Byrnes",
+				"given": "Jarrett E K"
+			},
+			{
+				"family": "Weisman",
+				"given": "David"
+			},
+			{
+				"family": "Colaneri",
+				"given": "Cory"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1810851/items/PSN8VQ6K",
+		"type": "article-journal",
+		"abstract": "Incorporating the effects of climate change in species management strategies is one of today’s greatest conservation challenges. Mechanistic models can be used to address these challenges because they explain how climate change effects cascade through ecosystems and influence species distributions. We used structural equation models to test hypotheses about the cascading effects of climate change and basin-scale variables on the local abundance of North Atlantic right whales, a critically endangered species, in a historically important feeding habitat. We found that effects of the North Atlantic Oscillation, a basin-scale variable, on local right whale abundance occurred through a cascade of effects on other ecosystem variables, including chlorophyll a concentration, Calanus finmarchicus abundance, and zooplankton patchiness. These effects varied by month. We also found that the western Gulf of Maine spring thermal transition date (a proxy for climate change) is a major direct and indirect driver of variations in local right whale abundance. The indirect effect of earlier spring transition dates, through a pathway of prey abundance, suggested a decrease in local right whale abundance. However, right whale abundance increased because of the direct effect of regional spring transition date. The direct effect suggests that right whales may be using regional temperatures as a movement cue. The counter-acting direct and indirect effects of spring transition date suggest that right whales could face a mismatch with their prey, which could ultimately result in another large-scale distribution shift. Our causal modeling approach demonstrates that the influence of climate change on local right whale abundance in the Gulf of Maine cascades through a network of variables. These cascading effects make predicting local right whale abundance challenging and suggest that successful endangered species conservation requires identifying the mechanisms underlying species distributions.",
+		"container-title": "Global Ecology and Conservation",
+		"DOI": "10.1016/j.gecco.2022.e02193",
+		"ISSN": "2351-9894",
+		"journalAbbreviation": "Global Ecology and Conservation",
+		"language": "en",
+		"license": "All rights reserved",
+		"page": "e02193",
+		"source": "ScienceDirect",
+		"title": "Effects of changing temperature phenology on the abundance of a critically endangered baleen whale",
+		"URL": "https://www.sciencedirect.com/science/article/pii/S2351989422001950",
+		"volume": "38",
+		"author": [
+			{
+				"family": "Ganley",
+				"given": "Laura C."
+			},
+			{
+				"family": "Byrnes",
+				"given": "Jarrett"
+			},
+			{
+				"family": "Pendleton",
+				"given": "Daniel E."
+			},
+			{
+				"family": "Mayo",
+				"given": "Charles A."
+			},
+			{
+				"family": "Friedland",
+				"given": "Kevin D."
+			},
+			{
+				"family": "Redfern",
+				"given": "Jessica V."
+			},
+			{
+				"family": "Turner",
+				"given": "Jefferson T."
+			},
+			{
+				"family": "Brault",
+				"given": "Solange"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					6,
+					25
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					10,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1810851/items/6KQSVPHK",
+		"type": "article-journal",
+		"abstract": "Cycling of organic carbon in the ocean has the potential to mitigate or exacerbate global climate change, but major questions remain about the environmental controls on organic carbon flux in the coastal zone. Here, we used a field experiment distributed across 28° of latitude, and the entire range of 2 dominant kelp species in the northern hemisphere, to measure decomposition rates of kelp detritus on the seafloor in relation to local environmental factors. Detritus decomposition in both species were strongly related to ocean temperature and initial carbon content, with higher rates of biomass loss at lower latitudes with warmer temperatures. Our experiment showed slow overall decomposition and turnover of kelp detritus and modeling of coastal residence times at our study sites revealed that a significant portion of this production can remain intact long enough to reach deep marine sinks. The results suggest that decomposition of these kelp species could accelerate with ocean warming and that low-latitude kelp forests could experience the greatest increase in remineralization with a 9% to 42% reduced potential for transport to long-term ocean sinks under short-term (RCP4.5) and long-term (RCP8.5) warming scenarios. However, slow decomposition at high latitudes, where kelp abundance is predicted to expand, indicates potential for increasing kelp-carbon sinks in cooler (northern) regions. Our findings reveal an important latitudinal gradient in coastal ecosystem function that provides an improved capacity to predict the implications of ocean warming on carbon cycling. Broad-scale patterns in organic carbon decomposition revealed here can be used to identify hotspots of carbon sequestration potential and resolve relationships between carbon cycling processes and ocean climate at a global scale.",
+		"container-title": "PLOS Biology",
+		"DOI": "10.1371/journal.pbio.3001702",
+		"ISSN": "1545-7885",
+		"issue": "8",
+		"journalAbbreviation": "PLOS Biology",
+		"language": "en",
+		"license": "All rights reserved",
+		"note": "publisher: Public Library of Science",
+		"page": "e3001702",
+		"source": "PLoS Journals",
+		"title": "Kelp carbon sink potential decreases with warming due to accelerating decomposition",
+		"URL": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001702",
+		"volume": "20",
+		"author": [
+			{
+				"family": "Filbee-Dexter",
+				"given": "Karen"
+			},
+			{
+				"family": "Feehan",
+				"given": "Colette J."
+			},
+			{
+				"family": "Smale",
+				"given": "Dan A."
+			},
+			{
+				"family": "Krumhansl",
+				"given": "Kira A."
+			},
+			{
+				"family": "Augustine",
+				"given": "Skye"
+			},
+			{
+				"family": "Bettignies",
+				"given": "Florian",
+				"dropping-particle": "de"
+			},
+			{
+				"family": "Burrows",
+				"given": "Michael T."
+			},
+			{
+				"family": "Byrnes",
+				"given": "Jarrett E. K."
+			},
+			{
+				"family": "Campbell",
+				"given": "Jillian"
+			},
+			{
+				"family": "Davoult",
+				"given": "Dominique"
+			},
+			{
+				"family": "Dunton",
+				"given": "Kenneth H."
+			},
+			{
+				"family": "Franco",
+				"given": "João N."
+			},
+			{
+				"family": "Garrido",
+				"given": "Ignacio"
+			},
+			{
+				"family": "Grace",
+				"given": "Sean P."
+			},
+			{
+				"family": "Hancke",
+				"given": "Kasper"
+			},
+			{
+				"family": "Johnson",
+				"given": "Ladd E."
+			},
+			{
+				"family": "Konar",
+				"given": "Brenda"
+			},
+			{
+				"family": "Moore",
+				"given": "Pippa J."
+			},
+			{
+				"family": "Norderhaug",
+				"given": "Kjell Magnus"
+			},
+			{
+				"family": "O’Dell",
+				"given": "Alasdair"
+			},
+			{
+				"family": "Pedersen",
+				"given": "Morten F."
+			},
+			{
+				"family": "Salomon",
+				"given": "Anne K."
+			},
+			{
+				"family": "Sousa-Pinto",
+				"given": "Isabel"
+			},
+			{
+				"family": "Tiegs",
+				"given": "Scott"
+			},
+			{
+				"family": "Yiu",
+				"given": "Dara"
+			},
+			{
+				"family": "Wernberg",
+				"given": "Thomas"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					8,
+					5
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					8,
+					4
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1810851/items/7QH9HNEM",
+		"type": "article-journal",
+		"abstract": "The impacts of global change — from shifts in climate to overfishing to land use change — can depend heavily on local abiotic context. Building an understanding of how to downscale global change scenarios to local impacts is often difficult, however, and requires historical data across large gradients of variability. Such data are often not available — particularly in peer reviewed or gray literature. However, these data can sometimes be gleaned from casual records of natural history — field notebooks, data sheet marginalia, course notes, and more. Here, we provide an example of one such approach for the Gulf of Maine, as we seek to understand how environmental context can influence local outcomes of region-wide shifts in subtidal community structure. We explore a decade of hand-drawn algal cover maps around Appledore Island made by Dr. Art Borror while teaching at the Shoals Marine Lab. Appledore’s steep wave exposure gradient — from exposed to the open ocean to fully protected — provides a living laboratory to test interactions between global change and local conditions. We then recreate Borror’s methods two and a half-decades later. We show that overfishing-driven urchin outbreaks in the 1980s were slowed or stopped by wave exposure and benthic topography. Similarly, local variation appears to have curtailed current invasions by filamentous red algae. Last, some formerly dominant kelps have disappeared over the past forty years — an observation verified by subtidal surveys. Global change is altering life in the seas around us. While underutilized, solid natural history observations stand as a key resource for us to begin to understand how global change will translate to the heterogeneous mosaic of life in a future Gulf of Maine and other ecosystems around the world.",
+		"language": "en",
+		"license": "CC-By Attribution-ShareAlike 4.0 International",
+		"note": "publisher: EcoEvoRxiv",
+		"source": "ecoevorxiv.org",
+		"title": "Notes from the Past Show How Local Variability can Stymie Urchins and the Rise of the Reds in the Gulf of Maine",
+		"URL": "https://ecoevorxiv.org/repository/view/3759/",
+		"author": [
+			{
+				"family": "Byrnes",
+				"given": "Jarrett Edward Kaplan"
+			},
+			{
+				"family": "Brown",
+				"given": "Andrea"
+			},
+			{
+				"family": "Sheridan",
+				"given": "Kate"
+			},
+			{
+				"family": "Peller",
+				"given": "Tianna"
+			},
+			{
+				"family": "Lawlor",
+				"given": "Jake"
+			},
+			{
+				"family": "Beaulieu",
+				"given": "Julien"
+			},
+			{
+				"family": "Muñoz-Z",
+				"given": "Jenny"
+			},
+			{
+				"family": "Hesketh",
+				"given": "Amelia"
+			},
+			{
+				"family": "Pereira",
+				"given": "Alexis"
+			},
+			{
+				"family": "Knight",
+				"given": "Nicole S."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					21
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					5,
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1810851/items/3NF9PZIP",
+		"type": "article-journal",
+		"abstract": "Mussel beds in the rocky intertidal of New England have long been a paradigmatic example of how physical forces – wave action – reduces predator abundance and enables a distinct ecological community. These beds, however, have witnessed a precipitous >60% decline since the 1970s for currently unknown reasons. Here we report on the surprising persistence of large dense mussel beds in the middle islands of Boston Harbor, areas with low wave energy but high flow rates. These natural history observations suggest that there is more to understand about mussel bed ecology, particularly with respect to where we might find and conserve remnant populations to buffer the region from mussel loss.",
+		"language": "en",
+		"license": "CC-By Attribution-ShareAlike 4.0 International",
+		"note": "publisher: EcoEvoRxiv",
+		"source": "ecoevorxiv.org",
+		"title": "Surprising Abundant Mussel Beds in the Center of Boston Harbor in the Midst of a Regional Die-Back",
+		"URL": "https://ecoevorxiv.org/repository/view/3784/",
+		"author": [
+			{
+				"family": "Byrnes",
+				"given": "Jarrett Edward Kaplan"
+			},
+			{
+				"family": "Dissly",
+				"given": "Laura"
+			},
+			{
+				"family": "Bosma",
+				"given": "Kirk"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					21
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					4,
+					5
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1810851/items/6SQK9QEH",
+		"type": "article-journal",
+		"abstract": "In coastal waters around the world, the dominant primary producers are benthic macrophytes, including seagrasses and macroalgae, that provide habitat structure and food for diverse and abundant biological communities and drive ecosystem processes. Seagrass meadows and macroalgal forests play key roles for coastal societies, contributing to fishery yields, storm protection, biogeochemical cycling and storage, and important cultural values. These socio-economically valuable services are threatened worldwide by human activities, with substantial areas of seagrass and macroalgal forests lost over the last half-century. Tracking the status and trends in marine macrophyte cover and quality is an emerging priority for ocean and coastal management, but doing so has been challenged by limited coordination across the numerous efforts to monitor macrophytes, which vary widely in goals, methodologies, scales, capacity, governance approaches, and data availability. Here, we present a consensus assessment and recommendations on the current state of and opportunities for advancing global marine macrophyte observations, integrating contributions from a community of researchers with broad geographic and disciplinary expertise. With the increasing scale of human impacts, the time is ripe to harmonize marine macrophyte observations by building on existing networks and identifying a core set of common metrics and approaches in sampling design, field measurements, governance, capacity building, and data management. We recommend a tiered observation system, with improvement of remote sensing and remote underwater imaging to expand capacity to capture broad-scale extent at intervals of several years, coordinated with stratified in situ sampling annually to characterize the key variables of cover and taxonomic or functional group composition, and to provide ground-truth. A robust networked system of macrophyte observations will be facilitated by establishing best practices, including standard protocols, documentation, and sharing of resources at all stages of workflow, and secure archiving of open-access data. Because such a network is necessarily distributed, sustaining it depends on close engagement of local stakeholders and focusing on building and long-term maintenance of local capacity, particularly in the developing world. Realizing these recommendations will produce more effective, efficient, and responsive observing, a more accurate global picture of change in vegetated coastal systems, and stronger international capacity for sustaining observations.",
+		"container-title": "Frontiers in Marine Science",
+		"DOI": "10.3389/fmars.2019.00317",
+		"ISSN": "2296-7745",
+		"journalAbbreviation": "Front. Mar. Sci.",
+		"language": "English",
+		"license": "All rights reserved",
+		"source": "Frontiers",
+		"title": "Toward a Coordinated Global Observing System for Seagrasses and Marine Macroalgae",
+		"URL": "https://www.frontiersin.org/articles/10.3389/fmars.2019.00317/abstract",
+		"volume": "6",
+		"author": [
+			{
+				"family": "Duffy",
+				"given": "J. Emmett"
+			},
+			{
+				"family": "Benedetti-Cecchi",
+				"given": "Lisandro"
+			},
+			{
+				"family": "Trinanes",
+				"given": "Joaquin"
+			},
+			{
+				"family": "Muller-Karger",
+				"given": "Frank E."
+			},
+			{
+				"family": "Ambo-Rappe",
+				"given": "Rohani"
+			},
+			{
+				"family": "Boström",
+				"given": "Christoffer"
+			},
+			{
+				"family": "Buschmann",
+				"given": "Alejandro H."
+			},
+			{
+				"family": "Byrnes",
+				"given": "Jarrett"
+			},
+			{
+				"family": "Coles",
+				"given": "Robert G."
+			},
+			{
+				"family": "Creed",
+				"given": "Joel"
+			},
+			{
+				"family": "Cullen-Unsworth",
+				"given": "Leanne C."
+			},
+			{
+				"family": "Diaz-Pulido",
+				"given": "Guillermo"
+			},
+			{
+				"family": "Duarte",
+				"given": "Carlos M."
+			},
+			{
+				"family": "Edgar",
+				"given": "Graham J."
+			},
+			{
+				"family": "Fortes",
+				"given": "Miguel"
+			},
+			{
+				"family": "Goni",
+				"given": "Gustavo"
+			},
+			{
+				"family": "Hu",
+				"given": "Chuanmin"
+			},
+			{
+				"family": "Huang",
+				"given": "Xiaoping"
+			},
+			{
+				"family": "Hurd",
+				"given": "Catriona L."
+			},
+			{
+				"family": "Johnson",
+				"given": "Craig"
+			},
+			{
+				"family": "Konar",
+				"given": "Brenda"
+			},
+			{
+				"family": "Krause-Jensen",
+				"given": "Dorte"
+			},
+			{
+				"family": "Krumhansl",
+				"given": "Kira"
+			},
+			{
+				"family": "Macreadie",
+				"given": "Peter"
+			},
+			{
+				"family": "Marsh",
+				"given": "Helene"
+			},
+			{
+				"family": "McKenzie",
+				"given": "Len J."
+			},
+			{
+				"family": "Mieszkowska",
+				"given": "Nova"
+			},
+			{
+				"family": "Miloslavich",
+				"given": "Patricia"
+			},
+			{
+				"family": "Montes",
+				"given": "Enrique"
+			},
+			{
+				"family": "Nakaoka",
+				"given": "Masahiro"
+			},
+			{
+				"family": "Norderhaug",
+				"given": "Kjell Magnus"
+			},
+			{
+				"family": "Norlund",
+				"given": "Lina M."
+			},
+			{
+				"family": "Orth",
+				"given": "Robert J."
+			},
+			{
+				"family": "Prathep",
+				"given": "Anchana"
+			},
+			{
+				"family": "Putman",
+				"given": "Nathan F."
+			},
+			{
+				"family": "Samper-Villarreal",
+				"given": "Jimena"
+			},
+			{
+				"family": "Serrao",
+				"given": "Ester A."
+			},
+			{
+				"family": "Short",
+				"given": "Frederick"
+			},
+			{
+				"family": "Pinto",
+				"given": "Isabel Sousa"
+			},
+			{
+				"family": "Steinberg",
+				"given": "Peter"
+			},
+			{
+				"family": "Stuart-Smith",
+				"given": "Rick"
+			},
+			{
+				"family": "Unsworth",
+				"given": "Richard K. F."
+			},
+			{
+				"family": "Keulen",
+				"given": "Mike",
+				"non-dropping-particle": "van"
+			},
+			{
+				"family": "Tussenbroek",
+				"given": "Brigitta I.",
+				"non-dropping-particle": "van"
+			},
+			{
+				"family": "Wang",
+				"given": "Mengqiu"
+			},
+			{
+				"family": "Waycott",
+				"given": "Michelle"
+			},
+			{
+				"family": "Weatherdon",
+				"given": "Lauren V."
+			},
+			{
+				"family": "Wernberg",
+				"given": "Thomas"
+			},
+			{
+				"family": "Yaakub",
+				"given": "Siti Maryam"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					4
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1810851/items/S3V5VPGL",
+		"type": "article-journal",
+		"abstract": "While marine kelp forests have provided valuable ecosystem services for millennia, the global ecological and economic value of those services is largely unresolved. Kelp forests are diminishing in many regions worldwide, and efforts to manage these ecosystems are hindered without accurate estimates of the value of the services that kelp forests provide to human societies. Here, we present a global estimate of the ecological and economic potential of three key ecosystem services - fisheries production, nutrient cycling, and carbon removal provided by six major forest forming kelp genera (Ecklonia, Laminaria, Lessonia, Macrocystis, Nereocystis, and Saccharina). Each of these genera creates a potential value of between $64,400 and $147,100/hectare each year. Collectively, they generate between $465 and $562 billion/year worldwide, with an average of $500 billion. These values are primarily driven by fisheries production (mean $29,900, 904 Kg/Ha/year) and nitrogen removal ($73,800, 657 Kg N/Ha/year), though kelp forests are also estimated to sequester 4.91 megatons of carbon from the atmosphere/year highlighting their potential as blue carbon systems for climate change mitigation. These findings highlight the ecological and economic value of kelp forests to society and will facilitate better informed marine management and conservation decisions.",
+		"container-title": "Nature Communications",
+		"DOI": "10.1038/s41467-023-37385-0",
+		"ISSN": "2041-1723",
+		"issue": "1",
+		"journalAbbreviation": "Nat Commun",
+		"language": "en",
+		"license": "2023 The Author(s)",
+		"note": "number: 1\npublisher: Nature Publishing Group",
+		"page": "1894",
+		"source": "www.nature.com",
+		"title": "The value of ecosystem services in global marine kelp forests",
+		"URL": "https://www.nature.com/articles/s41467-023-37385-0",
+		"volume": "14",
+		"author": [
+			{
+				"family": "Eger",
+				"given": "Aaron M."
+			},
+			{
+				"family": "Marzinelli",
+				"given": "Ezequiel M."
+			},
+			{
+				"family": "Beas-Luna",
+				"given": "Rodrigo"
+			},
+			{
+				"family": "Blain",
+				"given": "Caitlin O."
+			},
+			{
+				"family": "Blamey",
+				"given": "Laura K."
+			},
+			{
+				"family": "Byrnes",
+				"given": "Jarrett E. K."
+			},
+			{
+				"family": "Carnell",
+				"given": "Paul E."
+			},
+			{
+				"family": "Choi",
+				"given": "Chang Geun"
+			},
+			{
+				"family": "Hessing-Lewis",
+				"given": "Margot"
+			},
+			{
+				"family": "Kim",
+				"given": "Kwang Young"
+			},
+			{
+				"family": "Kumagai",
+				"given": "Naoki H."
+			},
+			{
+				"family": "Lorda",
+				"given": "Julio"
+			},
+			{
+				"family": "Moore",
+				"given": "Pippa"
+			},
+			{
+				"family": "Nakamura",
+				"given": "Yohei"
+			},
+			{
+				"family": "Pérez-Matus",
+				"given": "Alejandro"
+			},
+			{
+				"family": "Pontier",
+				"given": "Ondine"
+			},
+			{
+				"family": "Smale",
+				"given": "Dan"
+			},
+			{
+				"family": "Steinberg",
+				"given": "Peter D."
+			},
+			{
+				"family": "Vergés",
+				"given": "Adriana"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					4,
+					18
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					4,
+					18
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1810851/items/2W4TLILW",
+		"type": "article-journal",
+		"abstract": "Causal effects of biodiversity on ecosystem functions can be estimated using experimental or observational designs — designs that pose a tradeoff between drawing credible causal inferences from correlations and drawing generalizable inferences. Here, we develop a design that reduces this tradeoff and revisits the question of how plant species diversity affects productivity. Our design leverages longitudinal data from 43 grasslands in 11 countries and approaches borrowed from fields outside of ecology to draw causal inferences from observational data. Contrary to many prior studies, we estimate that increases in plot-level species richness caused productivity to decline: a 10% increase in richness decreased productivity by 2.4%, 95% CI [−4.1, −0.74]. This contradiction stems from two sources. First, prior observational studies incompletely control for confounding factors. Second, most experiments plant fewer rare and non-native species than exist in nature. Although increases in native, dominant species increased productivity, increases in rare and non-native species decreased productivity, making the average effect negative in our study. By reducing the tradeoff between experimental and observational designs, our study demonstrates how observational studies can complement prior ecological experiments and inform future ones.",
+		"container-title": "Nature Communications",
+		"DOI": "10.1038/s41467-023-37194-5",
+		"ISSN": "2041-1723",
+		"issue": "1",
+		"journalAbbreviation": "Nat Commun",
+		"language": "en",
+		"license": "2023 The Author(s)",
+		"note": "number: 1\npublisher: Nature Publishing Group",
+		"page": "2607",
+		"source": "www.nature.com",
+		"title": "Clarifying the effect of biodiversity on productivity in natural ecosystems with longitudinal data and methods for causal inference",
+		"URL": "https://www.nature.com/articles/s41467-023-37194-5",
+		"volume": "14",
+		"author": [
+			{
+				"family": "Dee",
+				"given": "Laura E."
+			},
+			{
+				"family": "Ferraro",
+				"given": "Paul J."
+			},
+			{
+				"family": "Severen",
+				"given": "Christopher N."
+			},
+			{
+				"family": "Kimmel",
+				"given": "Kaitlin A."
+			},
+			{
+				"family": "Borer",
+				"given": "Elizabeth T."
+			},
+			{
+				"family": "Byrnes",
+				"given": "Jarrett E. K."
+			},
+			{
+				"family": "Clark",
+				"given": "Adam Thomas"
+			},
+			{
+				"family": "Hautier",
+				"given": "Yann"
+			},
+			{
+				"family": "Hector",
+				"given": "Andrew"
+			},
+			{
+				"family": "Raynaud",
+				"given": "Xavier"
+			},
+			{
+				"family": "Reich",
+				"given": "Peter B."
+			},
+			{
+				"family": "Wright",
+				"given": "Alexandra J."
+			},
+			{
+				"family": "Arnillas",
+				"given": "Carlos A."
+			},
+			{
+				"family": "Davies",
+				"given": "Kendi F."
+			},
+			{
+				"family": "MacDougall",
+				"given": "Andrew"
+			},
+			{
+				"family": "Mori",
+				"given": "Akira S."
+			},
+			{
+				"family": "Smith",
+				"given": "Melinda D."
+			},
+			{
+				"family": "Adler",
+				"given": "Peter B."
+			},
+			{
+				"family": "Bakker",
+				"given": "Jonathan D."
+			},
+			{
+				"family": "Brauman",
+				"given": "Kate A."
+			},
+			{
+				"family": "Cowles",
+				"given": "Jane"
+			},
+			{
+				"family": "Komatsu",
+				"given": "Kimberly"
+			},
+			{
+				"family": "Knops",
+				"given": "Johannes M. H."
+			},
+			{
+				"family": "McCulley",
+				"given": "Rebecca L."
+			},
+			{
+				"family": "Moore",
+				"given": "Joslin L."
+			},
+			{
+				"family": "Morgan",
+				"given": "John W."
+			},
+			{
+				"family": "Ohlert",
+				"given": "Timothy"
+			},
+			{
+				"family": "Power",
+				"given": "Sally A."
+			},
+			{
+				"family": "Sullivan",
+				"given": "Lauren L."
+			},
+			{
+				"family": "Stevens",
+				"given": "Carly"
+			},
+			{
+				"family": "Loreau",
+				"given": "Michel"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					5,
+					5
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					5,
+					5
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1810851/items/2V3YEERJ",
+		"type": "article",
+		"abstract": "Many scientific domains gather sufficient labels to train machine algorithms through human-in-the-loop techniques provided by the Zooniverse.org citizen science platform. As the range of projects, task types and data rates increase, acceleration of model training is of paramount concern to focus volunteer effort where most needed. The application of Transfer Learning (TL) between Zooniverse projects holds promise as a solution. However, understanding the effectiveness of TL approaches that pretrain on large-scale generic image sets vs. images with similar characteristics possibly from similar tasks is an open challenge. We apply a generative segmentation model on two Zooniverse project-based data sets: (1) to identify fat droplets in liver cells (FatChecker; FC) and (2) the identification of kelp beds in satellite images (Floating Forests; FF) through transfer learning from the first project. We compare and contrast its performance with a TL model based on the COCO image set, and subsequently with baseline counterparts. We find that both the FC and COCO TL models perform better than the baseline cases when using >75% of the original training sample size. The COCO-based TL model generally performs better than the FC-based one, likely due to its generalized features. Our investigations provide important insights into usage of TL approaches on multi-domain data hosted across different Zooniverse projects, enabling future projects to accelerate task completion.",
+		"DOI": "10.48550/arXiv.2211.03937",
+		"license": "All rights reserved",
+		"note": "arXiv:2211.03937 [cs]",
+		"number": "arXiv:2211.03937",
+		"publisher": "arXiv",
+		"source": "arXiv.org",
+		"title": "From fat droplets to floating forests: cross-domain transfer learning using a PatchGAN-based segmentation model",
+		"title-short": "From fat droplets to floating forests",
+		"URL": "http://arxiv.org/abs/2211.03937",
+		"author": [
+			{
+				"family": "Mantha",
+				"given": "Kameswara Bharadwaj"
+			},
+			{
+				"family": "Sankar",
+				"given": "Ramanakumar"
+			},
+			{
+				"family": "Zheng",
+				"given": "Yuping"
+			},
+			{
+				"family": "Fortson",
+				"given": "Lucy"
+			},
+			{
+				"family": "Pengo",
+				"given": "Thomas"
+			},
+			{
+				"family": "Mashek",
+				"given": "Douglas"
+			},
+			{
+				"family": "Sanders",
+				"given": "Mark"
+			},
+			{
+				"family": "Christensen",
+				"given": "Trace"
+			},
+			{
+				"family": "Salisbury",
+				"given": "Jeffrey"
+			},
+			{
+				"family": "Trouille",
+				"given": "Laura"
+			},
+			{
+				"family": "Byrnes",
+				"given": "Jarrett E. K."
+			},
+			{
+				"family": "Rosenthal",
+				"given": "Isaac"
+			},
+			{
+				"family": "Houskeeper",
+				"given": "Henry"
+			},
+			{
+				"family": "Cavanaugh",
+				"given": "Kyle"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					9,
+					27
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					11,
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1810851/items/HJTPJNJP",
+		"type": "article-journal",
+		"abstract": "A multitude of hypotheses have been invoked to explain increases in richness with increases in energy availability. Experiments have the potential to reveal causality, and species–energy experiments have yielded substantial insights into energetic community assembly. Here, we examine six mechanisms underlying species–energy relationships in an experimental wood fall system in the deep Gulf of Mexico. Twenty-four wood falls were deployed in the deep Gulf of Mexico for 21 months. To test for differences in total energy availability, individual wood falls ranged in size from 0.91 to 24 kg, corresponding to different levels of energy available to the wood-obligate invertebrate communities assembling on wood falls. To test for differences in total energy accessibility, we chose a softwood (pine, n = 12) and soft hardwood (sugarberry, n = 12). Structural equation models were used to disentangle the multiple hypothesized pathways by which changes in wood fall type and mass correlated with richness. Whereas we find support for the more individuals hypothesis, we also find that niche dynamics and competition play important roles as well linking energy and diversity. Furthermore, we find that not only the total energy but also the accessibility of that energy, dictating rates of energy flow, leads to differences in community structure. Using structural equation modeling (SEM), we evaluate seven hypotheses to demonstrate that no single hypotheses alone can predict the species–energy relationship.",
+		"container-title": "Ecosphere",
+		"DOI": "10.1002/ecs2.4667",
+		"ISSN": "2150-8925",
+		"issue": "10",
+		"language": "en",
+		"license": "© 2023 The Authors. Ecosphere published by Wiley Periodicals LLC on behalf of The Ecological Society of America.",
+		"note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/ecs2.4667",
+		"page": "e4667",
+		"source": "Wiley Online Library",
+		"title": "Disentangling mechanisms of species–energy relationships in experimental deep-sea wood falls",
+		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/ecs2.4667",
+		"volume": "14",
+		"author": [
+			{
+				"family": "McClain",
+				"given": "Craig R."
+			},
+			{
+				"family": "Bryant",
+				"given": "S. River D."
+			},
+			{
+				"family": "Hanks",
+				"given": "Granger"
+			},
+			{
+				"family": "Byrnes",
+				"given": "Jarrett"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					10,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1810851/items/KU7UJAZK",
+		"type": "article-journal",
+		"abstract": "Climate change strains human and natural system sustainability worldwide. Plum Island Estuary, Massachusetts (PIE MA) salt marshes are socio-environmental ecosystems experiencing two such climate stressors: sea level rise (SLR) and the mud fiddler crab Minuca pugnax (= Uca pugnax Smith) range expansion. Salt marshes are important sources of ecosystem functioning and ecosystem services. Uncertainties remain, however, whether SLR and the fiddler crab range expansion will affect PIE ecosystem functioning and services over time by changing marsh area. We, therefore, determined in this study: (1) to what degree PIE marshes provide residents with cultural ecosystem services (e.g., recreation); (2) whether SLR and the fiddler crab range expansion influence marsh area; and (3) whether policy measures influence the direction of marsh services in the face of SLR and multiple potential impacts of range expanding fiddler crabs. We developed a system dynamics model, parameterized with data from stakeholder surveys, the IPCC Report, and a literature review. We modeled low, moderate, and high SLR both with fiddler crabs enhancing marsh erosion and growth, and with and without mitigation strategies on marsh area and recreation. The multi-stressor effects of fiddler crab erosion enhancement and high SLR rates decreased marsh area by 2250. Future losses to marsh area caused declines in recreational days. Policy interventions (e.g., erosion reduction and tidal flood mitigation) largely mitigated these losses. Fiddler crab marsh growth by itself also strongly mitigated the effects of SLR. These results provide critical transdisciplinary insight for residents, scientists, and practitioners working to enhance PIE sustainability, and for researchers studying how to support environmental sustainability at scale.",
+		"container-title": "Sustainability Science",
+		"DOI": "10.1007/s11625-023-01414-0",
+		"ISSN": "1862-4057",
+		"journalAbbreviation": "Sustain Sci",
+		"language": "en",
+		"license": "All rights reserved",
+		"source": "Springer Link",
+		"title": "Mitigation policies buffer multiple climate stressors in a socio-ecological salt marsh habitat",
+		"URL": "https://doi.org/10.1007/s11625-023-01414-0",
+		"author": [
+			{
+				"family": "Roy",
+				"given": "Michael S."
+			},
+			{
+				"family": "Byrnes",
+				"given": "Jarrett E. K."
+			},
+			{
+				"family": "Mavrommati",
+				"given": "Georgia"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					10,
+					27
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					10,
+					27
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1810851/items/FSZR46ZY",
+		"type": "article-journal",
+		"abstract": "Seaweed farming in the United States is gaining significant financial and political support due to prospects to sustainably expand domestic economies with environmentally friendly products. Several networks are seeking appropriate synthesis of available science to both inform policy and substantiate the sector’s sustainability claims. Significant knowledge gaps remain regarding seaweed-specific food hazards and their mitigation; a resource-intensive challenge that can inhibit sustainable policies. This is particularly concerning for rapidly expanding Saccharina latissima (sugar kelp) crops, a brown seaweed that is known to accumulate heavy metals linked to food hazards. Here, we present baseline information about concentrations of arsenic, cadmium, lead, and mercury, in both wild and farmed sugar kelp from the New England region. We interpret our findings based on proximity to potential sources of contamination, location on blade, and available heavy metals standards. Contrary to our expectations, high concentrations were widespread in both wild and farmed populations, regardless of proximity to contamination. We find, like others, that cadmium and arsenic consistently reach levels of regulatory concern, and that dried seaweeds could harbor higher concentrations compared to raw products. We also share unique findings that suggest some toxins concentrate at the base of kelp blades. Our results are one step towards aggregating vital data for the region to expand its seaweed farming footprint.",
+		"container-title": "Scientific Reports",
+		"DOI": "10.1038/s41598-023-44685-4",
+		"ISSN": "2045-2322",
+		"issue": "1",
+		"journalAbbreviation": "Sci Rep",
+		"language": "en",
+		"license": "2023 Springer Nature Limited",
+		"note": "number: 1\npublisher: Nature Publishing Group",
+		"page": "17644",
+		"source": "www.nature.com",
+		"title": "Evidence of elevated heavy metals concentrations in wild and farmed sugar kelp (Saccharina latissima) in New England",
+		"URL": "https://www.nature.com/articles/s41598-023-44685-4",
+		"volume": "13",
+		"author": [
+			{
+				"family": "Shaughnessy",
+				"given": "Brianna K."
+			},
+			{
+				"family": "Jackson",
+				"given": "Brian P."
+			},
+			{
+				"family": "Byrnes",
+				"given": "Jarrett E. K."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					10,
+					27
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					10,
+					17
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1810851/items/VILGRGKJ",
+		"type": "article-journal",
+		"abstract": "In ecology, multifunctionality metrics measure the simultaneous performance of multiple ecosystem functions. If species diversity describes the variety of species that together build the ecosystem, multifunctionality attempts to describe the variety of functions these species perform. A range of methods have been proposed to quantify multifunctionality, successively attempting to alleviate problems that have been identified with the previous methods. This has led to a proliferation of more-or-less closely related metrics which, however, lack an overarching theoretical framework. Here we borrow from the comprehensive framework of species diversity to derive a new metric of multifunctionality. Analogously to the effective number of species used to quantify species diversity, the metric we propose is influenced both by the number of functions as well as, crucially, the evenness of performance levels across functions. In addition, the effective multifunctionality also considers the average level at which the functions are performed. The result is a measure of the cumulative performance of the system were all functions provided equally. The framework allows for the inclusion of the correlation structure among functions, thus allowing it to account for non-independence between functions. We show that the average metric is a special case of the newly proposed metric when all functions are uncorrelated and performed at equal levels. We hope that by providing a new metric of multifunctionality anchored in the rigorous framework of species diversity based on effective numbers, we will overcome the considerable skepticism that the larger community of ecologists has built against indices of multifunctionality. We thereby hope to help popularize this important concept which, like biological diversity, describes a fundamental property of ecosystems and thus lies at the heart of ecology.",
+		"container-title": "Oikos",
+		"DOI": "10.1111/oik.09402",
+		"ISSN": "1600-0706",
+		"issue": "2",
+		"language": "en",
+		"license": "© 2022 Nordic Society Oikos. Published by John Wiley & Sons Ltd",
+		"note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/oik.09402",
+		"page": "e09402",
+		"source": "Wiley Online Library",
+		"title": "Understandable multifunctionality measures using Hill numbers",
+		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1111/oik.09402",
+		"volume": "2023",
+		"author": [
+			{
+				"family": "Byrnes",
+				"given": "Jarrett E. K."
+			},
+			{
+				"family": "Roger",
+				"given": "Fabian"
+			},
+			{
+				"family": "Bagchi",
+				"given": "Robert"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					12,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1810851/items/ERR9Q633",
+		"type": "article-journal",
+		"abstract": "Hundreds of thousands of undergraduates enroll in general education science courses to fulfill university core requirements. However, many of these lecture-based courses fail to foster high-level data literacy skills. This work details the design, implementation, and analysis of a new climate change-based classroom activity for college students that pairs data interpretation with participation in an online citizen science project called Floating Forests (http://floatingforests.org). We pilot tested our activity in introductory geoscience and biology courses at six universities (?1,500 students) during the 2020?2021 academic year. Additionally, we developed and validated a survey to assess how engagement with our activity impacted students? self-reported changes across four factors: (1) perceptions of the impacts of climate change, (2) data literacy self-efficacy, (3) beliefs about the value of citizen science, and (4) beliefs about science engagement. In a pre- to post-test comparison, students who utilized our activity in their courses showed statistically significant increases (p?<?0.05) across all four factors. These results highlight the potential benefit of implementing data-driven, citizen science-based activities in introductory-level undergraduate courses.",
+		"container-title": "Journal of Geoscience Education",
+		"DOI": "10.1080/10899995.2023.2292945",
+		"ISSN": "1089-9995",
+		"journalAbbreviation": "Journal of Geoscience Education",
+		"license": "All rights reserved",
+		"note": "publisher: Routledge",
+		"page": "1-12",
+		"title": "A citizen science approach to teaching climate change in introductory-level undergraduate general science courses",
+		"URL": "https://doi.org/10.1080/10899995.2023.2292945",
+		"author": [
+			{
+				"family": "Rosenthal",
+				"given": "Isaac S."
+			},
+			{
+				"family": "Simon",
+				"given": "Molly N."
+			},
+			{
+				"family": "Trouille",
+				"given": "Laura"
+			},
+			{
+				"family": "Byrnes",
+				"given": "Jarrett E.K"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2024"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1810851/items/FRGVUM3Q",
+		"type": "article-journal",
+		"abstract": "Climate change plays a large role in driving species range shifts; however, the physical characteristics of an environment can also influence and alter species distributions. In New England salt marshes, the mud fiddler crab Minuca pugnax is expanding its range north of Cape Cod, MA, into the Gulf of Maine (GoM) due to warming waters. The burrowing lifestyle of M. pugnax means sediment compaction in salt marshes may influence the ability of crabs to dig, with more compact soils being resistant to burrowing. Previous studies indicate that salt marshes along the GoM have a higher sediment compaction relative to marshes south of Cape Cod. Physical characteristics of this habitat may be influencing the burrowing performance of M. pugnax and therefore the continuation of their northward range expansion into the GoM. We conducted a controlled laboratory experiment to determine if compaction affects the burrowing activity of M. pugnax in historical and range-expanded populations. We manipulated sediment compaction in standardized lab assays and measured crab burrowing performance with individuals collected from Nantucket (NAN, i.e. historical range) and the Plum Island Estuary (PIE, i.e. expanded range). We determined compaction negatively affected burrowing ability in crabs from both sites; however, crabs from PIE have a higher probability of burrowing in higher sediment compactions than NAN crabs. In addition, PIE crabs were more likely to burrow overall. We conclude that site level differences in compaction are likely altering burrowing behavior in the crab’s expanded-range territory by way of local adaptation or phenotypic plasticity.",
+		"container-title": "Marine Ecology Progress Series",
+		"DOI": "10.3354/meps13811",
+		"ISSN": "0171-8630, 1616-1599",
+		"journalAbbreviation": "Mar. Ecol. Prog. Ser.",
+		"language": "en",
+		"license": "All rights reserved",
+		"page": "163-171",
+		"source": "DOI.org (Crossref)",
+		"title": "Sediment selection: range-expanding fiddler crabs are better burrowers than their historic-range counterparts",
+		"title-short": "Sediment selection",
+		"URL": "https://www.int-res.com/abstracts/meps/v674/p163-171/",
+		"volume": "674",
+		"author": [
+			{
+				"family": "Wong",
+				"given": "Rj"
+			},
+			{
+				"family": "Roy",
+				"given": "Ms"
+			},
+			{
+				"family": "Byrnes",
+				"given": "Jek"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					4,
+					25
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					9,
+					16
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1810851/items/6BKTLAZH",
+		"type": "article-journal",
+		"abstract": "The impacts of global change—from shifts in climate to overfishing to land use change—can depend heavily on local abiotic context. Building an understanding of how to downscale global change scenarios to local impacts is often difficult, however, and requires historical data across large gradients of variability. Such data are often not available—particularly in peer reviewed or gray literature. However, these data can sometimes be gleaned from casual records of natural history—field notebooks, data sheet marginalia, course notes, and more. Here, we provide an example of one such approach for the Gulf of Maine, as we seek to understand how environmental context can influence local outcomes of region-wide shifts in subtidal community structure. We explore a decade of hand-drawn algal cover maps around Appledore Island made by Dr. Art Borror while teaching at the Shoals Marine Lab. Appledore's steep wave exposure gradient—from exposed to the open ocean to fully protected—provides a living laboratory to test interactions between global change and local conditions. We then recreate Borror's methods two and a half decades later. We show that overfishing-driven urchin outbreaks in the 1980s were slowed or stopped by wave exposure and benthic topography. Similarly, local variation appears to have curtailed current invasions by filamentous red algae. Last, some formerly dominant kelps have disappeared over the past 40 years—an observation verified by subtidal surveys. Global change is altering life in the seas around us. While underutilized, solid natural history observations stand as a key resource for us to begin to understand how global change will translate to the heterogeneous mosaic of life in a future Gulf of Maine and other ecosystems around the world.",
+		"container-title": "Ecosphere",
+		"DOI": "10.1002/ecs2.4800",
+		"ISSN": "2150-8925",
+		"issue": "4",
+		"language": "en",
+		"license": "All rights reserved",
+		"note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/ecs2.4800",
+		"page": "e4800",
+		"source": "Wiley Online Library",
+		"title": "Notes from the past show how local variability can stymie urchins and the rise of the reds in the Gulf of Maine",
+		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/ecs2.4800",
+		"volume": "15",
+		"author": [
+			{
+				"family": "Byrnes",
+				"given": "Jarrett E. K."
+			},
+			{
+				"family": "Brown",
+				"given": "Andrea"
+			},
+			{
+				"family": "Sheridan",
+				"given": "Kate"
+			},
+			{
+				"family": "Peller",
+				"given": "Tianna"
+			},
+			{
+				"family": "Lawlor",
+				"given": "Jake"
+			},
+			{
+				"family": "Beaulieu",
+				"given": "Julien"
+			},
+			{
+				"family": "Muñoz",
+				"given": "Jenny"
+			},
+			{
+				"family": "Hesketh",
+				"given": "Amelia"
+			},
+			{
+				"family": "Pereira",
+				"given": "Alexis"
+			},
+			{
+				"family": "Knight",
+				"given": "Nicole S."
+			},
+			{
+				"family": "Super",
+				"given": "Laura"
+			},
+			{
+				"family": "Bledsoe",
+				"given": "Ellen K."
+			},
+			{
+				"family": "Burant",
+				"given": "Joseph B."
+			},
+			{
+				"family": "Dijkstra",
+				"given": "Jennifer A."
+			},
+			{
+				"family": "Benes",
+				"given": "Kylla"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					6,
+					20
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2024"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1810851/items/QATYU9XZ",
+		"type": "article-journal",
+		"abstract": "Ecological theory predicts that kelp forests structured by trophic cascades should experience recovery and persistence of their foundation species when herbivores become rare. Yet, climate change may be altering the outcomes of top-down forcing in kelp forests, especially those located in regions that have rapidly warmed in recent decades, such as the Gulf of Maine. Here, using data collected annually from 30+ sites spanning >350 km of coastline, we explored the dynamics of Maine's kelp forests in the 20 years after a fishery-induced elimination of sea urchin herbivores. Although forests (Saccharina latissima and Laminaria digitata) had broadly returned to Maine in the late 20th century, we found that forests in northeast Maine have since experienced slow but significant declines in kelp, and forest persistence in the northeast was juxtaposed by a rapid, widespread collapse in the southwest. Forests collapsed in the southwest apparently because ocean warming has—directly and indirectly—made this area inhospitable to kelp. Indeed, when modeling drivers of change using causal techniques from econometrics, we discovered that unusually high summer seawater temperatures the year prior, unusually high spring seawater temperatures, and high sea urchin densities each negatively impacted kelp abundance. Furthermore, the relative power and absolute impact of these drivers varied geographically. Our findings reveal that ocean warming is redefining the outcomes of top-down forcing in this system, whereby herbivore removal no longer predictably leads to a sustained dominance of foundational kelps but instead has led to a waning dominance (northeast) or the rise of a novel phase state defined by “turf” algae (southwest). Such findings indicate that limiting climate change and managing for low herbivore abundances will be essential for preventing further loss of the vast forests that still exist in northeast Maine. They also more broadly highlight that climate change is “rewriting the rules” of nature, and thus that ecological theory and practice must be revised to account for shifting species and processes.",
+		"container-title": "Ecology",
+		"DOI": "10.1002/ecy.4334",
+		"ISSN": "1939-9170",
+		"issue": "7",
+		"language": "en",
+		"license": "© 2024 The Authors. Ecology published by Wiley Periodicals LLC on behalf of The Ecological Society of America.",
+		"note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/ecy.4334",
+		"page": "e4334",
+		"source": "Wiley Online Library",
+		"title": "Ocean warming undermines the recovery resilience of New England kelp forests following a fishery-induced trophic cascade",
+		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/ecy.4334",
+		"volume": "105",
+		"author": [
+			{
+				"family": "Suskiewicz",
+				"given": "Thew S."
+			},
+			{
+				"family": "Byrnes",
+				"given": "Jarrett E. K."
+			},
+			{
+				"family": "Steneck",
+				"given": "Robert S."
+			},
+			{
+				"family": "Russell",
+				"given": "Robert"
+			},
+			{
+				"family": "Wilson",
+				"given": "Carl J."
+			},
+			{
+				"family": "Rasher",
+				"given": "Douglas B."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					7,
+					1
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2024"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1810851/items/GL65D2X3",
+		"type": "article-journal",
+		"container-title": "Climatic Change",
+		"DOI": "10.1007/s10584-020-02781-8",
+		"ISSN": "0165-0009, 1573-1480",
+		"issue": "2",
+		"journalAbbreviation": "Climatic Change",
+		"language": "en",
+		"license": "All rights reserved",
+		"page": "445-464",
+		"source": "DOI.org (Crossref)",
+		"title": "Integrated assessment of storm surge barrier systems under present and future climates and comparison to alternatives: a case study of Boston, USA",
+		"title-short": "Integrated assessment of storm surge barrier systems under present and future climates and comparison to alternatives",
+		"URL": "https://link.springer.com/10.1007/s10584-020-02781-8",
+		"volume": "162",
+		"author": [
+			{
+				"family": "Kirshen",
+				"given": "Paul"
+			},
+			{
+				"family": "Borrelli",
+				"given": "Mark"
+			},
+			{
+				"family": "Byrnes",
+				"given": "Jarrett"
+			},
+			{
+				"family": "Chen",
+				"given": "Robert"
+			},
+			{
+				"family": "Lockwood",
+				"given": "Lucy"
+			},
+			{
+				"family": "Watson",
+				"given": "Chris"
+			},
+			{
+				"family": "Starbuck",
+				"given": "Kimberly"
+			},
+			{
+				"family": "Wiggin",
+				"given": "Jack"
+			},
+			{
+				"family": "Novelly",
+				"given": "Allison"
+			},
+			{
+				"family": "Uiterwyk",
+				"given": "Kristin"
+			},
+			{
+				"family": "Thurson",
+				"given": "Kelli"
+			},
+			{
+				"family": "McMann",
+				"given": "Brett"
+			},
+			{
+				"family": "Foster",
+				"given": "Carly"
+			},
+			{
+				"family": "Sprague",
+				"given": "Heather"
+			},
+			{
+				"family": "Roberts",
+				"given": "Hugh J."
+			},
+			{
+				"family": "Bosma",
+				"given": "Kirk"
+			},
+			{
+				"family": "Jin",
+				"given": "Di"
+			},
+			{
+				"family": "Herst",
+				"given": "Rebecca"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					2,
+					18
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1810851/items/4LGARS78",
+		"type": "article-journal",
+		"abstract": "In recent years, our view of coastal ecosystems has expanded and come into greater focus. We are currently making more types of observations over larger areas and at higher frequencies than ever before. These advances are timely, as coastal ecosystems are facing increasing pressures from climate change and anthropogenic stressors. This article synthesizes recent literature on emerging technologies for coastal ecosystem monitoring, including satellite monitoring, aerial and underwater drones, in situ sensor networks, fiber optic systems, and community science observatories. We also describe how advances in artificial intelligence and deep learning underpin all these technologies by enabling insights to be drawn from increasingly large data volumes. Even with these recent advances, there are still major gaps in coastal ecosystem monitoring that must be addressed to manage coastal ecosystems during a period of accelerating global change.",
+		"container-title": "Annual Review of Marine Science",
+		"DOI": "10.1146/annurev-marine-040523-020221",
+		"ISSN": "1941-1405, 1941-0611",
+		"issue": "Volume 17, 2025",
+		"language": "en",
+		"license": "All rights reserved",
+		"note": "publisher: Annual Reviews",
+		"page": "409-433",
+		"source": "www.annualreviews.org",
+		"title": "New Technologies for Monitoring Coastal Ecosystem Dynamics",
+		"URL": "https://www.annualreviews.org/content/journals/10.1146/annurev-marine-040523-020221",
+		"volume": "17",
+		"author": [
+			{
+				"family": "Cavanaugh",
+				"given": "Kyle C."
+			},
+			{
+				"family": "Bell",
+				"given": "Tom W."
+			},
+			{
+				"family": "Aerni",
+				"given": "Karen E."
+			},
+			{
+				"family": "Byrnes",
+				"given": "Jarrett E. K."
+			},
+			{
+				"family": "McCammon",
+				"given": "Seth"
+			},
+			{
+				"family": "Smith",
+				"given": "Madison M."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					2,
+					18
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2025",
+					1,
+					16
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1810851/items/VD26TQ8I",
+		"type": "article-journal",
+		"abstract": "Experiments have long been the gold standard for causal inference in Ecology. As Ecology tackles progressively larger problems, however, we are moving beyond the scales at which randomised controlled experiments are feasible. To answer causal questions at scale, we need to also use observational data —something Ecologists tend to view with great scepticism. The major challenge using observational data for causal inference is confounding variables: variables affecting both a causal variable and response of interest. Unmeasured confounders—known or unknown—lead to statistical bias, creating spurious correlations and masking true causal relationships. To combat this omitted variable bias, other disciplines have developed rigorous approaches for causal inference from observational data that flexibly control for broad suites of confounding variables. We show how ecologists can harness some of these methods—causal diagrams to identify confounders coupled with nested sampling and statistical designs—to reduce risks of omitted variable bias. Using an example of estimating warming effects on snails, we show how current methods in Ecology (e.g., mixed models) produce incorrect inferences due to omitted variable bias and how alternative methods can eliminate it, improving causal inferences with weaker assumptions. Our goal is to expand tools for causal inference using observational and imperfect experimental data in Ecology.",
+		"container-title": "Ecology Letters",
+		"DOI": "10.1111/ele.70023",
+		"ISSN": "1461-0248",
+		"issue": "1",
+		"language": "en",
+		"license": "© 2025 The Author(s). Ecology Letters published by John Wiley & Sons Ltd.",
+		"note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/ele.70023",
+		"page": "e70023",
+		"source": "Wiley Online Library",
+		"title": "Causal Inference With Observational Data and Unobserved Confounding Variables",
+		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.70023",
+		"volume": "28",
+		"author": [
+			{
+				"family": "Byrnes",
+				"given": "Jarrett E. K."
+			},
+			{
+				"family": "Dee",
+				"given": "Laura E."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					2,
+					18
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2025"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1810851/items/IAPI2JLN",
+		"type": "article-journal",
+		"abstract": "Conservation of marine biodiversity requires an understanding of the habitats needed to support and replenish species of interest. It also requires knowledge about the abundance and diversity of multispecies assemblages. Variation in the distribution and composition of kelp forests, one of the most productive marine coastal habitats globally, can have major influences on reef fishes—a group of ecologically and socioeconomically important species. In the face of widespread and escalating loss of kelp forests, quantification of these effects is urgently needed to assess and project cascading impacts on biodiversity. Here, we evaluate relationships between kelp forests and associated reef fish populations using a global meta-analysis of experimental kelp removals and comparative surveys of kelp and adjacent non-kelp habitats. These analyses show that kelp forests increase the abundance of reef fishes, though the significance of this effect varied depending on the structural complexity of kelp forests. In experimental studies, kelp forests have a significant positive effect on fish species richness, revealing that kelp act as true foundation species by supporting the diversity of associated multispecies assemblages. Importantly, regardless of kelp forest morphology and type of study (observational or experimental studies), kelp forests enhance the recruitment of early life history stages suggesting they are nursery habitats for many reef fish taxa. Lastly, kelp forests differentially affected species with different functional traits; small body size fishes from low trophic levels (e.g., herbivore and detritivores, micropredators, and mesopredators) and large body size fish from higher trophic level (e.g., piscivores, general carnivores) were both facilitated by kelp forests. Taken together, these results indicate that the loss of kelp forest, particularly those with more complex morphology, can reduce total abundance and diversity of fish, with possible cascading consequences for coastal ecosystem function.",
+		"container-title": "Ecology",
+		"DOI": "10.1002/ecy.70007",
+		"ISSN": "1939-9170",
+		"issue": "2",
+		"language": "en",
+		"license": "© 2025 The Ecological Society of America.",
+		"note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/ecy.70007",
+		"page": "e70007",
+		"source": "Wiley Online Library",
+		"title": "Kelp forests as nursery and foundational habitat for reef fishes",
+		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/ecy.70007",
+		"volume": "106",
+		"author": [
+			{
+				"family": "Pérez-Matus",
+				"given": "Alejandro"
+			},
+			{
+				"family": "Micheli",
+				"given": "Fiorenza"
+			},
+			{
+				"family": "Konar",
+				"given": "Brenda"
+			},
+			{
+				"family": "Shears",
+				"given": "Nick"
+			},
+			{
+				"family": "Low",
+				"given": "Natalie H. N."
+			},
+			{
+				"family": "Okamoto",
+				"given": "Daniel K."
+			},
+			{
+				"family": "Wernberg",
+				"given": "Thomas"
+			},
+			{
+				"family": "Krumhansl",
+				"given": "Kira A."
+			},
+			{
+				"family": "Ling",
+				"given": "Scott D."
+			},
+			{
+				"family": "Kingsford",
+				"given": "Michael"
+			},
+			{
+				"family": "Navarrete-Fernandez",
+				"given": "Teresa"
+			},
+			{
+				"family": "Ruz",
+				"given": "Catalina S."
+			},
+			{
+				"family": "Byrnes",
+				"given": "Jarrett E. K."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					2,
+					25
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2025"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1810851/items/REIE3SQ8",
+		"type": "article-journal",
+		"abstract": "Sustainably managing kelp forest ecosystems is critical to maintaining marine biodiversity, supporting coastal communities, and meeting global conservation targets such as the Kunming-Montreal Global Biodiversity Framework's 30 × 30 and Kelp Forest Challenge. Effective kelp forest management frequently depends on selecting environmentally suitable sites that align with species-specific environmental requirements. This paper introduces a novel kelp forest environmental niche mapping tool that synthesizes the realized environmental niche of 65 kelp species across 25 biophysical factors. Using over 426,000 global observations of kelp and high-resolution oceanographic datasets, the tool provides quantitative environmental niche data summarized by species and ecoregion. It focuses on key biophysical variables such as temperature, salinity, light, and nutrient availability, offering users practical guidance to identify optimal locations for kelp growth and survival. The tool is accessible via an interactive web application and supports conservation practitioners, policymakers, and researchers by enabling evidence-based site selection, maximizing conservation success, and informing broader marine ecosystem management. This tool presents a useful advancement in kelp forest management, facilitating global restoration efforts and contributing to the ambitious goal of restoring one million hectares of kelp forest by 2040. Future developments will address qualitative ecological factors and socio-cultural considerations to enhance its utility.",
+		"container-title": "Ecology and Evolution",
+		"DOI": "10.1002/ece3.71459",
+		"ISSN": "2045-7758",
+		"issue": "6",
+		"language": "en",
+		"license": "© 2025 The Author(s). Ecology and Evolution published by British Ecological Society and John Wiley & Sons Ltd.",
+		"note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/ece3.71459",
+		"page": "e71459",
+		"source": "Wiley Online Library",
+		"title": "An Environmental Niche Exploration Tool for Kelp Forest Management",
+		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/ece3.71459",
+		"volume": "15",
+		"author": [
+			{
+				"family": "Eger",
+				"given": "Aaron M."
+			},
+			{
+				"family": "Wood",
+				"given": "Georgina V."
+			},
+			{
+				"family": "Byrnes",
+				"given": "Jarrett"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					5,
+					29
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2025"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1810851/items/4FXCJW99",
+		"type": "article-journal",
+		"abstract": "In ecology, causal questions are ubiquitous, yet the literature describing systematic approaches to answering these questions is vast and fragmented across different traditions (e.g., randomization, structural equation modeling, convergent cross mapping). In our Perspective, we connect the causal assumptions, tasks, frameworks, and methods across these traditions, thereby providing a synthesis of the concepts and methodological advances for detecting and quantifying causal relationships in ecological systems. Through a newly developed workflow, we emphasize how ecologists’ choices among empirical approaches are guided by the pre-existing knowledge that ecologists have and the causal assumptions that ecologists are willing to make.",
+		"language": "en",
+		"license": "CC-BY Attribution-No Derivatives 4.0 International",
+		"note": "publisher: EcoEvoRxiv",
+		"source": "ecoevorxiv.org",
+		"title": "Best practices for moving from correlation to causation in ecological research",
+		"URL": "https://ecoevorxiv.org/repository/view/9361/",
+		"author": [
+			{
+				"family": "Correia",
+				"given": "Hannah E."
+			},
+			{
+				"family": "Dee",
+				"given": "Laura E."
+			},
+			{
+				"family": "Byrnes",
+				"given": "Jarrett E. K."
+			},
+			{
+				"family": "Fieberg",
+				"given": "John"
+			},
+			{
+				"family": "Fortin",
+				"given": "Marie-Josee"
+			},
+			{
+				"family": "Glymour",
+				"given": "Clark"
+			},
+			{
+				"family": "Runge",
+				"given": "Jakob"
+			},
+			{
+				"family": "Shipley",
+				"given": "Bill"
+			},
+			{
+				"family": "Shpitser",
+				"given": "Ilya"
+			},
+			{
+				"family": "Siegel",
+				"given": "Katherine Johannet"
+			},
+			{
+				"family": "Sugihara",
+				"given": "George"
+			},
+			{
+				"family": "Holle",
+				"given": "Betsy",
+				"dropping-particle": "von"
+			},
+			{
+				"family": "Ferraro",
+				"given": "Paul J."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					6,
+					9
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2025",
+					6,
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1810851/items/N6C96VAN",
+		"type": "article-journal",
+		"abstract": "As climate change increasingly affects biodiversity and ecosystem services, a key challenge in ecology is accurate attribution of these impacts. Though experimental studies have greatly advanced our understanding of climate change effects, experimental results are difficult to generalise to real-world scenarios. To better capture realised impacts, ecologists can use observational data. Disentangling cause and effect using observational data, however, requires careful research design. Here we describe advances in causal inference that can improve climate change attribution in observational settings. Our framework includes five steps: (1) describe the theoretical foundation, (2) choose appropriate observational datasets, (3) estimate the causal relationships of interest, (4) simulate a counterfactual scenario and (5) evaluate results and assumptions using robustness checks. We demonstrate this framework using a pinyon pine case study in North America, and we conclude with a discussion of frontiers in climate change attribution. Our aim is to provide an accessible foundation for applying observational causal inference to estimate climate change effects on ecological systems.",
+		"container-title": "Ecology Letters",
+		"DOI": "10.1111/ele.70192",
+		"ISSN": "1461-0248",
+		"issue": "8",
+		"language": "en",
+		"license": "© 2025 John Wiley & Sons Ltd.",
+		"note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/ele.70192",
+		"page": "e70192",
+		"source": "Wiley Online Library",
+		"title": "A Causal Inference Framework for Climate Change Attribution in Ecology",
+		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.70192",
+		"volume": "28",
+		"author": [
+			{
+				"family": "Dudney",
+				"given": "Joan"
+			},
+			{
+				"family": "Dee",
+				"given": "Laura E."
+			},
+			{
+				"family": "Heilmayr",
+				"given": "Robert"
+			},
+			{
+				"family": "Byrnes",
+				"given": "Jarrett"
+			},
+			{
+				"family": "Siegel",
+				"given": "Katherine"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					8,
+					14
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2025"
+				]
+			]
+		}
+	}
+]

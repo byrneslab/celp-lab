@@ -1,0 +1,21 @@
+---
+title: "Jarrett Byrnes"
+date: "2012-09-01"
+date-format: " "
+categories:
+  - PI
+---
+
+![](/images/jarrett-byrnes-field-ecologist.jpg)
+
+
+**Info**  
+Curriculum Vitae: <a href="http://byrneslab.net/wp-content/uploads/2023/08/Byrnes_CV.pdf">pdf</a>  
+Email: <a href="mailto:jarrett.byrnes@umb.edu">jarrett.byrnes@umb.edu</a>  
+Bluesky: <a href="https://bsky.app/profile/jebyrnes.bsky.social">@jebyrnes.bsky.social</a>  
+Blog: <a href="http://imachordata.com">I'm a chordata! Urochordata!</a>  
+Google Scholar <a href="http://scholar.google.com/citations?user=hJKBuhkAAAAJ">page</a>  
+Github: <a href="http://github.com/jebyrnes">@jebyrnes</a>   
+My position on the <a href="http://academictree.org/mareco/tree.php?pid=26721">marine ecology family tree</a>  
+
+My research focuses on the causes and consequences of complexity in nature. I am interested in how humans alter the diversity and interconnectedness of life on earth. Understanding how these changes alter the services that nature provides is a critical need as we watch ecosystem after ecosystem collapse. I study these questions in the ocean because, let's face it, the sheer number and diversity of species in the oceans is astounding.

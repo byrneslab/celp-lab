@@ -1,0 +1,7 @@
+---
+title: "Josie Wrinkle"
+date: "2024-01-01"
+date-format: " "
+categories:
+  - Tech
+---

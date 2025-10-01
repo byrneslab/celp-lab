@@ -1,0 +1,11 @@
+---
+title: "Amy Jones"
+image: '/images/students/amy_jones.jpeg'
+date: "2020-09-03"
+categories:
+    - Undergrad
+    - Tech
+include-in-header: 
+      text: |
+        <meta http-equiv="refresh" content="0; url=https://www.linkedin.com/in/amyjones634/">
+---
