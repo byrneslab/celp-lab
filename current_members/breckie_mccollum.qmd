@@ -2,6 +2,10 @@
 title: "Breckie McCollum"
 date: "2019-01-01"
 date-format: " "
+image: 'https://breckmccollum.com/wp-content/uploads/2023/02/img_6008-2.jpg?w=752'
 categories:
   - PhD Student
+include-in-header: 
+      text: |
+        <meta http-equiv="refresh" content="0; url=https://breckmccollum.com/">
 ---
