@@ -2,10 +2,21 @@
 title: ""
 ---
 
-This is a Quarto website.
+**BLOG**  
+- [I'm a Chordata! Urochordata!](http://imachordata.github.io)  
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+**Classes**  
+- [Biol 355/356: Intro to Data Science for Biology](https://biol355.github.io)  
+- [Biol 607/617: Biostatistics and Experimental Design](https://biol607.github.io)  
+- [Biol 609: Advanced Data Analysis for Biology](https://biol609.github.io)  
+- [Biol 697: Meta-analysis for Ecology](https://jarrettbyrnes.info/meta/)  
+- [Structural Equation Modeling for Ecology and Evolutionary Biology](https://sem-eeb.github.io/semclass/)  
 
-```{r}
-1 + 1
-```
+
+**Tutorials**
+
+
+**Data Sets**
+
+
+**Code**
