@@ -1,7 +1,13 @@
 ---
 title: "Melba Torres Sosa"
+image: "images/students/melba_torres.png"
 date: "2020-01-01"
 date-format: " "
 categories:
   - PhD Student
 ---
+My PhD research at the Byrnes lab focuses on characterizing the structure, function, and dynamics of marine microbial communities in urban coastal ecosystems. By understanding the complex relationships between microbes and their environment, I hope to help lay the groundwork for developing microbe-based solutions to enhance ecosystem health and promote resilience in these vital habitats in the face of human development and climate change. I am excited to be part of the Boston living seawalls project!
+
+I believe science should be accessible and fun for all, and community participation is a core value in my work. I am passionate about sharing my scientific journey and actively seeking ways to involve local communities in my project as it develops.
+
+Email: melba.torressosa001@umb.edu

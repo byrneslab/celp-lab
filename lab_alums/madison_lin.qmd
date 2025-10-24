@@ -1,0 +1,12 @@
+---
+title: "Madison Lin"
+image: '/images/students/madison_lin.png'
+date: "2023-09-01"
+categories:
+    - REU
+include-in-header: 
+      text: |
+        <meta http-equiv="refresh" content="0; url=https://www.linkedin.com/in/madison-lin-876836146/">
+---
+
+Madison is a current Environmental Policy and East Asian Studies double major and Mathematics minor at Colby College. Through UMass Boston’s CREST-REU, she found herself in the Byrnes Lab this summer working on a project centered around cobble berms and their impact on biodiversity. As someone who wishes to build a career in the conservation field, Madison was thrilled to be a part of the team. She loves to travel, get in the field, and sample the local food scene when she isn’t out sampling for biodiversity. In the future, she would love to get her Masters and work on wildlife conservation across the world.

@@ -1,7 +1,11 @@
 ---
 title: "Curtis Morris"
-date: "2020-01-01"
-date-format: " "
+image: "/images/students/curtis_morris_1.jpg"
+date: "2024-01-01"
 categories:
   - PhD Student
 ---
+![](/images/students/curtis_morris.jpg)
+
+Curtis Morris is a PhD student in the Byrnes Lab who studies the ecology of nature-based coastal protection structures as well as the biodiversity, distribution, and function of coralline algae in the Gulf of Maine.
+

@@ -1,0 +1,10 @@
+---
+title: "Melody Rose"
+image: '/images/students/melody_rose.png'
+date: "2023-04-03"
+categories:
+    - Undergrad
+include-in-header: 
+      text: |
+        <meta http-equiv="refresh" content="0; url=https://www.linkedin.com/in/melody-rose-/">
+---

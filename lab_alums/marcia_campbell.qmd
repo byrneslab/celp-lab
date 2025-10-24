@@ -1,0 +1,10 @@
+---
+title: "Marcia Campbell"
+image: '/images/students/marcia_campbell.jpeg'
+date: "2024-09-03"
+categories:
+    - Tech
+include-in-header: 
+      text: |
+        <meta http-equiv="refresh" content="0; url=https://www.linkedin.com/in/marcia-campbell-83270b1b2/">
+---
