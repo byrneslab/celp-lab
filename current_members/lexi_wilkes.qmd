@@ -2,6 +2,11 @@
 title: "Lexi Wilkes"
 date: "2020-01-01"
 date-format: " "
+image: '/images/students/lexi_wilkes.jpeg'
+object-position: top
 categories:
   - PhD Student
+include-in-header: 
+      text: |
+        <meta http-equiv="refresh" content="0; url=https://lexi-wilkes.my.canva.site/">
 ---

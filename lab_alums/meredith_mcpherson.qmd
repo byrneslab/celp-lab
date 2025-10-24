@@ -1,6 +1,6 @@
 ---
 title: "Meredith McPherson"
-image: '/images/students/'
+image: '/images/students/McPherson_kelp.jpg'
 date: "2022-04-03"
 categories:
     - Postdoc

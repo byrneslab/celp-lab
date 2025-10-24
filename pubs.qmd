@@ -18,4 +18,4 @@ refs <- read.bib(file = "publications.bib",
 )
 ```
 
-Below are the `r length(refs)` publications from Jarrett Byrnes, PI of the CELP lab.
+Below are the <!-- `r length(refs)`--> publications from Jarrett Byrnes, PI of the CELP lab.

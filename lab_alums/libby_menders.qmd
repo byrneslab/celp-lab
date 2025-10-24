@@ -1,10 +1,10 @@
 ---
-title: ""
-image: ''
-date: ""
+title: "Libby Menders"
+image: '/images/students/libby.jpg'
+date: "2014-09-01"
 categories:
-    - Undergrad
+    - REU
 include-in-header: 
       text: |
-        <meta http-equiv="refresh" content="0; url=https://www.linkedin.com/in/nelsonnease/">
+        <meta http-equiv="refresh" content="0; url=https://www.linkedin.com/in/libby-menders/">
 ---

@@ -1,10 +1,7 @@
 ---
-title: ""
-image: ''
-date: ""
+title: "Yichi Zhang"
+image: '/images/students/yichi_zhang.jpg'
+date: "2018-09-01"
 categories:
     - Undergrad
-include-in-header: 
-      text: |
-        <meta http-equiv="refresh" content="0; url=https://www.linkedin.com/in/nelsonnease/">
 ---
