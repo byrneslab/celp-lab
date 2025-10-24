@@ -2,8 +2,9 @@
 title: "Past Lab Members"
 listing:
   categories: true
-  sort: "date"
+  sort: "title"
   type: grid
+  fields: [image, title, categories]
   date-format: " "	
   contents:
     - lab_alums
