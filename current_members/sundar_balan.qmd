@@ -8,5 +8,5 @@ categories:
   - Postdoc
 include-in-header: 
       text: |
-        <meta http-equiv="refresh" content="0; url=https://sundarabalan31.github.io/Sundar-website/">
+        <meta http-equiv="refresh" content="0; url=https://sundarabalan31.github.io/">
 ---
