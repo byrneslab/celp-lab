@@ -1,24 +1,18 @@
 ---
-title: ""
+title: "Code, Data, Repos, and More"
 ---
 
-**BLOG**  
-- [I'm a Chordata! Urochordata!](http://imachordata.github.io)  
+**Lab Github Repos**  
+- [Our lab repo](https://github.com/byrneslab)  
+- [Jarrett](https://github.com/jebyrnes)  
+- [CIEE Intertidal-Subtidal at Shoals Marine Lab Working Group](https://github.com/Intertidal-Subtidal-WG)  
+- [Breckie McCollum](http://github.com/bAMcCollum/)  
+- [Grant Applications Submitted](https://github.com/jebyrnes/grant_applications) - incomplete, but some examples there
 
-**Classes**  
-- [Biol 355/356: Intro to Data Science for Biology](https://biol355.github.io)  
-- [Biol 607/617: Biostatistics and Experimental Design](https://biol607.github.io)  
-- [Biol 609: Advanced Data Analysis for Biology](https://biol609.github.io)  
-- [Biol 697: Meta-analysis for Ecology](https://jarrettbyrnes.info/meta/)  
-- [Structural Equation Modeling for Ecology and Evolutionary Biology](https://sem-eeb.github.io/semclass/)  
-- [Marine Biology and Ecology]()  
-- [Underwater Research](https://www.shoalsmarinelaboratory.org/underwater-research)  
+**Data Sets**  
+- [KEEN ONE Kelp Forests of New England](https://github.com/kelpecosystems/observational_data)  
+- [Data and Code for Krumhansl et al. 2016 KelpTime Database analysis](https://github.com/kelpecosystems/global_kelp_time_series)  
 
-
-**Tutorials**
-
-
-**Data Sets**
-
-
-**Code**
+**Code**  
+- [The Multifunc Package](https://cran.r-project.org/web/packages/multifunc/index.html) - for the analysis of ecosystem multifunctionality  
+- [Code for Suskiewicz et al. 2024](https://github.com/jebyrnes/kelp_gom_thermal_causal)  

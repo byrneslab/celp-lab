@@ -1,9 +1,6 @@
 ---
-title: ""
+title: "Teaching and Tutorials"
 ---
-
-**BLOG**  
-- [I'm a Chordata! Urochordata!](http://imachordata.github.io)  
 
 **Classes**  
 - [Biol 355/356: Intro to Data Science for Biology](https://biol355.github.io)  
@@ -13,12 +10,16 @@ title: ""
 - [Structural Equation Modeling for Ecology and Evolutionary Biology](https://sem-eeb.github.io/semclass/)  
 - [Marine Biology and Ecology](https://docs.google.com/document/d/16_qAslz3CDlSPTsFBsmzh6FoDt7uzTt2/edit?usp=sharing&ouid=105030083689633832675&rtpof=true&sd=true)  
 - [Underwater Research](https://www.shoalsmarinelaboratory.org/underwater-research)  
+- [2019 Geospatial Data Carpentry Workshop at UMB](https://jebyrnes.github.io/2019-01-22-UMB/)  
 
+**Blog(s)**  
+- [I'm a chordata! Urochordata!](https://imachordata.com/) - bringing stats tutorials, marine biology, and paper commentary since 2003
 
-**Tutorials**
-
-
-**Data Sets**
-
-
-**Code**
+**Tutorials**  
+- [Full Luxury Bayesian Structural Equation Modeling](https://jebyrnes.github.io/bayesian_sem/bayesian_sem.html)  
+- [Same Model, Different Bayesian Code](https://biol609.github.io/lab/alt_to_rethinking.html)  
+- [Using Modelbased for Model Viz in R](https://imachordata.com/2025/07/25/modelbased-for-quick-and-beautiful-model-visualization/)  
+- [tidyeval for dynamic functions](https://imachordata.com/2021/11/28/tidyeval-dynamic-evaluation-for-writing-functions-in-the-tidyverse/)  
+- [Simulating Posteriors from Non-Bayesian Fits](https://imachordata.com/2020/09/24/simulating-posterior-predictions-from-non-bayesian-fits/)  
+- [Linear Model Power Analysis with dplyr in R](https://imachordata.com/2016/10/18/linear-model-power-analysis-with-dplyr/)  
+- [Gluten Free Pizza Crust](https://imachordata.com/2020/10/03/gf-pizza-that-rocks/)

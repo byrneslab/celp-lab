@@ -1,11 +1,10 @@
 ---
-title: ""
+title: "CELP Lab Research"
+listing:
+  contents: research
+  categories: true
+  sort: "date"
+  type: grid
+  fields: [image, title, categories]
+  table-striped: true
 ---
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
