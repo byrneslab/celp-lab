@@ -9,7 +9,7 @@ categories:
   - Undergrad
 include-in-header: 
       text: |
-        <meta http-equiv="refresh" content="0; url=https://www.linkedin.com/in/taylor-kielczewski/">
+        <meta http-equiv="refresh" content="0; url=https://taylormkielczewski.my.canva.site/">
 ---
 
-Check out her [linkedin](https://www.linkedin.com/in/taylor-kielczewski/)
+Check out her [linkedin](https://www.linkedin.com/in/taylor-kielczewski/) or her website [here](https://taylormkielczewski.my.canva.site/)  
