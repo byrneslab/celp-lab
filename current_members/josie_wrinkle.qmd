@@ -1,7 +1,12 @@
 ---
 title: "Josie Wrinkle"
-date: "2024-01-01"
+date: "2024-06-01"
 date-format: " "
+image: "/images/students/josie_wriknle.jpg"
+object-position: top
 categories:
   - Tech
+include-in-header: 
+      text: |
+        <meta http-equiv="refresh" content="0; url=https://www.linkedin.com/in/josephine-wrinkle-a669141aa/">
 ---

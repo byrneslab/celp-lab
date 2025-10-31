@@ -1,0 +1,11 @@
+---
+title: "Jillian Hubbard"
+image: '/images/students/jillian_hubbard.png'
+object-position: top
+date: "2023-09-01"
+categories:
+    - REU
+include-in-header: 
+      text: |
+        <meta http-equiv="refresh" content="0; url=https://www.linkedin.com/in/jillianhub/">
+---

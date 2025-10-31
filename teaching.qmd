@@ -1,0 +1,24 @@
+---
+title: ""
+---
+
+**BLOG**  
+- [I'm a Chordata! Urochordata!](http://imachordata.github.io)  
+
+**Classes**  
+- [Biol 355/356: Intro to Data Science for Biology](https://biol355.github.io)  
+- [Biol 607/617: Biostatistics and Experimental Design](https://biol607.github.io)  
+- [Biol 609: Advanced Data Analysis for Biology](https://biol609.github.io)  
+- [Biol 697: Meta-analysis for Ecology](https://jarrettbyrnes.info/meta/)  
+- [Structural Equation Modeling for Ecology and Evolutionary Biology](https://sem-eeb.github.io/semclass/)  
+- [Marine Biology and Ecology](https://docs.google.com/document/d/16_qAslz3CDlSPTsFBsmzh6FoDt7uzTt2/edit?usp=sharing&ouid=105030083689633832675&rtpof=true&sd=true)  
+- [Underwater Research](https://www.shoalsmarinelaboratory.org/underwater-research)  
+
+
+**Tutorials**
+
+
+**Data Sets**
+
+
+**Code**

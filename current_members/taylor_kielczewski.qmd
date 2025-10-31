@@ -2,9 +2,14 @@
 title: "Taylor Kielczewski"
 date: "2024-01-01"
 date-format: " "
+image: "/images/students/taylor_kielczewski.jpg"
+object-position: top
 categories:
   - Tech
   - Undergrad
+include-in-header: 
+      text: |
+        <meta http-equiv="refresh" content="0; url=https://www.linkedin.com/in/taylor-kielczewski/">
 ---
 
 Check out her [linkedin](https://www.linkedin.com/in/taylor-kielczewski/)

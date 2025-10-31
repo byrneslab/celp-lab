@@ -1,6 +1,6 @@
 ---
 title: "Melba Torres Sosa"
-image: "images/students/melba_torres.png"
+image: "/images/students/melba_torres.png"
 date: "2020-01-01"
 date-format: " "
 categories:

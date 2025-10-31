@@ -19,12 +19,16 @@ website:
         text: Research
       - href: pubs.qmd
         text: Publications
-      - href: resources.qmd
-        text: Data & Code
+      - text: Resources
+        menu:
+          - href: teaching.qmd
+            text: Teaching & Stats Tutorials
+          - href: code_data.qmd
+            text: Code and Data
       - href: prospectives.qmd
         text: Prospective Students
       - href: undergrad_resources.qmd
-        text: Resources for Undergraduates
+        text: For Undergraduates
     right:
       - text: "{{< fa brands bluesky >}}"
         href: https://bsky.app/profile/jebyrnes.bsky.social/lists/3laooalcpjz2c

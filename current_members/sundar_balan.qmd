@@ -1,7 +1,12 @@
 ---
 title: "Sundar Balan"
-date: "2015-01-01"
+date: "2025-04-01"
 date-format: " "
+image: '/images/students/sundar_balan.png'
+object-position: top
 categories:
   - Postdoc
+include-in-header: 
+      text: |
+        <meta http-equiv="refresh" content="0; url=https://sundarabalan31.github.io/Sundar-website/">
 ---
