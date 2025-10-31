@@ -7,4 +7,5 @@ listing:
   type: grid
   fields: [image, title, categories]
   table-striped: true
+  page-size: 100
 ---
