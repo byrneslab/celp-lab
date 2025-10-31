@@ -8,5 +8,7 @@ categories:
   - Tech
 include-in-header: 
       text: |
-        <meta http-equiv="refresh" content="0; url=https://www.linkedin.com/in/sarahbeecy/">
+        <meta http-equiv="refresh" content="0; url=https://sarahbeecy.my.canva.site/">
 ---
+
+Linkedin is [here](https://www.linkedin.com/in/sarahbeecy/)  
