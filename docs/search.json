@@ -51,9 +51,9 @@
   {
     "objectID": "undergrad_resources.html",
     "href": "undergrad_resources.html",
-    "title": "",
+    "title": "Resources for Undergrads",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Interested in joining our lab as an undergrad at UMass Boston? Drop Jarrett an email to schedule an appointment to talk about it. Typically, students become involved in the lab either as a paid research assistant or by taking a semester independent study to provide credits for research."
   },
   {
     "objectID": "research.html",
@@ -144,7 +144,7 @@
     "href": "teaching.html",
     "title": "Teaching and Tutorials",
     "section": "",
-    "text": "Classes\n- Biol 355/356: Intro to Data Science for Biology\n- Biol 607/617: Biostatistics and Experimental Design\n- Biol 609: Advanced Data Analysis for Biology\n- Biol 697: Meta-analysis for Ecology\n- Structural Equation Modeling for Ecology and Evolutionary Biology\n- Marine Biology and Ecology\n- Underwater Research\n- 2019 Geospatial Data Carpentry Workshop at UMB\nBlog(s) - I’m a chordata! Urochordata! - bringing stats tutorials, marine biology, and paper commentary since 2003\nTutorials\n- Full Luxury Bayesian Structural Equation Modeling\n- Same Model, Different Bayesian Code\n- Using Modelbased for Model Viz in R\n- tidyeval for dynamic functions\n- Simulating Posteriors from Non-Bayesian Fits\n- Linear Model Power Analysis with dplyr in R\n- Gluten Free Pizza Crust"
+    "text": "Classes\n- Biol 355/356: Intro to Data Science for Biology\n- Biol 607/617: Biostatistics and Experimental Design\n- Biol 609: Advanced Data Analysis for Biology\n- Biol 697: Meta-analysis for Ecology\n- Structural Equation Modeling for Ecology and Evolutionary Biology\n- Marine Biology and Ecology\n- Underwater Research\n- 2019 Geospatial Data Carpentry Workshop at UMB\nBlog(s)\n- I’m a chordata! Urochordata! - bringing stats tutorials, marine biology, and paper commentary since 2003\nTutorials\n- Full Luxury Bayesian Structural Equation Modeling\n- Same Model, Different Bayesian Code\n- Using Modelbased for Model Viz in R\n- tidyeval for dynamic functions\n- Simulating Posteriors from Non-Bayesian Fits\n- Linear Model Power Analysis with dplyr in R\n- Gluten Free Pizza Crust"
   },
   {
     "objectID": "code_data.html",
@@ -152,5 +152,19 @@
     "title": "Code, Data, Repos, and More",
     "section": "",
     "text": "Lab Github Repos\n- Our lab repo\n- Jarrett\n- CIEE Intertidal-Subtidal at Shoals Marine Lab Working Group\n- Breckie McCollum\n- Grant Applications Submitted - incomplete, but some examples there\nData Sets\n- KEEN ONE Kelp Forests of New England\n- Data and Code for Krumhansl et al. 2016 KelpTime Database analysis\nCode\n- The Multifunc Package - for the analysis of ecosystem multifunctionality\n- Code for Suskiewicz et al. 2024"
+  },
+  {
+    "objectID": "undergrad_resources.html#joining-the-lab",
+    "href": "undergrad_resources.html#joining-the-lab",
+    "title": "Resources for Undergrads",
+    "section": "",
+    "text": "Interested in joining our lab as an undergrad at UMass Boston? Drop Jarrett an email to schedule an appointment to talk about it. Typically, students become involved in the lab either as a paid research assistant or by taking a semester independent study to provide credits for research."
+  },
+  {
+    "objectID": "undergrad_resources.html#finding-a-job-after-graduating",
+    "href": "undergrad_resources.html#finding-a-job-after-graduating",
+    "title": "Resources for Undergrads",
+    "section": "Finding a Job after Graduating",
+    "text": "Finding a Job after Graduating\n\nSo, you’re graduating with a biology or environmental science or marine bio degree! Hurray! You’ve finished your stint at college, and you’ve gained a lot of new skills. Maybe you’ve done some time in research, maybe not (!!!), but now that you’ve wrapped up, you want to find a job in the environmental sciences. Something that will give you research experience, and help you on your way to either a career or deciding whether you want to go into research.\n\n\nOK, where do you go now?\n\n\nHere are some compiled resources. Feel free to contact us with more.\n\n\nGeneral\n\n\n\nSign up for the Ecological Society of America’s mailing list. Lots of opportunities flow through there.\n\n\nThe ESA Phys Ecology job board has a ton of jobs, and for far more than just physiological ecology work. Check out their staff and seasonal positions.\n\n\nThe same group also provides a great list of job boards worth checking out. Start there, and go down the rabbit hole of the wide array of positions available, although some are for more senior folk.\n\n\nBirder? Check out the extensive listing at the Ornithological societies of North America job page.\n\n\nTo start to get into government research, see the USGS jobs page. Many of the listings are for research internships as well as government positions.\n\n\nTexas A&M Department of Wildlife and Fisheries Sciences provides a wonderful job and internship listing for positions around the world\n\n\nOne way to get into field work is to, well, work at a field station! The Organization of Biological Field Stations provides a listing of current positions.\n\n\nOne way many recent grads get involved in more management and conservation is with jobs and internships at the Student Conservation Association.\n\n\nThe American Society of Limnology and Oceanography maintains a job board that is a mix of tech-level positions and upper level positions. So, some filtering required\n\n\nEnvironmental Career Opportunities posts a wide variety of job types.\n\n\nFor the more geography inclined, see The Society for Conservation GIS.\n\n\nIf you’re interested in education, museums, and wildlife, the Association of Zoos and Aquariums has a wide variety of opportunities.\n\n\nIf you are a Scientific Diver, see the American Academy of Underwater Scientists Job Board.\n\n\nAnd last, for a ton of additional information for postgrad and beyond, Marissa Baskett maintains a superb website. It’s a bit beyond the scope of what we’re talking about here, and just academia focused, but it provides a great jumping off point.\n\n\n\nWithin Massachusetts and New England\n\n\n\nThe New England Marine Science Opportunities listserv has a variety of jobs across the area posted every year.\n\n\nNormandeau and Associates, New England environmental consultants"
   }
 ]
