@@ -1,0 +1,37 @@
+---
+title: "Cleo"
+date: "2025-01-01"
+lightbox: true
+about: 
+  id: about
+  template: jolla
+  image-shape: round
+  image: cleo_under_tree.jpeg
+  image-width: 50%
+date-format: " "
+categories:
+  - Cat
+---
+:::{#about}  
+:::
+
+Cleo arrived as a cute but very frightened floof. Fresh from an abandoned outdoor mall in Florida, she made bird-like meows (hunting?) but was scared of all contact.
+
+::: {layout-ncol=2 layout-valign="center"}
+![Early, she would only play when enclosed or behind something.](cleo_enclosed.jpeg){.lightbox width=100% group="cleo-gallery"}\
+
+![Now Cleo is out in the world, supervising Pepper.](cleo_supervising.jpeg){.lightbox width=140% group="cleo-gallery"}\
+:::
+
+She has grown in boldness over time, and shown her true colors as a beast who knows when she wants pets, and will demand them. It helps that she sounds like a running diesel engine when she gets what she wants.
+
+::: {layout-ncol=2 layout-valign="center"}
+![Looking like a fabulous floof.](cleo_boa.jpeg){.lightbox group="cleo-gallery"}\
+
+![Cleo and her fam](the_team.jpeg){.lightbox group="cleo-gallery"}\
+
+:::
+
+Cleo has also shown herself to be a fierce hunter, with fingerless fleece gloves as her favorite prey item.
+
+![Cleo with her prey](proud_huntress.jpeg){.lightbox fig-align="center" width=50% group="cleo-gallery"}\

@@ -1,0 +1,8 @@
+---
+title: "Pepper"
+date: "2025-01-01"
+image: ""
+date-format: " "
+categories:
+  - Cat
+---

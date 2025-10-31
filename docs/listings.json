@@ -146,5 +146,19 @@
       "/publications/articles/ecological_monographs_2015_25/index.html",
       "/publications/articles/oikos_2023_5/index.html"
     ]
+  },
+  {
+    "listing": "/pets.html",
+    "items": [
+      "/pets/baby/index.html",
+      "/pets/cleo/index.html",
+      "/pets/girasol/index.html",
+      "/pets/kalylee/index.html",
+      "/pets/pearl/index.html",
+      "/pets/pepita/index.html",
+      "/pets/pepper/index.html",
+      "/pets/pierogi/index.html",
+      "/pets/zola/index.html"
+    ]
   }
 ]
