@@ -1,11 +1,34 @@
 ---
-title: ""
+title: "Resources for Undergrads"
 ---
 
-This is a Quarto website.
+## Joining the Lab
+Interested in joining our lab as an undergrad at UMass Boston? Drop [Jarrett an email](mailto:jarrett.byrnes@umb.edu) to schedule an appointment to talk about it. Typically, students become involved in the lab either as a paid research assistant or by taking a semester independent study to provide credits for research.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-```{r}
-1 + 1
-```
+## Finding a Job after Graduating
+<p>So, you're graduating with a biology or environmental science or marine bio degree! Hurray! You've finished your stint at college, and you've gained a lot of new skills. Maybe you've done some time in research, maybe not (!!!), but now that you've wrapped up, you want to find a job in the environmental sciences. Something that will give you research experience, and help you on your way to either a career or deciding whether you want to go into research.</p>
+<p>OK, where do you go now?</p>
+<p>Here are some compiled resources. Feel free to <a href="mailto:jarrett.byrnes@umb.edu">contact us</a> with more.</p>
+<p><b>General</b></p>
+<ul>
+<li>Sign up for the Ecological Society of America's <a href="http://community.esa.org/group.htm?mode=home&amp;igid=35455">mailing list</a>. Lots of opportunities flow through there.</li>
+<li>The ESA <a href="http://biology.duke.edu/jackson/ecophys/positions.html">Phys Ecology job board</a> has a ton of jobs, and for far more than just physiological ecology work. Check out their staff and seasonal positions.</li>
+<li>The same group also provides a great <a href="http://biology.duke.edu/jackson/ecophys/joblinks.html">list of job boards</a> worth checking out. Start there, and go down the rabbit hole of the wide array of positions available, although some are for more senior folk.</li>
+<li>Birder? Check out the extensive listing at the <a href="http://www.osnabirds.org/jobs.aspx">Ornithological societies of North America job page</a>.</li>
+<li>To start to get into government research, see the <a href="http://www.usgs.gov/ohr/">USGS jobs page</a>. Many of the listings are for research internships as well as government positions.</li>
+<li>Texas A&amp;M Department of Wildlife and Fisheries Sciences provides a wonderful <a href="http://wfscjobs.tamu.edu/job-board/">job and internship listing</a> for positions around the world</li>
+<li>One way to get into field work is to, well, work at a field station! The Organization of Biological Field Stations provides a <a href="http://www.obfs.org/news">listing of current positions</a>.</li>
+<li>One way many recent grads get involved in more management and conservation is with jobs and internships at the <a href="http://www.thesca.org/about/current-openings">Student Conservation Association</a>.</li>
+<li>The American Society of Limnology and Oceanography maintains a <a href="http://aslo.org/employment/jobs.html">job board</a> that is a mix of tech-level positions and upper level positions. So, some filtering required</li>
+<li>Environmental Career Opportunities posts a wide <a href="http://www.ecojobs.com/index.php">variety of job types</a>.</li>
+<li>For the more geography inclined, see <a href="http://www.scgis.org/Lev3Page.aspx?Page3ID=20">The Society for Conservation GIS</a>.</li>
+<li>If you're interested in education, museums, and wildlife, the <a href="http://www.aza.org/JobListings/">Association of Zoos and Aquariums</a> has a wide variety of opportunities.</li>
+<li>If you are a Scientific Diver, see the <a href="https://www.aaus.org/AAUS/Members/JobBoard/AAUS/Job_Posting/MemberJob_Opportunities.aspx">American Academy of Underwater Scientists Job Board.</a></li>
+<li>And last, for a ton of additional information for postgrad and beyond, <a href="http://www.des.ucdavis.edu/faculty/baskett/links/academia.html">Marissa Baskett</a> maintains a superb website. It's a bit beyond the scope of what we're talking about here, and just academia focused, but it provides a great jumping off point.</li>
+</ul>
+<p><b>Within Massachusetts and New England</b></p>
+<ul>
+<li>The <a href="https://groups.google.com/g/ne_marine_sci_opportunities/">New England Marine Science Opportunities listserv</a> has a variety of jobs across the area posted every year.</li>
+<li><a href="http://www.normandeau.com/pages/employment/job_opportunities.asp">Normandeau and Associates</a>, New England environmental consultants</li>
+</ul>

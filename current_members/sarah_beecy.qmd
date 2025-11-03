@@ -1,7 +1,14 @@
 ---
 title: "Sarah Beecy"
-date: "2024-01-01"
+date: "2024-06-01"
 date-format: " "
+image: "/images/students/sarah_beecy.jpg"
+object-position: bottom
 categories:
   - Tech
+include-in-header: 
+      text: |
+        <meta http-equiv="refresh" content="0; url=https://sarahbeecy.my.canva.site/">
 ---
+
+Linkedin is [here](https://www.linkedin.com/in/sarahbeecy/)  

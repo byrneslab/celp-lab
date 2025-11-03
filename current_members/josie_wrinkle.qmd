@@ -1,7 +1,16 @@
 ---
 title: "Josie Wrinkle"
-date: "2024-01-01"
+date: "2024-06-01"
 date-format: " "
+image: "/images/students/josie_wriknle.jpg"
+object-position: top
 categories:
   - Tech
+include-in-header: 
+      text: |
+        <meta http-equiv="refresh" content="0; url=https://sites.google.com/view/josephinewrinkle/home">
 ---
+
+Linkedin is [here](https://www.linkedin.com/in/josephine-wrinkle-a669141aa/)  
+<br><br>
+Website is [here](https://sites.google.com/view/josephinewrinkle/home)  

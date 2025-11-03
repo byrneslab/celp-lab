@@ -1,0 +1,18 @@
+---
+title: "Code, Data, Repos, and More"
+---
+
+**Lab Github Repos**  
+- [Our lab repo](https://github.com/byrneslab)  
+- [Jarrett](https://github.com/jebyrnes)  
+- [CIEE Intertidal-Subtidal at Shoals Marine Lab Working Group](https://github.com/Intertidal-Subtidal-WG)  
+- [Breckie McCollum](http://github.com/bAMcCollum/)  
+- [Grant Applications Submitted](https://github.com/jebyrnes/grant_applications) - incomplete, but some examples there
+
+**Data Sets**  
+- [KEEN ONE Kelp Forests of New England](https://github.com/kelpecosystems/observational_data)  
+- [Data and Code for Krumhansl et al. 2016 KelpTime Database analysis](https://github.com/kelpecosystems/global_kelp_time_series)  
+
+**Code**  
+- [The Multifunc Package](https://cran.r-project.org/web/packages/multifunc/index.html) - for the analysis of ecosystem multifunctionality  
+- [Code for Suskiewicz et al. 2024](https://github.com/jebyrnes/kelp_gom_thermal_causal)  

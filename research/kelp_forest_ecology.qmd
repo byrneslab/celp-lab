@@ -1,0 +1,35 @@
+---
+title: "Kelp Forest Ecology"
+image: '/images/research/ne_kelp.jpg'
+date: "2012-09-01"
+---
+
+![](/images/research/ne_kelp.jpg)
+
+Over one quarter of the world's coastlines are covered in kelp. Forming dense forests, rolling meadows, and lush beds, these large brown algae provide structure to the many temperate and boreal ecosystems around the world. As a foundation species, they provide critical habitat for many fish and invertebrates - a number of whom are fished for comercially. Their large structures also change flow conditions along shorelines. As large fast growing algae, they are a critical channel for carbon and nitrogen into the undersea ecosystem. They soak them up, and then feed many of the herbivores, detritivores, and even bacteria in the surrounding system. Changes to kelps and their associated communities could have a large impact on the goods and services provided by coastal ecosystems. 
+
+We currently lack a unified understanding of how the slow, long-term environmental shifts of climate change will alter global kelp forests & their associated communities. Kelps are a cold water species. They are also vulnerable to a wide range of wave disturbances, overgrazing by metabolically active urchins and other species, and can be outcompeted by algae fueled by increased CO<sub>2</sub> and urban runoff. Individual impacts of extreme climate events have been documented in isolated places around the world.  Furthermore, our current knowledge is often limited to kelps alone, or kelps and a few key grazers. But what is the big picture? How will climate change alter the face of temperate rocky reefs by altering kelp forests and all that lives inside of them?
+
+<b>Global Focus</b>
+We're pursuing several different lines of inquiry to look at global effects of climate change on kelp forests and temperate reefs. We have an ongoing working group on <a href="http://www.nceas.ucsb.edu/projects/12660">data sysnthesis addressing kelp forests and climate change</a>. We're pursuing citizen science efforts in collaboration with <a href="https://www.zooniverse.org/">Zooniverse</a> to look at long-term patterns in giant kelp populations at a global scale. And we've started the global <a href="http://www.kelpecosystems.org/">Kelp Ecosystem Ecology Network</a> to run globally co-ordinated experiments and monitoring of kelp forests.
+
+<b>Zooming in on the Gulf of Maine</b>
+To understand the global, one must develop a fine-scale mechanistic understanding of the local. We're grounding all of our fine-scale work here, in the Gulf of Maine. In the Gulf of Maine and New England, kelp beds support an immense diversity of life, and have been impacted tremendously by shifts in urchins, invasive species, and environmental shifts. We're developing programs to understand the interplay between human-driven environmental change and subtidal ecosystems. Current efforts include examining feedbacks between kelp and waves, the causes of shifts to invasive species, and the effects of large-scale kelp disturbances. There's still much to be done, and many questions to be asked at every level, from the individual organisms to the entire coastline.
+ 
+<b>Relevant References</b>
+
+<p>Suskiewicz, T. S., J. E. K. Byrnes, R. S. Steneck, R. Russell, C. J. Wilson, and D. B. Rasher. 2024. Ocean warming undermines the recovery resilience of New England kelp forests following a fishery-induced trophic cascade. Ecology:e4334. [<a href="https://doi.org/10.1002/ecy.4334">link</a>]</p>
+
+<p>Byrnes, J. E. K., A. Brown, K. Sheridan, T. Peller, J. Lawlor, J. Beaulieu, J. Muñoz, A. Hesketh, A. Pereira, N. S. Knight, L. Super, E. K. Bledsoe, J. B. Burant, J. A. Dijkstra, and K. Benes. 2024. Notes from the past show how local variability can stymie urchins and the rise of the reds in the Gulf of Maine. Ecosphere 15:e4800. [<a href="https://doi.org/10.1002/ecs2.4800">link</a>]   </p>
+
+<p>Shaughnessy, B.K., Jackson, B., Byrnes, J.E.K. 2023. Evidence of elevated heavy metals concentrations in wild and farmed sugar kelp (<em>Saccharina latissima</em>) in New England. Scientific Reports. 17644. [<a href="https://www.nature.com/articles/s41598-023-44685-4">link</a>]</p>
+
+<p>Eger, A. M., E. M. Marzinelli, R. Beas-Luna, C. O. Blain, L. K. Blamey, J. E. K. Byrnes, P. E. Carnell, C. G. Choi, M. Hessing-Lewis, K. Y. Kim, N. H. Kumagai, J. Lorda, P. Moore, Y. Nakamura, A. Pérez-Matus, O. Pontier, D. Smale, P. D. Steinberg, and A. Vergés. 2023. The value of ecosystem services in global marine kelp forests. <em>Nature Communications.</em> 14:1894. [<a href="https://www.nature.com/articles/s41467-023-37385-0">link</a>] </p>
+
+<p class="csl-entry">Byrnes, J. E. K., F. Roger, and R. Bagchi. 2022. Understandable multifunctionality measures using Hill numbers. Oikos: <a href="https://doi.org/10.1111/oik.09402">e09402</a>. [<a href="http://byrneslab.net/wp-content/uploads/2022/11/Byrnes_et_al_2022.pdf">pdf</a>]</p>
+<p class="csl-entry">Filbee-Dexter, K., Feehan, C. J., Smale, D. A., Krumhansl, K. A., Augustine, S., Bettignies, F. de, Burrows, M. T., Byrnes, J. E. K., Campbell, J., Davoult, D., Dunton, K. H., Franco, J. N., Garrido, I., Grace, S. P., Hancke, K., Johnson, L. E., Konar, B., Moore, P. J., Norderhaug, K. M., O’Dell, A., Pedersen, M. F., Salomon, A. K., Sousa-Pinto, I., Tiegs, S., Yiu, D. and Wernberg, T. 2022. Kelp carbon sink potential decreases with warming due to accelerating decomposition. PLOS Biology 20: e3001702. <a href="https://doi.org/10.1371/journal.pbio.3001702">https://doi.org/10.1371/journal.pbio.3001702</a></p>
+
+Krumhansl, K.A., Okamoto, D.K., Rassweiler, A., Novak, M., Bolton, J.J., Cavanaugh, K.C., Connell, S.D., Johnson, C.R., Ling, S.D., Micheli, F., Norderhaug, K.M., Pérez-Matus, A., Sousa-Pinto, I., Reed, D.C., Salomon, A.K., Shears, N.T., Wernberg, T., Anderson, R.J., Barrett, N.S., Buschmann, A.H., Carr, M.H., Caselle, J.E., Derienne, S., Edgar, G.J., Edwards, M., Estes, J.A., Goodwin, C., Kenner, M.C., Kushner, D.J., Moy, F.E., Nunn, J., Steneck, R., Vasquez, J.A., Watson, J., Witman, J.D., <b>Byrnes, J.E.K.</b>, In Press. Global patterns of kelp forest change over the past half-century. PNAS. [<a href="http://www.pnas.org/content/early/2016/11/09/1606102113">link</a>]
+
+<b>Byrnes, J.E.</b>, Reed, D.C., Cardinale, B.J., Cavanaugh, K.C., Holbrook, S.J., and Schmitt, R.J. 2011. Climate driven increases in storm frequency simplify kelp forest food webs. <i>Global Change Biology</i>. 17: 2513-2524. [<a href="http://dx.doi.org/10.1111/j.1365-2486.2011.02409.x">doi</a>] [<a href="../pdfs/Byrnes_et_al_2011_GCB.pdf">pdf</a>]
+<div class="altmetric-embed" data-doi="10.1111/j.1365-2486.2011.02409.x"></div>

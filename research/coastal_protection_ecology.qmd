@@ -1,0 +1,43 @@
+---
+title: "The Ecology of Coastal Protection Structures"
+image: '/images/research/one_panel.jpeg'
+date: "2012-09-01"
+---
+![](/images/research/lsw_condor.png)
+
+<b>The Future of our Shorelines</b>
+As sea level rise continues, we need to find ways to mitigate its impact on people. Traditionally, this has meant seawalls, rip-rap, and breakwaters. More recently, we have begun to turn to nature-based solutions, such as restoration of marshes, installation of artificial shorelines, and ideas we have yet to dream of. Here in the Byrnes Lab, we work as part of the <a href="https://stonelivinglab.org/">Stone Living Lab</a> to assess the biological impact of solutions to coastal protection and how we can ensure healthy functioning ecosystems and all of their associated co-benefits while protecting people. We're looking for the win-win.
+
+&nbsp;
+
+:::: {.columns}
+
+::: {.column width="60%"}
+![](/images/research/berm_in_boston.png)
+:::
+
+::: {.column width="1%"}
+:::
+
+::: {.column width="39%"}
+**Cobble Berms**  
+ As we fight coastal erosion, one solution in New England that takes a page from nature's playbook is cobble berms. Cobble berms seek to replicate New England's iconic cobble beaches. The difference is that cobbles are of a chosen size so that when hit by high wave energy, they lock up and do not move. Thus, they provide shoreline stabilization and far lower maintenance than a sandy beach. As a part of the <a href="https://stonelivinglab.org/">Stone Living Lab</a> and working with the <a href="https://www.woodsholegroup.com/">Woods Hole Group</a>, we've been using a Control-Impact design to investigate the differences in biodiversity on and around these cobble beach habitats.
+:::
+
+::::
+
+&nbsp;
+
+<b>Living Seawalls</b>
+Grey coastal infrastructure is always going to be part of the mix of coastal protection solutions. In urban settings in particular, seawalls have been part of coastlines since humans began building ports and quays. They will continue to expand in areas where more nature based approaches are not appropriate or come into conflict with human use. This does not mean we need to sacrifice the ecology of our coastlines. In collaboration with the <a href="https://www.livingseawalls.com.au/">Living Seawalls</a> group in Australia, we are exploring how augmenting the structure of seawalls with designs that mimic features of the natural rocky intertidal can lead to restoration of coastal ecologies. We've installed Living Seawalls at three sites around Boston Harbor, and are looking at the growth of space-holding organisms, microbial communities, use by mobile organisms, and changes in water quality on and around these novel habitats.
+
+<b>What animals live on and use seawalls?</b>
+
+<center><iframe title="What animals use seawalls?" src="https://www.youtube.com/embed/WGnHWterbYc?si=v35T5SnQ13jRMtKL" width="560" height="315" frameborder="10" allowfullscreen="allowfullscreen"></iframe></center><strong>In the News:</strong>
+<a href="https://www.wbur.org/news/2024/11/01/living-seawalls-chelsea-creek-east-boston-fan-pier-climate-change">WBUR: Snails, mussels and seaweed: Boston project aims to bring life to barren seawalls</a>
+
+<a href="https://www.bostonglobe.com/2024/11/01/science/boston-seawalls-as-marine-life-habitat-for-sea-level-rise/">Boston Globe: How Boston could transform its protective sea walls into thriving coastal habitats</a>
+
+<strong>Relevant References:</strong>
+
+Kirshen, P., Borrelli, M., Byrnes, J., Chen, R., Lockwood, L., Watson, C., Starbuck, K., Wiggin, J., Novelly, A., Uiterwyk, K., Thurson, K., McMann, B., Foster, C., Sprague, H., Roberts, H. J., Bosma, K., Jin, D., &amp; Herst, R. 2020. Integrated assessment of storm surge barrier systems under present and future climates and comparison to alternatives: A case study of Boston, USA. Climatic Change. <a href="https://dx.doi.org/10.1007/s10584-020-02781-8">https://dx.doi.org/10.1007/s10584-020-02781-8</a>
