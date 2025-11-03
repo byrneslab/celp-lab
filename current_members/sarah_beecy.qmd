@@ -9,7 +9,6 @@ categories:
 include-in-header: 
       text: |
         <meta http-equiv="refresh" content="0; url=https://sarahbeecy.my.canva.site/">
-
 ---
 
-Check out her [linkedin](https://www.linkedin.com/in/sarahbeecy/)
+Linkedin is [here](https://www.linkedin.com/in/sarahbeecy/)  

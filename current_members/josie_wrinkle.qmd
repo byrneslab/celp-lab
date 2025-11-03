@@ -8,5 +8,9 @@ categories:
   - Tech
 include-in-header: 
       text: |
-        <meta http-equiv="refresh" content="0; url=https://www.linkedin.com/in/josephine-wrinkle-a669141aa/">
+        <meta http-equiv="refresh" content="0; url=https://sites.google.com/view/josephinewrinkle/home">
 ---
+
+Linkedin is [here](https://www.linkedin.com/in/josephine-wrinkle-a669141aa/)  
+<br><br>
+Website is [here](https://sites.google.com/view/josephinewrinkle/home)  

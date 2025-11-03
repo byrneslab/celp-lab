@@ -1,0 +1,11 @@
+---
+title: "Pets"
+listing:
+  contents: pets/*/
+  categories: true
+  sort: "title"
+  type: grid
+  fields: [image, title, categories]
+  table-striped: true
+  page-size: 100
+---
