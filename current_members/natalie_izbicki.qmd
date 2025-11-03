@@ -1,7 +1,14 @@
 ---
 title: "Natalie Izbicki"
-date: "2025-01-01"
+date: "2024-06-01"
 date-format: " "
+image: "/images/students/natalie_izbicki.jpeg"
+object-position: bottom
 categories:
   - Undergrad
+include-in-header: 
+      text: |
+        <meta http-equiv="refresh" content="0; url=https://www.linkedin.com/in/natalie-izbicki-952b7528b/">
 ---
+
+Linkedin is [here](https://www.linkedin.com/in/natalie-izbicki-952b7528b/)
