@@ -1,8 +1,61 @@
 ---
 title: "Pierogi"
-date: "2024-01-01"
-image: ""
+date: "2024-11-03"
+about: 
+  id: about
+  template: jolla
+  image-shape: round
+  image: 1_pierogi.jpg
+  image-width: 75%
 date-format: " "
 categories:
   - Dog
 ---
+
+:::{#about} 
+
+:::
+
+Pierogi is a grade A snuggle-hound with penchants for sniffs, sticks, and squirrels.
+
+::: {.columns}
+::: {.column width="62.75%"}
+![Enjoying a yak chew.](2_pierogi.jpg){.lightbox width=100% group="pierogi-gallery"}\
+:::
+::: {.column width="37.25%"}
+![But not above a simple stick.](3_pierogi.jpg){.lightbox width=100% group="pierogi-gallery"}\
+:::
+
+When she's not learning new tricks Pierogi enjoys a good chew.
+
+::: {.columns}
+::: {.column width="43%"}
+![#blurrypictureofdog](4_pierogi.jpg){.lightbox width=100% group="pierogi-gallery"}\
+:::
+::: {.column width="57%"}
+![Look at that smile](5_pierogi.jpg){.lightbox width=100% group="pierogi-gallery"}\
+:::
+:::
+
+Pierogi also enjoys the zoomies and love bombing to anyone who gets close.
+
+::: {.columns}
+::: {.column width="50%"}
+![Snoozing1.](6_pierogi.jpg){.lightbox width=100% group="pierogi-gallery"}\
+:::
+::: {.column width="50%"}
+![Snoozing2.](8_pierogi.jpg){.lightbox width=100% group="pierogi-gallery"}\
+:::
+:::
+
+::: {layout-ncol=1 layout-valign="center"}
+![Snoozing3.](7_pierogi.jpg){.lightbox width=100% group="pierogi-gallery"}\
+::: 
+
+Of course, with all the zooming, Pierogi is sure to take plenty of time to rest and restore
+
+::: {layout-ncol=1 layout-valign="center"}
+![End of a good day on the beach.](9_pierogi.jpg){.lightbox width=100% group="pierogi-gallery"}\
+::: 
+
+Most importantly for a dog in a marine ecology lab, Pierogi knows how to enjoy a good day on the beach.
