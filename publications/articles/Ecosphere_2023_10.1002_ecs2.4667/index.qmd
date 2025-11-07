@@ -1,0 +1,20 @@
+---
+title: "Disentangling mechanisms of species–energy relationships in experimental deep-sea wood falls"
+date: "2023"
+year: "2023"
+author: ["Craig R. McClain", "S. River D. Bryant", "Granger Hanks", "Jarrett Byrnes"]
+publication: "Ecosphere"
+volume: "14"
+number: "10"
+pages: "e4667"
+doi: "10.1002/ecs2.4667"
+abstract: "A multitude of hypotheses have been invoked to explain increases in richness with increases in energy availability. Experiments have the potential to reveal causality, and species–energy experiments have yielded substantial insights into energetic community assembly. Here, we examine six mechanisms underlying species–energy relationships in an experimental wood fall system in the deep Gulf of Mexico. Twenty-four wood falls were deployed in the deep Gulf of Mexico for 21 months. To test for differences in total energy availability, individual wood falls ranged in size from 0.91 to 24 kg, corresponding to different levels of energy available to the wood-obligate invertebrate communities assembling on wood falls. To test for differences in total energy accessibility, we chose a softwood (pine, n = 12) and soft hardwood (sugarberry, n = 12). Structural equation models were used to disentangle the multiple hypothesized pathways by which changes in wood fall type and mass correlated with richness. Whereas we find support for the more individuals hypothesis, we also find that niche dynamics and competition play important roles as well linking energy and diversity. Furthermore, we find that not only the total energy but also the accessibility of that energy, dictating rates of energy flow, leads to differences in community structure. Using structural equation modeling (SEM), we evaluate seven hypotheses to demonstrate that no single hypotheses alone can predict the species–energy relationship."
+keywords: "body size, diversity, energetics, niche, productivity, resource availability, structural equation modeling (SEM)"
+url: "https://onlinelibrary.wiley.com/doi/abs/10.1002/ecs2.4667"
+image: featured.png    
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: "./articles/Ecosphere_2023_10.1002_ecs2.4667/cite.bib"
+pdf: "./articles/Ecosphere_2023_10.1002_ecs2.4667/McClain et al. - 2023 - Disentangling mechanisms of species–energy relatio.pdf"
+---

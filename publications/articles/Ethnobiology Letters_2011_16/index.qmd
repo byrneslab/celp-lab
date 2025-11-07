@@ -1,0 +1,20 @@
+---
+title: "Sustainable Science? Reducing the Carbon Impact of Scientific Mega-Meetings"
+date: "2011"
+year: "2011"
+author: ["Alexandra G Ponette-Gonzalez", "Jarrett E Byrnes"]
+publication: "Ethnobiology Letters"
+volume: "2"
+number: "NA"
+pages: "65-71"
+doi: "16"
+abstract: "NA"
+keywords: "NA"
+url: "NA"
+image: featured.png    
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: "./articles/Ethnobiology Letters_2011_16/cite.bib"
+pdf: "./articles/Ethnobiology Letters_2011_16/Ponette-González and Byrnes - 2011 - Sustainable Science Reducing the Carbon Impact of Scientific Mega-Meetings.pdf"
+---

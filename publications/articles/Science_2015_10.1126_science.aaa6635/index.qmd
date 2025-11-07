@@ -1,0 +1,20 @@
+---
+title: "Paleontological baselines for evaluating extinction risk in the modern oceans"
+date: "2015"
+year: "2015"
+author: ["S Finnegan", "S C Anderson", "P G Harnik", "C Simpson", "D. P. Tittensor", "J. E. Byrnes", "Z V Finkel", "D R Lindberg", "L H Liow", "R Lockwood", "H K Lotze", "C R McClain", "J L McGuire", "A O'Dea", "J. M. Pandolfi"]
+publication: "Science"
+volume: "348"
+number: "6234"
+pages: "567-570"
+doi: "10.1126/science.aaa6635"
+abstract: "NA"
+keywords: "NA"
+url: "http://www.sciencemag.org/cgi/doi/10.1126/science.aaa6635"
+image: featured.png    
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: "./articles/Science_2015_10.1126_science.aaa6635/cite.bib"
+pdf: "./articles/Science_2015_10.1126_science.aaa6635/Finnegan et al. - 2015 - Paleontological baselines for evaluating extinction risk in the modern oceans.pdf"
+---

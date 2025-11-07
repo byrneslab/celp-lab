@@ -1,0 +1,20 @@
+---
+title: "To Crowdfund Research, Scientists Must Build an Audience for Their Work"
+date: "2014"
+year: "2014"
+author: ["Jarrett E K Byrnes", "Jai Ranganathan", "Barbara L E Walker", "Zen Faulkes"]
+publication: "PloS one"
+volume: "9"
+number: "12"
+pages: "e110329"
+doi: "10.1371/journal.pone.0110329"
+abstract: "NA"
+keywords: "NA"
+url: "http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0110329"
+image: featured.png    
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: "./articles/PloS one_2014_10.1371_journal.pone.0110329/cite.bib"
+pdf: "./articles/PloS one_2014_10.1371_journal.pone.0110329/Byrnes et al. - 2014 - To Crowdfund Research, Scientists Must Build an Audience for Their Work.pdf"
+---

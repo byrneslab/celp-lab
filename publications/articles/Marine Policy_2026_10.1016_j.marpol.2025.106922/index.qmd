@@ -1,0 +1,20 @@
+---
+title: "Global ocean indicators: Marking pathways at the science-policy nexus"
+date: "2026"
+year: "2026"
+author: ["Karina von Schuckmann", "Alex Godoy-Faundez", "Veronique Garcon", "Frank E. Muller-Karger", "Karen Evans", "Ward Appeltans", "Narissa Bax", "Lisandro Benedetti Cecchi", "Anthony Bernard", "Kim Bernard", "Jarret Byrnes", "Gabrielle Canonico", "Lucille Chapuis", "Malcolm R. Clark", "Audrey M. Darnaude", "Claire Davies", "Pia Englyst", "Agneta Fransson", "Samantha Hallam", "Emma Heslop", "Elisabeth Holland", "Maria Hood", "Stefan Kern", "Aurelien Line", "Ana Lara-Lopez", "Nora Loose", "Belen Martin Miguez", "Clive R. McMahon", "Lina Mtwana Nordlund", "Joanna Post", "Sabrina Speich", "Adrienne Sutton", "Toste Tanhua", "Maciej Telszewski", "Dimitris Poursanidis", "Weidong Yu"]
+publication: "Marine Policy"
+volume: "184"
+number: "NA"
+pages: "106922"
+doi: "10.1016/j.marpol.2025.106922"
+abstract: "Ocean knowledge is crucial for shaping policies that enable sustainable development, adaptation, and well-being at all levels, as everyone—either directly or indirectly—depends on the ocean, which today faces escalating threats from climate change, pollution, and biodiversity loss, pushing us beyond critical planetary boundaries. Ocean indicators are crucial for translating ocean science and data into practical metrics, guidance, and tools informing on the state and health of the ocean that can be directly applied by policymakers, practitioners, and the public. Despite their critical importance, ocean indicators trail behind those for continental areas, limiting effective monitoring and policy integration. Developing reliable, comparable, and regularly updated ocean indicators, backed by a unified international framework, is essential for delivering coherent, actionable insights that can guide global goals and protect the ocean's future. This paper establishes a scientific foundation for ocean indicators through international and multidisciplinary collaboration, presenting defined criteria and a set of pilot indicators for the ocean’s physical, biogeochemical, biodiversity, and ecosystem aspects. The proposed framework offers a solid foundation for generating indicators that not only track the ocean state but also provide outputs for application in informing policy and decision-making."
+keywords: "Ocean Indicators, Ocean science-policy nexus"
+url: "https://www.sciencedirect.com/science/article/pii/S0308597X25003380"
+image: featured.png    
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: "./articles/Marine Policy_2026_10.1016_j.marpol.2025.106922/cite.bib"
+pdf: "./articles/Marine Policy_2026_10.1016_j.marpol.2025.106922/von Schuckmann et al. - 2026 - Global ocean indicators Marking pathways at the science-policy nexus.pdf"
+---

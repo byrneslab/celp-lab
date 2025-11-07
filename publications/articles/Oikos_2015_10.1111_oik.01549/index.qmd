@@ -1,0 +1,20 @@
+---
+title: "Marine biodiversity and ecosystem functioning: what's known and what's next?"
+date: "2015"
+year: "2015"
+author: ["Lars Gamfeldt", "Jonathan S Lefcheck", "Jarrett E K Byrnes", "Bradley J Cardinale", "J. Emmett Duffy", "John N. Griffin"]
+publication: "Oikos"
+volume: "124"
+number: "3"
+pages: "252-265"
+doi: "10.1111/oik.01549"
+abstract: "Marine ecosystems are experiencing rapid and pervasive changes in biodiversity and species composition. Understanding the ecosystem consequences of these changes is critical to effectively managing these systems. Over the last several years, numerous experimental manipulations of species richness have been performed, yet existing quantitative syntheses have focused on a just a subset of processes measured in experiments and, as such, have not summarized the full data available from marine systems. Here, we present the results of a meta-analysis of 110 marine experiments from 42 studies that manipulated the species richness of organisms across a range of taxa and trophic levels and analysed the consequences for various ecosystem processes (categorised as production, consumption or biogeochemical fluxes). Our results show that, generally, mixtures of species tend to enhance levels of ecosystem function relative to the average component species in monoculture, but have no effect or a negative effect on functioning relative to the ‘highest- performing’ species. These results are largely consistent with those from other syntheses, and extend conclusions to ecological functions that are commonly measured in the marine realm (e.g. nutrient release from sediment bioturbation). For experiments that manipulated three or more levels of richness, we attempted to discern the functional form of the biodiversity–ecosystem functioning relationship. We found that, for response variables related to consumption, a power-function best described the relationship, which is also consistent with previous findings. However, we identified a linear relationship between richness and production. Combined, our results suggest that changes in the number of species will, on average, tend to alter the functioning of marine ecosystems. We outline several research frontiers that will allow us to more fully understand how, why, and when diversity may drive the functioning of marine ecosystems. Synthesis The oceans host an incredible number and variety of species. However, human activities are driving rapid changes in the marine environment. It is imperative we understand ecosystem consequences of any associated loss of species. We summarized data from 110 experiments that manipulated species diversity and evaluated resulting changes to a range of ecosystem responses. We show that losing species, on average, decreases productivity, growth, and a myriad of other processes related to how marine organisms capture and utilize resources. Finally, we suggest that the loss of species may have stronger consequences for some processes than others."
+keywords: "NA"
+url: "http://dx.doi.org/10.1111/oik.01549"
+image: featured.png    
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: "./articles/Oikos_2015_10.1111_oik.01549/cite.bib"
+pdf: "./articles/Oikos_2015_10.1111_oik.01549/Gamfeldt et al. - 2015 - Marine biodiversity and ecosystem functioning what's known and what's next.pdf"
+---

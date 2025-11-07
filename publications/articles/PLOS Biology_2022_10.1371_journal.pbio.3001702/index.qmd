@@ -1,0 +1,20 @@
+---
+title: "Kelp carbon sink potential decreases with warming due to accelerating decomposition"
+date: "2022"
+year: "2022"
+author: ["Karen Filbee-Dexter", "Colette J. Feehan", "Dan A. Smale", "Kira A. Krumhansl", "Skye Augustine", "Florian de Bettignies", "Michael T. Burrows", "Jarrett E. K. Byrnes", "Jillian Campbell", "Dominique Davoult", "Kenneth H. Dunton", "Joao N. Franco", "Ignacio Garrido", "Sean P. Grace", "Kasper Hancke", "Ladd E. Johnson", "Brenda Konar", "Pippa J. Moore", "Kjell Magnus Norderhaug", "Alasdair O'Dell", "Morten F. Pedersen", "Anne K. Salomon", "Isabel Sousa-Pinto", "Scott Tiegs", "Dara Yiu", "Thomas Wernberg"]
+publication: "PLOS Biology"
+volume: "20"
+number: "8"
+pages: "e3001702"
+doi: "10.1371/journal.pbio.3001702"
+abstract: "Cycling of organic carbon in the ocean has the potential to mitigate or exacerbate global climate change, but major questions remain about the environmental controls on organic carbon flux in the coastal zone. Here, we used a field experiment distributed across 28° of latitude, and the entire range of 2 dominant kelp species in the northern hemisphere, to measure decomposition rates of kelp detritus on the seafloor in relation to local environmental factors. Detritus decomposition in both species were strongly related to ocean temperature and initial carbon content, with higher rates of biomass loss at lower latitudes with warmer temperatures. Our experiment showed slow overall decomposition and turnover of kelp detritus and modeling of coastal residence times at our study sites revealed that a significant portion of this production can remain intact long enough to reach deep marine sinks. The results suggest that decomposition of these kelp species could accelerate with ocean warming and that low-latitude kelp forests could experience the greatest increase in remineralization with a 9% to 42% reduced potential for transport to long-term ocean sinks under short-term (RCP4.5) and long-term (RCP8.5) warming scenarios. However, slow decomposition at high latitudes, where kelp abundance is predicted to expand, indicates potential for increasing kelp-carbon sinks in cooler (northern) regions. Our findings reveal an important latitudinal gradient in coastal ecosystem function that provides an improved capacity to predict the implications of ocean warming on carbon cycling. Broad-scale patterns in organic carbon decomposition revealed here can be used to identify hotspots of carbon sequestration potential and resolve relationships between carbon cycling processes and ocean climate at a global scale."
+keywords: "Carbon sequestration, Decomposition, Deep sea, Forests, Latitude, Ocean temperature, Oceans, Seaweed"
+url: "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001702"
+image: featured.png    
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: "./articles/PLOS Biology_2022_10.1371_journal.pbio.3001702/cite.bib"
+pdf: "./articles/PLOS Biology_2022_10.1371_journal.pbio.3001702/Filbee-Dexter et al. - 2022 - Kelp carbon sink potential decreases with warming .pdf"
+---

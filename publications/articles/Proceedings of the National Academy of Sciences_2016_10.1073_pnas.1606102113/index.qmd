@@ -1,0 +1,20 @@
+---
+title: "Global patterns of kelp forest change over the past half-century"
+date: "2016"
+year: "2016"
+author: ["Kira A Krumhansl", "Daniel K Okamoto", "Andrew Rassweiler", "Mark Novak", "John J Bolton", "Kyle C Cavanaugh", "Sean D. Connell", "Craig R. Johnson", "Brenda Konar", "Scott D Ling", "Fiorenza Micheli", "Kjell M Norderhaug", "Alejandro Perez-Matus", "Isabel Sousa-Pinto", "Daniel C. Reed", "Anne K. Salomon", "Nick T. Shears", "Thomas Wernberg", "Robert J Anderson", "Nevell S Barrett", "Alejandro H Buschmann", "Mark H. Carr", "Jennifer E. Caselle", "Sandrine Derrien-Courtel", "Graham J Edgar", "Matt Edwards", "James A. Estes", "Claire Goodwin", "Michael C Kenner", "David. J. Kushner", "Frithjof E Moy", "Julia Nunn", "Robert S Steneck", "Julio Vasquez", "Jane Watson", "Jon D Witman", "Jarrett E K Byrnes"]
+publication: "Proceedings of the National Academy of Sciences"
+volume: "113"
+number: "48"
+pages: "13785-13790"
+doi: "10.1073/pnas.1606102113"
+abstract: "Kelp forests (Order Laminariales) form key biogenic habitats in coastal regions of temperate and Arctic seas worldwide, providing ecosystem services valued in the range of billions of dollars annually. Although local evidence suggests that kelp forests are increasingly threatened by a variety of stressors, no comprehensive global analysis of change in kelp abundances currently exists. Here, we build and analyze a global database of kelp time series spanning the past half-century to assess regional and global trends in kelp abundances. We detected a high degree of geographic variation in trends, with regional variability in the direction and magnitude of change far exceeding a small global average decline (instantaneous rate of change = −0.018 y−1). Our analysis identified declines in 38% of ecoregions for which there are data (−0.015 to −0.18 y−1), increases in 27% of ecoregions (0.015 to 0.11 y−1), and no detectable change in 35% of ecoregions. These spatially variable trajectories reflected regional differences in the drivers of change, uncertainty in some regions owing to poor spatial and temporal data coverage, and the dynamic nature of kelp populations. We conclude that although global drivers could be affecting kelp forests at multiple scales, local stressors and regional variation in the effects of these drivers dominate kelp dynamics, in contrast to many other marine and terrestrial foundation species."
+keywords: "NA"
+url: "http://www.pnas.org/content/early/2016/11/09/1606102113.abstract"
+image: featured.png    
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: "./articles/Proceedings of the National Academy of Sciences_2016_10.1073_pnas.1606102113/cite.bib"
+pdf: "./articles/Proceedings of the National Academy of Sciences_2016_10.1073_pnas.1606102113/Krumhansl et al. - 2016 - Global patterns of kelp forest change over the past half-century.pdf"
+---

@@ -1,0 +1,20 @@
+---
+title: "Combined climate- and prey-mediated range expansion of Humboldt squid ( Dosidicus gigas), a large marine predator in the California Current System"
+date: "2014"
+year: "2014"
+author: ["Julia S Stewart", "Elliott L Hazen", "Steven J Bograd", "Jarrett E K Byrnes", "David G Foley", "William F. Gilly", "Bruce H Robison", "John C Field"]
+publication: "Global Change Biology"
+volume: "NA"
+number: "NA"
+pages: "n/a-n/a"
+doi: "10.1111/gcb.12502"
+abstract: "NA"
+keywords: "NA"
+url: "http://doi.wiley.com/10.1111/gcb.12502"
+image: featured.png    
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: "./articles/Global Change Biology_2014_10.1111_gcb.12502/cite.bib"
+pdf: "./articles/Global Change Biology_2014_10.1111_gcb.12502/Stewart et al. - 2014 - Combined climate- and prey-mediated range expansion of Humboldt squid ( Dosidicus gigas), a large ma.pdf"
+---

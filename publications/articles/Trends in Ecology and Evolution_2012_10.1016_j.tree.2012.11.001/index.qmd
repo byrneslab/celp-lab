@@ -1,0 +1,20 @@
+---
+title: "Raising money for scientific research through crowdfunding"
+date: "2012"
+year: "2012"
+author: ["Rachel E Wheat", "Yiwei Wang", "Jarrett E Byrnes", "Jai Ranganathan"]
+publication: "Trends in Ecology and Evolution"
+volume: "28"
+number: "2"
+pages: "71-72"
+doi: "10.1016/j.tree.2012.11.001"
+abstract: "NA"
+keywords: "NA"
+url: "http://linkinghub.elsevier.com/retrieve/pii/S0169534712002984"
+image: featured.png    
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: "./articles/Trends in Ecology and Evolution_2012_10.1016_j.tree.2012.11.001/cite.bib"
+pdf: "./articles/Trends in Ecology and Evolution_2012_10.1016_j.tree.2012.11.001/Wheat et al. - 2012 - Raising money for scientific research through crowdfunding.pdf"
+---

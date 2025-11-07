@@ -1,0 +1,20 @@
+---
+title: "From fat droplets to floating forests: cross-domain transfer learning using a PatchGAN-based segmentation model"
+date: "2022"
+year: "2022"
+author: ["Kameswara Bharadwaj Mantha", "Ramanakumar Sankar", "Yuping Zheng", "Lucy Fortson", "Thomas Pengo", "Douglas Mashek", "Mark Sanders", "Trace Christensen", "Jeffrey Salisbury", "Laura Trouille", "Jarrett E. K. Byrnes", "Isaac Rosenthal", "Henry Houskeeper", "Kyle Cavanaugh"]
+publication: "NA"
+volume: "NA"
+number: "NA"
+pages: "NA"
+doi: "10.48550/arXiv.2211.03937"
+abstract: "Many scientific domains gather sufficient labels to train machine algorithms through human-in-the-loop techniques provided by the Zooniverse.org citizen science platform. As the range of projects, task types and data rates increase, acceleration of model training is of paramount concern to focus volunteer effort where most needed. The application of Transfer Learning (TL) between Zooniverse projects holds promise as a solution. However, understanding the effectiveness of TL approaches that pretrain on large-scale generic image sets vs. images with similar characteristics possibly from similar tasks is an open challenge. We apply a generative segmentation model on two Zooniverse project-based data sets: (1) to identify fat droplets in liver cells (FatChecker; FC) and (2) the identification of kelp beds in satellite images (Floating Forests; FF) through transfer learning from the first project. We compare and contrast its performance with a TL model based on the COCO image set, and subsequently with baseline counterparts. We find that both the FC and COCO TL models perform better than the baseline cases when using textgreater75% of the original training sample size. The COCO-based TL model generally performs better than the FC-based one, likely due to its generalized features. Our investigations provide important insights into usage of TL approaches on multi-domain data hosted across different Zooniverse projects, enabling future projects to accelerate task completion."
+keywords: "Computer Science - Computer Vision and Pattern Recognition, Computer Science - Machine Learning"
+url: "http://arxiv.org/abs/2211.03937"
+image: featured.png    
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: "./articles/NA_2022_10.48550_arXiv.2211.03937/cite.bib"
+pdf: "./articles/NA_2022_10.48550_arXiv.2211.03937/Mantha et al. - 2022 - From fat droplets to floating forests cross-domai.pdf"
+---

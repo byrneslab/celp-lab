@@ -1,0 +1,20 @@
+---
+title: "Effects of five southern California macroalgal diets on consumption, growth, and gonad weight, in the purple sea urchin Strongylocentrotus purpuratus"
+date: "2015"
+year: "2015"
+author: ["Matthew C Foster", "Jarrett E K Byrnes", "Daniel C. Reed"]
+publication: "PeerJ"
+volume: "3"
+number: "NA"
+pages: "e719"
+doi: "10.7717/peerj.719"
+abstract: "NA"
+keywords: "NA"
+url: "https://peerj.com/articles/719"
+image: featured.png    
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: "./articles/PeerJ_2015_10.7717_peerj.719/cite.bib"
+pdf: "./articles/PeerJ_2015_10.7717_peerj.719/Foster et al. - 2015 - Effects of five southern California macroalgal diets on consumption, growth, and gonad weight, in th.pdf"
+---

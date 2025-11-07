@@ -19,7 +19,7 @@ website:
             text: Pets  
       - href: research.qmd
         text: Research
-      - href: pubs.qmd
+      - href: publications/index.qmd
         text: Publications
       - text: Resources
         menu:
@@ -36,7 +36,7 @@ website:
         href: https://bsky.app/profile/jebyrnes.bsky.social/lists/3laooalcpjz2c
 
   page-footer: 
-    left: '[![](/images/New_UMB_Logo_news_042522.jpg){width="70%"}](https://www.umb.edu/)'
+    left: '[![](/images/New_UMB_Logo_news_042522.jpg){width="50%"}](https://www.umb.edu/)'
     right: 'Made with {{< fa brands r-project size=2x >}} and 
       [![](https://quarto.org/quarto.png){fig-alt="Quarto" height=20px}](https://quarto.org/) <br>
       Code at {{< fa brands github>}}<br>'

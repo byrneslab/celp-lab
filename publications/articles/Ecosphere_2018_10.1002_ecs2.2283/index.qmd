@@ -1,0 +1,20 @@
+---
+title: "Quantifying relative importance: computing standardized effects in models with binary outcomes"
+date: "2018"
+year: "2018"
+author: ["James B. Grace", "Darren J Johnson", "Jonathan S Lefcheck", "Jarrett E K Byrnes"]
+publication: "Ecosphere"
+volume: "9"
+number: "6"
+pages: "e02283"
+doi: "10.1002/ecs2.2283"
+abstract: "Scientists commonly ask questions about the relative importance of processes and then turn to statistical models for answers. Standardized coefficients are typically used in such situations, with the goal being to compare effects on a common scale. Traditional approaches to obtaining standardized coefficients were developed with idealized Gaussian variables in mind. When responses are binary, complications arise that impact standardization methods. In this paper, we review, evaluate, and propose new methods for stan- dardizing coefficients from models that contain binary outcomes. We first consider the interpretability of unstandardized coefficients and then examine two main approaches to standardization. One approach, which we refer to as the latent-theoretical (LT) method, assumes that underlying binary observations, there exists a latent, continuous propensity linearly related to the coefficients. A second approach, which we refer to as the observed-empirical (OE) method, assumes responses are purely discrete and estimates error vari- ance empirically via reference to a classical R2 estimator. We also evaluate the standard formula for calculat- ing standardized coefficients based on standard deviations. Criticisms of this practice have been persistent, leading us to propose an alternative formula that is based on user-defined “relevant ranges.” Finally, we implement all of the above in an open-source package for the statistical software R. Results from simulation studies show that both the LT and OE methods of standardization support a similarly broad range of coeffi- cient comparisons. The LT method estimates effects that reflect underlying latent-linear propensities, while the OE method computes a linear approximation for the effects of predictors on binary responses. The con- trast between assumptions for the two methods is reflected in persistently weaker standardized effects asso- ciated with OE standardization. Reliance on standard deviations for standardization (the traditional approach) is critically examined and shown to introduce substantial biases when predictors are non- Gaussian. The use of relevant ranges in place of standard deviations has the capacity to place LT and OE standardized coefficients on a more comparable scale. As ecologists address increasingly complex hypothe- ses, especially those that comparing the influences of different controlling factors (e.g., top-down vs. bottom- up or biotic vs. abiotic controls), comparable coefficients become necessary for evaluations."
+keywords: "NA"
+url: "http://doi.wiley.com/10.1002/ecs2.2283"
+image: featured.png    
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: "./articles/Ecosphere_2018_10.1002_ecs2.2283/cite.bib"
+pdf: "./articles/Ecosphere_2018_10.1002_ecs2.2283/Grace et al. - 2018 - Quantifying relative importance computing standardized effects in models with binary outcomes.pdf"
+---

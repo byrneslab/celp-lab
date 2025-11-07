@@ -1,0 +1,20 @@
+---
+title: "New Technologies for Monitoring Coastal Ecosystem Dynamics"
+date: "2025"
+year: "2025"
+author: ["Kyle C. Cavanaugh", "Tom W. Bell", "Karen E. Aerni", "Jarrett E. K. Byrnes", "Seth McCammon", "Madison M. Smith"]
+publication: "Annual Review of Marine Science"
+volume: "17"
+number: "Volume 17, 2025"
+pages: "409-433"
+doi: "10.1146/annurev-marine-040523-020221"
+abstract: "In recent years, our view of coastal ecosystems has expanded and come into greater focus. We are currently making more types of observations over larger areas and at higher frequencies than ever before. These advances are timely, as coastal ecosystems are facing increasing pressures from climate change and anthropogenic stressors. This article synthesizes recent literature on emerging technologies for coastal ecosystem monitoring, including satellite monitoring, aerial and underwater drones, in situ sensor networks, fiber optic systems, and community science observatories. We also describe how advances in artificial intelligence and deep learning underpin all these technologies by enabling insights to be drawn from increasingly large data volumes. Even with these recent advances, there are still major gaps in coastal ecosystem monitoring that must be addressed to manage coastal ecosystems during a period of accelerating global change."
+keywords: "NA"
+url: "https://www.annualreviews.org/content/journals/10.1146/annurev-marine-040523-020221"
+image: featured.png    
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: "./articles/Annual Review of Marine Science_2025_10.1146_annurev-marine-040523-020221/cite.bib"
+pdf: "./articles/Annual Review of Marine Science_2025_10.1146_annurev-marine-040523-020221/Cavanaugh et al. - 2025 - New Technologies for Monitoring Coastal Ecosystem Dynamics.pdf"
+---

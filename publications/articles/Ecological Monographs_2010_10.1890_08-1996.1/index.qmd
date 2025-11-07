@@ -1,0 +1,20 @@
+---
+title: "A meta-analysis of resource pulse-consumer interactions"
+date: "2010"
+year: "2010"
+author: ["Louie H. Yang", "Kyle F. Edwards", "Jarrett E Byrnes", "Justin L. Bastow", "Amber N. Wright", "Kenneth O. Spence"]
+publication: "Ecological Monographs"
+volume: "80"
+number: "1"
+pages: "125-151"
+doi: "10.1890/08-1996.1"
+abstract: "NA"
+keywords: "NA"
+url: "http://www.esajournals.org/doi/abs/10.1890/08-1996.1"
+image: featured.png    
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: "./articles/Ecological Monographs_2010_10.1890_08-1996.1/cite.bib"
+pdf: "./articles/Ecological Monographs_2010_10.1890_08-1996.1/Yang et al. - 2010 - A meta-analysis of resource pulse-consumer interactions.pdf"
+---

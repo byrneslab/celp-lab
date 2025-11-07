@@ -1,0 +1,20 @@
+---
+title: "Surprising Abundant Mussel Beds in the Center of Boston Harbor in the Midst of a Regional Die-Back"
+date: "2022"
+year: "2022"
+author: ["Jarrett Edward Kaplan Byrnes", "Laura Dissly", "Kirk Bosma"]
+publication: "EcoEvoRxiv"
+volume: "NA"
+number: "NA"
+pages: "NA"
+doi: "13"
+abstract: "Mussel beds in the rocky intertidal of New England have long been a paradigmatic example of how physical forces – wave action – reduces predator abundance and enables a distinct ecological community. These beds, however, have witnessed a precipitous textgreater60% decline since the 1970s for currently unknown reasons. Here we report on the surprising persistence of large dense mussel beds in the middle islands of Boston Harbor, areas with low wave energy but high flow rates. These natural history observations suggest that there is more to understand about mussel bed ecology, particularly with respect to where we might find and conserve remnant populations to buffer the region from mussel loss."
+keywords: "NA"
+url: "https://ecoevorxiv.org/repository/view/3784/"
+image: featured.png    
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: "./articles/EcoEvoRxiv_2022_13/cite.bib"
+pdf: "./articles/EcoEvoRxiv_2022_13/Byrnes et al. - 2022 - Surprising Abundant Mussel Beds in the Center of B.pdf"
+---

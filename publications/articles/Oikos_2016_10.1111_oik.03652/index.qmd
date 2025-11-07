@@ -1,0 +1,20 @@
+---
+title: "A general biodiversity-function relationship is mediated by trophic level"
+date: "2016"
+year: "2016"
+author: ["Mary I O'Connor", "Andrew Gonzalez", "Jarrett E K Byrnes", "Bradley J Cardinale", "J. Emmett Duffy", "Lars Gamfeldt", "John N. Griffin", "David Hooper", "Bruce A Hungate", "Alain Paquette", "Patrick L Thompson", "Laura E Dee", "Kristin L Dolan"]
+publication: "Oikos"
+volume: "126"
+number: "1"
+pages: "n-a-n-a"
+doi: "10.1111/oik.03652"
+abstract: "Species diversity affects the functioning of ecosystems, including the efficiency by which communities capture limited resources, produce biomass, recycle and retain biologically essential nutrients. These ecological functions ultimately support the ecosystem services upon which humanity depends. Despite hundreds of experimental tests of the effect of biodiversity on ecosystem function (BEF), it remains unclear whether diversity effects are sufficiently general that we can use a single relationship to quantitatively predict how changes in species richness alter an ecosystem function across trophic levels, ecosystems and ecological conditions. Our objective here is to determine whether a general relationship exists between biodiversity and standing biomass. We used hierarchical mixed effects models, based on a power function between species richness and biomass production (Y = a × Sb), and a database of 374 published experiments to estimate the BEF relationship (the change in biomass with the addition of species), and its associated uncertainty, in the context of environmental factors. We found that the mean relationship (b = 0.26, 95% CI: 0.16, 0.37) characterized the vast majority of observations, was robust to differences in experimental design, and was independent of the range of species richness levels considered. However, the richness–biomass relationship varied by trophic level and among ecosystems; in aquatic systems b was nearly twice as large for consumers (herbivores and detritivores) compared to primary producers; in terrestrial ecosystems, b for detritivores was negative but depended on few studies. We estimated changes in biomass expected for a range of changes in species richness, highlighting that species loss has greater implications than species gains, skewing a distribution of biomass change relative to observed species richness change. When biomass provides a good proxy for processes that underpin ecosystem services, this relationship could be used as a step in modeling the production of ecosystem services and their dependence on biodiversity."
+keywords: "NA"
+url: "http://doi.wiley.com/10.1111/oik.03652"
+image: featured.png    
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: "./articles/Oikos_2016_10.1111_oik.03652/cite.bib"
+pdf: "./articles/Oikos_2016_10.1111_oik.03652/O'Connor et al. - 2016 - A general biodiversity-function relationship is mediated by trophic level.pdf"
+---

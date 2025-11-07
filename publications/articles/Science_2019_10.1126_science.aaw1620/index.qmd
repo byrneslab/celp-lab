@@ -1,0 +1,20 @@
+---
+title: "The geography of biodiversity change in marine and terrestrial assemblages"
+date: "2019"
+year: "2019"
+author: ["Shane A. Blowes", "Sarah R. Supp", "Laura H. Antao", "Amanda Bates", "Helge Bruelheide", "Jonathan M. Chase", "Faye Moyes", "Anne Magurran", "Brian McGill", "Isla H. Myers-Smith", "Marten Winter", "Anne D. Bjorkman", "Diana E. Bowler", "Jarrett E. K. Byrnes", "Andrew Gonzalez", "Jes Hines", "Forest Isbell", "Holly P. Jones", "Laetitia M. Navarro", "Patrick L. Thompson", "Mark Vellend", "Conor Waldock", "Maria Dornelas"]
+publication: "Science"
+volume: "366"
+number: "6463"
+pages: "339-345"
+doi: "10.1126/science.aaw1620"
+abstract: "Biodiversity is undergoing rapid change driven by climate change and other human influences. Blowes et al. analyze the global patterns in temporal change in biodiversity using a large quantity of time-series data from different regions (see the Perspective by Eriksson and Hillebrand). Their findings reveal clear spatial patterns in richness and composition change, where marine taxa exhibit the highest rates of change. The marine tropics, in particular, emerge as hotspots of species richness losses. Given that human activities are affecting biodiversity in magnitudes and directions that differ across the planet, these findings will provide a much needed biogeographic understanding of biodiversity change that can help inform conservation prioritization.Science, this issue p. 339; see also p. 308Human activities are fundamentally altering biodiversity. Projections of declines at the global scale are contrasted by highly variable trends at local scales, suggesting that biodiversity change may be spatially structured. Here, we examined spatial variation in species richness and composition change using more than 50,000 biodiversity time series from 239 studies and found clear geographic variation in biodiversity change. Rapid compositional change is prevalent, with marine biomes exceeding and terrestrial biomes trailing the overall trend. Assemblage richness is not changing on average, although locations exhibiting increasing and decreasing trends of up to about 20% per year were found in some marine studies. At local scales, widespread compositional reorganization is most often decoupled from richness change, and biodiversity change is strongest and most variable in the oceans."
+keywords: "NA"
+url: "http://science.sciencemag.org/content/366/6463/339.abstract"
+image: featured.png    
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: "./articles/Science_2019_10.1126_science.aaw1620/cite.bib"
+pdf: "./articles/Science_2019_10.1126_science.aaw1620/Blowes et al. - 2019 - The geography of biodiversity change in marine and.pdf"
+---

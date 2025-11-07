@@ -1,0 +1,20 @@
+---
+title: "An Environmental Niche Exploration Tool for Kelp Forest Management"
+date: "2025"
+year: "2025"
+author: ["Aaron M. Eger", "Georgina V. Wood", "Jarrett Byrnes"]
+publication: "Ecology and Evolution"
+volume: "15"
+number: "6"
+pages: "e71459"
+doi: "10.1002/ece3.71459"
+abstract: "Sustainably managing kelp forest ecosystems is critical to maintaining marine biodiversity, supporting coastal communities, and meeting global conservation targets such as the Kunming-Montreal Global Biodiversity Framework's 30 × 30 and Kelp Forest Challenge. Effective kelp forest management frequently depends on selecting environmentally suitable sites that align with species-specific environmental requirements. This paper introduces a novel kelp forest environmental niche mapping tool that synthesizes the realized environmental niche of 65 kelp species across 25 biophysical factors. Using over 426,000 global observations of kelp and high-resolution oceanographic datasets, the tool provides quantitative environmental niche data summarized by species and ecoregion. It focuses on key biophysical variables such as temperature, salinity, light, and nutrient availability, offering users practical guidance to identify optimal locations for kelp growth and survival. The tool is accessible via an interactive web application and supports conservation practitioners, policymakers, and researchers by enabling evidence-based site selection, maximizing conservation success, and informing broader marine ecosystem management. This tool presents a useful advancement in kelp forest management, facilitating global restoration efforts and contributing to the ambitious goal of restoring one million hectares of kelp forest by 2040. Future developments will address qualitative ecological factors and socio-cultural considerations to enhance its utility."
+keywords: "NA"
+url: "https://onlinelibrary.wiley.com/doi/abs/10.1002/ece3.71459"
+image: featured.png    
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: "./articles/Ecology and Evolution_2025_10.1002_ece3.71459/cite.bib"
+pdf: "./articles/Ecology and Evolution_2025_10.1002_ece3.71459/Eger et al. - 2025 - An Environmental Niche Exploration Tool for Kelp Forest Management.pdf"
+---

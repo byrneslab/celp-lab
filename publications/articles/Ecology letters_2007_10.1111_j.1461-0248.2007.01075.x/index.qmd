@@ -1,0 +1,20 @@
+---
+title: "Reciprocal relationships and potential feedbacks between biodiversity and disturbance."
+date: "2007"
+year: "2007"
+author: ["A Randall Hughes", "Jarrett E Byrnes", "David L Kimbro", "John J Stachowicz"]
+publication: "Ecology letters"
+volume: "10"
+number: "9"
+pages: "849-864"
+doi: "10.1111/j.1461-0248.2007.01075.x"
+abstract: "Two major foci of ecological research involve reciprocal views of the relationship between biodiversity and disturbance: disturbance determines community diversity or diversity determines realized disturbance severity. Here, we present an initial attempt to synthesize these two approaches in order to understand whether feedbacks occur, and what their effects on patterns of diversity might be. Our review of published experiments shows that (i) disturbance severity can be both a cause and a consequence of local diversity in a wide range of ecosystems and (ii) shapes of the unidirectional relationships between diversity and disturbance can be quite variable. To explore how feedbacks between diversity and disturbance might operate to alter expected patterns of diversity in nature, we develop and then evaluate a conceptual model that decomposes the relationships into component parts, considering sequentially the effect of diversity on disturbance severity, and the effect of realized disturbance on diversity loss, subsequent recruitment, and competitive exclusion. Our model suggests that feedbacks can increase mean values of richness, decrease variability, and alter the patterns of correlation between diversity and disturbance in nature. We close by offering ideas for future research to help fill gaps in our understanding of reciprocal relationships among ecological variables like diversity and disturbance."
+keywords: "NA"
+url: "http://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&id=17663718&retmode=ref&cmd=prlinks"
+image: featured.png    
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: "./articles/Ecology letters_2007_10.1111_j.1461-0248.2007.01075.x/cite.bib"
+pdf: "./articles/Ecology letters_2007_10.1111_j.1461-0248.2007.01075.x/Hughes et al. - 2007 - Reciprocal relationships and potential feedbacks between biodiversity and disturbance..pdf"
+---

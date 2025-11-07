@@ -1,0 +1,20 @@
+---
+title: "Reply to Byrnes et al.: Aggregation can obscure understanding of ecosystem multifunctionality"
+date: "2014"
+year: "2014"
+author: ["Mark A. Bradford", "Stephen A Wood", "Richard D Bardgett", "Helaina I J Black", "Michael Bonkowski", "Till Eggers", "Susan J Grayston", "Ellen Kandeler", "Peter Manning", "Heikki Setala", "T Hefin Jones"]
+publication: "PNAS"
+volume: "111"
+number: "51"
+pages: "E5491-E5491"
+doi: "10.1073/pnas.1421203112"
+abstract: "NA"
+keywords: "NA"
+url: "http://www.pnas.org/lookup/doi/10.1073/pnas.1421203112"
+image: featured.png    
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: "./articles/PNAS_2014_10.1073_pnas.1421203112/cite.bib"
+pdf: "./articles/PNAS_2014_10.1073_pnas.1421203112/Bradford et al. - 2014 - Reply to Byrnes et al. Aggregation can obscure understanding of ecosystem multifunctionality.pdf"
+---

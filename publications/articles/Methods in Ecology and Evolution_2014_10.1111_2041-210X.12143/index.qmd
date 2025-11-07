@@ -1,0 +1,20 @@
+---
+title: "Investigating the relationship between biodiversity and ecosystem multifunctionality: challenges and solutions"
+date: "2014"
+year: "2014"
+author: ["Jarrett E K Byrnes", "Lars Gamfeldt", "Forest Isbell", "Jonathan S Lefcheck", "John N. Griffin", "Andy Hector", "Bradley J Cardinale", "David U Hooper", "Laura E Dee", "J. Emmett Duffy"]
+publication: "Methods in Ecology and Evolution"
+volume: "5"
+number: "2"
+pages: "111-124"
+doi: "10.1111/2041-210X.12143"
+abstract: "NA"
+keywords: "NA"
+url: "http://dx.doi.org/10.1111/2041-210X.12143"
+image: featured.png    
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: "./articles/Methods in Ecology and Evolution_2014_10.1111_2041-210X.12143/cite.bib"
+pdf: "./articles/Methods in Ecology and Evolution_2014_10.1111_2041-210X.12143/Byrnes et al. - 2014 - Investigating the relationship between biodiversity and ecosystem multifunctionality challenges and.pdf"
+---

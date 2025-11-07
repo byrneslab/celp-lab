@@ -1,0 +1,20 @@
+---
+title: "Integrated assessment of storm surge barrier systems under present and future climates and comparison to alternatives: a case study of Boston, USA"
+date: "2020"
+year: "2020"
+author: ["Paul Kirshen", "Mark Borrelli", "Jarrett Byrnes", "Robert Chen", "Lucy Lockwood", "Chris Watson", "Kimberly Starbuck", "Jack Wiggin", "Allison Novelly", "Kristin Uiterwyk", "Kelli Thurson", "Brett McMann", "Carly Foster", "Heather Sprague", "Hugh J. Roberts", "Kirk Bosma", "Di Jin", "Rebecca Herst"]
+publication: "Climatic Change"
+volume: "162"
+number: "2"
+pages: "445-464"
+doi: "10.1007/s10584-020-02781-8"
+abstract: "NA"
+keywords: "NA"
+url: "https://link.springer.com/10.1007/s10584-020-02781-8"
+image: featured.png    
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: "./articles/Climatic Change_2020_10.1007_s10584-020-02781-8/cite.bib"
+pdf: "./articles/Climatic Change_2020_10.1007_s10584-020-02781-8/Kirshen et al. - 2020 - Integrated assessment of storm surge barrier systems under present and future climates and compariso.pdf"
+---

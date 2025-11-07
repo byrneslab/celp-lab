@@ -1,0 +1,20 @@
+---
+title: "The four pillars of scholarly publishing: The future and a foundation"
+date: "2013"
+year: "2013"
+author: ["Jarrett E K Byrnes", "Edward Baskerville", "Bruce Caron", "Cameron Neylon", "Carol Tenopir", "Mark Schildhauer", "Amber Budden", "Lonnie Aarssen", "Christopher J. Lortie"]
+publication: "PeerJ PrePrints"
+volume: "1"
+number: "NA"
+pages: "e11"
+doi: "10.7287/peerj.preprints.11"
+abstract: "NA"
+keywords: "NA"
+url: "https://peerj.com/preprints/11"
+image: featured.png    
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: "./articles/PeerJ PrePrints_2013_10.7287_peerj.preprints.11/cite.bib"
+pdf: "./articles/PeerJ PrePrints_2013_10.7287_peerj.preprints.11/Byrnes et al. - 2013 - The four pillars of scholarly publishing The future and a foundation.pdf"
+---

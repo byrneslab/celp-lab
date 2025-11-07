@@ -1,0 +1,20 @@
+---
+title: "The sea urchin – the ultimate herbivore and biogeographic variability in its ability to deforest kelp ecosystems"
+date: "2013"
+year: "2013"
+author: ["Jarrett E Byrnes", "Ladd E. Johnson", "Sean D. Connell", "Nick T. Shears", "Selena M McMillan", "Andrew Irving", "Alejandro H Buschmann", "Michael H. Graham", "Brian P. Kinlan"]
+publication: "PeerJ PrePrints"
+volume: "1"
+number: "NA"
+pages: "e174v1"
+doi: "10.7287/peerj.preprints.174v1"
+abstract: "Barren rocky seafloor landscapes, denuded of almost all life by ravenous sea urchins, liberated from their predators, stands as one of the iconic images of trophic cascades in Ecology. While this paradigm has been cited in nearly every temperate rocky reef ecosystem across the globe, there is widespread disagreement as to its generality. Given their biology, sea urchins are clearly one of the ocean’s strongest herbivores in many systems, but where will their impact be strongest? Here we perform a global meta-analysis of sea urchin-kelp relationships in the field. We find that sea urchins appear to be able to control kelp abundances in any system where they can achieve high densities. Furthermore, their ability to create large-scale long-lasting barrens appears to be limited to biogeographic regions where they can achieve high consumptive potential. Based on the literature, we outline a conceptual model that examines when and where sea urchins should be able to have a strong regulating impact on kelp forest ecosystems. We suggest that many elements of global change may shift the balance of forces regulating sea urchin consumptive potential in these ecosystems. Given their ability to have strong impacts on temperate rocky reefs, these drivers need to be considered in concert with their effect on sea urchins when attempting to predict future change to marine ecosystems."
+keywords: "NA"
+url: "http://dx.doi.org/10.7287/peerj.preprints.174v1"
+image: featured.png    
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: "./articles/PeerJ PrePrints_2013_10.7287_peerj.preprints.174v1/cite.bib"
+pdf: "./articles/PeerJ PrePrints_2013_10.7287_peerj.preprints.174v1/Byrnes et al. - 2013 - The sea urchin – the ultimate herbivore and biogeographic variability in its ability to deforest kel.pdf"
+---

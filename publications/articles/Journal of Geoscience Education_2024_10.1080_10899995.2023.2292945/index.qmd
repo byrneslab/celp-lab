@@ -1,0 +1,20 @@
+---
+title: "A citizen science approach to teaching climate change in introductory-level undergraduate general science courses"
+date: "2024"
+year: "2024"
+author: ["Isaac S. Rosenthal", "Molly N. Simon", "Laura Trouille", "Jarrett E.K Byrnes"]
+publication: "Journal of Geoscience Education"
+volume: "NA"
+number: "NA"
+pages: "1-12"
+doi: "10.1080/10899995.2023.2292945"
+abstract: "Hundreds of thousands of undergraduates enroll in general education science courses to fulfill university core requirements. However, many of these lecture-based courses fail to foster high-level data literacy skills. This work details the design, implementation, and analysis of a new climate change-based classroom activity for college students that pairs data interpretation with participation in an online citizen science project called Floating Forests (http://floatingforests.org). We pilot tested our activity in introductory geoscience and biology courses at six universities (?1,500 students) during the 2020?2021 academic year. Additionally, we developed and validated a survey to assess how engagement with our activity impacted students? self-reported changes across four factors: (1) perceptions of the impacts of climate change, (2) data literacy self-efficacy, (3) beliefs about the value of citizen science, and (4) beliefs about science engagement. In a pre- to post-test comparison, students who utilized our activity in their courses showed statistically significant increases (p?textless?0.05) across all four factors. These results highlight the potential benefit of implementing data-driven, citizen science-based activities in introductory-level undergraduate courses."
+keywords: "NA"
+url: "https://doi.org/10.1080/10899995.2023.2292945"
+image: featured.png    
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: "./articles/Journal of Geoscience Education_2024_10.1080_10899995.2023.2292945/cite.bib"
+pdf: "./articles/Journal of Geoscience Education_2024_10.1080_10899995.2023.2292945/Rosenthal et al. - 2024 - A citizen science approach to teaching climate change in introductory-level undergraduate general sc.pdf"
+---

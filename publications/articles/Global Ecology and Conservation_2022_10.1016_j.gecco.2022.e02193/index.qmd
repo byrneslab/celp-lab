@@ -1,0 +1,20 @@
+---
+title: "Effects of changing temperature phenology on the abundance of a critically endangered baleen whale"
+date: "2022"
+year: "2022"
+author: ["Laura C. Ganley", "Jarrett Byrnes", "Daniel E. Pendleton", "Charles A. Mayo", "Kevin D. Friedland", "Jessica V. Redfern", "Jefferson T. Turner", "Solange Brault"]
+publication: "Global Ecology and Conservation"
+volume: "38"
+number: "NA"
+pages: "e02193"
+doi: "10.1016/j.gecco.2022.e02193"
+abstract: "Incorporating the effects of climate change in species management strategies is one of today’s greatest conservation challenges. Mechanistic models can be used to address these challenges because they explain how climate change effects cascade through ecosystems and influence species distributions. We used structural equation models to test hypotheses about the cascading effects of climate change and basin-scale variables on the local abundance of North Atlantic right whales, a critically endangered species, in a historically important feeding habitat. We found that effects of the North Atlantic Oscillation, a basin-scale variable, on local right whale abundance occurred through a cascade of effects on other ecosystem variables, including chlorophyll a concentration, Calanus finmarchicus abundance, and zooplankton patchiness. These effects varied by month. We also found that the western Gulf of Maine spring thermal transition date (a proxy for climate change) is a major direct and indirect driver of variations in local right whale abundance. The indirect effect of earlier spring transition dates, through a pathway of prey abundance, suggested a decrease in local right whale abundance. However, right whale abundance increased because of the direct effect of regional spring transition date. The direct effect suggests that right whales may be using regional temperatures as a movement cue. The counter-acting direct and indirect effects of spring transition date suggest that right whales could face a mismatch with their prey, which could ultimately result in another large-scale distribution shift. Our causal modeling approach demonstrates that the influence of climate change on local right whale abundance in the Gulf of Maine cascades through a network of variables. These cascading effects make predicting local right whale abundance challenging and suggest that successful endangered species conservation requires identifying the mechanisms underlying species distributions."
+keywords: "Bayesian modeling, Climate change, Endangered species, North Atlantic right whale, Seasonal thermal cycles, Structural Equation Modeling"
+url: "https://www.sciencedirect.com/science/article/pii/S2351989422001950"
+image: featured.png    
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: "./articles/Global Ecology and Conservation_2022_10.1016_j.gecco.2022.e02193/cite.bib"
+pdf: "./articles/Global Ecology and Conservation_2022_10.1016_j.gecco.2022.e02193/Ganley et al. - 2022 - Effects of changing temperature phenology on the abundance of a critically endangered baleen whale.pdf"
+---

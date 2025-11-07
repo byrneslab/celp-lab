@@ -1,0 +1,20 @@
+---
+title: "Carbon Accumulation in Neotropical Dry Secondary Forests: The Roles of Forest Age and Tree Dominance and Diversity"
+date: "2017"
+year: "2017"
+author: ["Francisco Mora", "Victor J Jaramillo", "Radika Bhaskar", "Mayra Gavito", "Ilyas Siddique", "Jarret E K Byrnes", "Patricia Balvanera"]
+publication: "Ecosystems"
+volume: "NA"
+number: "NA"
+pages: "NA"
+doi: "14"
+abstract: "Tropical secondary forests are important sinks for atmospheric carbon, yet C uptake and accumulation rates are highly uncertain, and the mechanisms poorly understood. We evaluated the recovery of C stocks in four pools (aboveground biomass, litter, roots and topsoil) during dry forest regrowth by combining a space for time replacement (that is, a chronosequence) with a repeated measurements approach (that is, a resampling). We fit nonlinear models to chronosequence data to test whether forest age could explain differences in C stocks across sites, and to changes in aboveground biomass calculated from resampling over two 3-year periods, to test the predictive potential of forest age. We combined data from both approaches into structural equation models (SEM) to assess forest age and tree community attributes (diversity and dominance) as drivers of C stocks and changes in aboveground biomass. Forest age explained differences across sites in C stocks for aboveground biomass, litter and live roots, but not for the remaining pools. Observed C stock changes in aboveground biomass were poorly predicted by forest age. SEM revealed that aboveground biomass C was consistently and positively related to forest age and to the community weighted mean of maximum tree height (H max CWM), but not to tree diversity. Observed C stock changes were related only to H max CWM, although not consistently across the two 3-year periods. Our results highlight that the chronosequence approach can yield reasonable insights into long-term C accumulation trends, but erroneous estimates of C change over specific time periods. They also show that, in addition to age, dominance by tall statured species, but not tree species diversity, plays a significant role in C accumulation."
+keywords: "NA"
+url: "https://doi.org/10.1007/s10021-017-0168-2"
+image: featured.png    
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: "./articles/Ecosystems_2017_14/cite.bib"
+pdf: "./articles/Ecosystems_2017_14/Mora et al. - 2017 - Carbon Accumulation in Neotropical Dry Secondary Forests The Roles of Forest Age and Tree Dominance.pdf"
+---

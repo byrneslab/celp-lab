@@ -1,0 +1,20 @@
+---
+title: "Clarifying the effect of biodiversity on productivity in natural ecosystems with longitudinal data and methods for causal inference"
+date: "2023"
+year: "2023"
+author: ["Laura E. Dee", "Paul J. Ferraro", "Christopher N. Severen", "Kaitlin A. Kimmel", "Elizabeth T. Borer", "Jarrett E. K. Byrnes", "Adam Thomas Clark", "Yann Hautier", "Andrew Hector", "Xavier Raynaud", "Peter B. Reich", "Alexandra J. Wright", "Carlos A. Arnillas", "Kendi F. Davies", "Andrew MacDougall", "Akira S. Mori", "Melinda D. Smith", "Peter B. Adler", "Jonathan D. Bakker", "Kate A. Brauman", "Jane Cowles", "Kimberly Komatsu", "Johannes M. H. Knops", "Rebecca L. McCulley", "Joslin L. Moore", "John W. Morgan", "Timothy Ohlert", "Sally A. Power", "Lauren L. Sullivan", "Carly Stevens", "Michel Loreau"]
+publication: "Nature Communications"
+volume: "14"
+number: "1"
+pages: "2607"
+doi: "10.1038/s41467-023-37194-5"
+abstract: "Causal effects of biodiversity on ecosystem functions can be estimated using experimental or observational designs — designs that pose a tradeoff between drawing credible causal inferences from correlations and drawing generalizable inferences. Here, we develop a design that reduces this tradeoff and revisits the question of how plant species diversity affects productivity. Our design leverages longitudinal data from 43 grasslands in 11 countries and approaches borrowed from fields outside of ecology to draw causal inferences from observational data. Contrary to many prior studies, we estimate that increases in plot-level species richness caused productivity to decline: a 10% increase in richness decreased productivity by 2.4%, 95% CI [−4.1, −0.74]. This contradiction stems from two sources. First, prior observational studies incompletely control for confounding factors. Second, most experiments plant fewer rare and non-native species than exist in nature. Although increases in native, dominant species increased productivity, increases in rare and non-native species decreased productivity, making the average effect negative in our study. By reducing the tradeoff between experimental and observational designs, our study demonstrates how observational studies can complement prior ecological experiments and inform future ones."
+keywords: "Biodiversity, Community ecology, Ecological modelling, Grassland ecology"
+url: "https://www.nature.com/articles/s41467-023-37194-5"
+image: featured.png    
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: "./articles/Nature Communications_2023_10.1038_s41467-023-37194-5/cite.bib"
+pdf: "./articles/Nature Communications_2023_10.1038_s41467-023-37194-5/Dee et al. - 2023 - Clarifying the effect of biodiversity on productiv.pdf"
+---

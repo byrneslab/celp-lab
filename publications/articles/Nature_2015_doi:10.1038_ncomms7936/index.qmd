@@ -1,0 +1,20 @@
+---
+title: "Biodiversity enhances ecosystem multifunctionality across trophic levels and habitats"
+date: "2015"
+year: "2015"
+author: ["J S Lefcheck", "JEK Byrnes", "F Isbell", "L. Gamfeldt"]
+publication: "Nature"
+volume: "NA"
+number: "NA"
+pages: "NA"
+doi: "doi:10.1038/ncomms7936"
+abstract: "... Journal name: Nature Communications Volume: 6, Article number: 6936 DOI: doi : 10.1038 / ncomms7936 Received 12 November 2014 Accepted 17 March 2015 Published 24 April 2015 ..."
+keywords: "NA"
+url: "http://www.nature.com/ncomms/2015/150424/ncomms7936/full/ncomms7936.html"
+image: featured.png    
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: "./articles/Nature_2015_doi:10.1038_ncomms7936/cite.bib"
+pdf: "./articles/Nature_2015_doi:10.1038_ncomms7936/Lefcheck et al. - 2015 - Biodiversity enhances ecosystem multifunctionality across trophic levels and habitats.pdf"
+---

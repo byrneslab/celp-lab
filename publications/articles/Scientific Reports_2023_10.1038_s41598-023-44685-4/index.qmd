@@ -1,0 +1,20 @@
+---
+title: "Evidence of elevated heavy metals concentrations in wild and farmed sugar kelp (Saccharina latissima) in New England"
+date: "2023"
+year: "2023"
+author: ["Brianna K. Shaughnessy", "Brian P. Jackson", "Jarrett E. K. Byrnes"]
+publication: "Scientific Reports"
+volume: "13"
+number: "1"
+pages: "17644"
+doi: "10.1038/s41598-023-44685-4"
+abstract: "Seaweed farming in the United States is gaining significant financial and political support due to prospects to sustainably expand domestic economies with environmentally friendly products. Several networks are seeking appropriate synthesis of available science to both inform policy and substantiate the sector’s sustainability claims. Significant knowledge gaps remain regarding seaweed-specific food hazards and their mitigation; a resource-intensive challenge that can inhibit sustainable policies. This is particularly concerning for rapidly expanding Saccharina latissima (sugar kelp) crops, a brown seaweed that is known to accumulate heavy metals linked to food hazards. Here, we present baseline information about concentrations of arsenic, cadmium, lead, and mercury, in both wild and farmed sugar kelp from the New England region. We interpret our findings based on proximity to potential sources of contamination, location on blade, and available heavy metals standards. Contrary to our expectations, high concentrations were widespread in both wild and farmed populations, regardless of proximity to contamination. We find, like others, that cadmium and arsenic consistently reach levels of regulatory concern, and that dried seaweeds could harbor higher concentrations compared to raw products. We also share unique findings that suggest some toxins concentrate at the base of kelp blades. Our results are one step towards aggregating vital data for the region to expand its seaweed farming footprint."
+keywords: "Ecosystem services, Environmental impact, Sustainability"
+url: "https://www.nature.com/articles/s41598-023-44685-4"
+image: featured.png    
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: "./articles/Scientific Reports_2023_10.1038_s41598-023-44685-4/cite.bib"
+pdf: "./articles/Scientific Reports_2023_10.1038_s41598-023-44685-4/Shaughnessy et al. - 2023 - Evidence of elevated heavy metals concentrations i.pdf"
+---

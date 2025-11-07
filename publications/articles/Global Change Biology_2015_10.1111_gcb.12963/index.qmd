@@ -1,0 +1,20 @@
+---
+title: "Marine extinction risk shaped by trait-environment interactions over 500 million years"
+date: "2015"
+year: "2015"
+author: ["Emily A Orzechowski", "Rowan Lockwood", "Jarrett E K Byrnes", "Sean C Anderson", "Seth Finnegan", "Zoe V Finkel", "Paul G Harnik", "David R. Lindberg", "Lee Hsiang Liow", "Heike K. Lotze", "Craig R McClain", "Jenny L McGuire", "Aaron O'Dea", "John M. Pandolfi", "Carl Simpson", "Derek P. Tittensor"]
+publication: "Global Change Biology"
+volume: "NA"
+number: "NA"
+pages: "n/a-n/a"
+doi: "10.1111/gcb.12963"
+abstract: "NA"
+keywords: "NA"
+url: "http://doi.wiley.com/10.1111/gcb.12963"
+image: featured.png    
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: "./articles/Global Change Biology_2015_10.1111_gcb.12963/cite.bib"
+pdf: "./articles/Global Change Biology_2015_10.1111_gcb.12963/Orzechowski et al. - 2015 - Marine extinction risk shaped by trait-environment interactions over 500 million years.pdf"
+---

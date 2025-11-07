@@ -1,0 +1,20 @@
+---
+title: "Notes from the past show how local variability can stymie urchins and the rise of the reds in the Gulf of Maine"
+date: "2024"
+year: "2024"
+author: ["Jarrett E. K. Byrnes", "Andrea Brown", "Kate Sheridan", "Tianna Peller", "Jake Lawlor", "Julien Beaulieu", "Jenny Munoz", "Amelia Hesketh", "Alexis Pereira", "Nicole S. Knight", "Laura Super", "Ellen K. Bledsoe", "Joseph B. Burant", "Jennifer A. Dijkstra", "Kylla Benes"]
+publication: "Ecosphere"
+volume: "15"
+number: "4"
+pages: "e4800"
+doi: "10.1002/ecs2.4800"
+abstract: "The impacts of global change—from shifts in climate to overfishing to land use change—can depend heavily on local abiotic context. Building an understanding of how to downscale global change scenarios to local impacts is often difficult, however, and requires historical data across large gradients of variability. Such data are often not available—particularly in peer reviewed or gray literature. However, these data can sometimes be gleaned from casual records of natural history—field notebooks, data sheet marginalia, course notes, and more. Here, we provide an example of one such approach for the Gulf of Maine, as we seek to understand how environmental context can influence local outcomes of region-wide shifts in subtidal community structure. We explore a decade of hand-drawn algal cover maps around Appledore Island made by Dr. Art Borror while teaching at the Shoals Marine Lab. Appledore's steep wave exposure gradient—from exposed to the open ocean to fully protected—provides a living laboratory to test interactions between global change and local conditions. We then recreate Borror's methods two and a half decades later. We show that overfishing-driven urchin outbreaks in the 1980s were slowed or stopped by wave exposure and benthic topography. Similarly, local variation appears to have curtailed current invasions by filamentous red algae. Last, some formerly dominant kelps have disappeared over the past 40 years—an observation verified by subtidal surveys. Global change is altering life in the seas around us. While underutilized, solid natural history observations stand as a key resource for us to begin to understand how global change will translate to the heterogeneous mosaic of life in a future Gulf of Maine and other ecosystems around the world."
+keywords: "Gulf of Maine, historical ecology, kelp, natural history, species invasion, turf algae, urchin"
+url: "https://onlinelibrary.wiley.com/doi/abs/10.1002/ecs2.4800"
+image: featured.png    
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: "./articles/Ecosphere_2024_10.1002_ecs2.4800/cite.bib"
+pdf: "./articles/Ecosphere_2024_10.1002_ecs2.4800/Byrnes et al. - 2024 - Notes from the past show how local variability can.pdf"
+---

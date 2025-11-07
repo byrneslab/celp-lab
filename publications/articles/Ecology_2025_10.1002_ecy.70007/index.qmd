@@ -1,0 +1,20 @@
+---
+title: "Kelp forests as nursery and foundational habitat for reef fishes"
+date: "2025"
+year: "2025"
+author: ["Alejandro Perez-Matus", "Fiorenza Micheli", "Brenda Konar", "Nick Shears", "Natalie H. N. Low", "Daniel K. Okamoto", "Thomas Wernberg", "Kira A. Krumhansl", "Scott D. Ling", "Michael Kingsford", "Teresa Navarrete-Fernandez", "Catalina S. Ruz", "Jarrett E. K. Byrnes"]
+publication: "Ecology"
+volume: "106"
+number: "2"
+pages: "e70007"
+doi: "10.1002/ecy.70007"
+abstract: "Conservation of marine biodiversity requires an understanding of the habitats needed to support and replenish species of interest. It also requires knowledge about the abundance and diversity of multispecies assemblages. Variation in the distribution and composition of kelp forests, one of the most productive marine coastal habitats globally, can have major influences on reef fishes—a group of ecologically and socioeconomically important species. In the face of widespread and escalating loss of kelp forests, quantification of these effects is urgently needed to assess and project cascading impacts on biodiversity. Here, we evaluate relationships between kelp forests and associated reef fish populations using a global meta-analysis of experimental kelp removals and comparative surveys of kelp and adjacent non-kelp habitats. These analyses show that kelp forests increase the abundance of reef fishes, though the significance of this effect varied depending on the structural complexity of kelp forests. In experimental studies, kelp forests have a significant positive effect on fish species richness, revealing that kelp act as true foundation species by supporting the diversity of associated multispecies assemblages. Importantly, regardless of kelp forest morphology and type of study (observational or experimental studies), kelp forests enhance the recruitment of early life history stages suggesting they are nursery habitats for many reef fish taxa. Lastly, kelp forests differentially affected species with different functional traits; small body size fishes from low trophic levels (e.g., herbivore and detritivores, micropredators, and mesopredators) and large body size fish from higher trophic level (e.g., piscivores, general carnivores) were both facilitated by kelp forests. Taken together, these results indicate that the loss of kelp forest, particularly those with more complex morphology, can reduce total abundance and diversity of fish, with possible cascading consequences for coastal ecosystem function."
+keywords: "global change, habitat complexity, kelp beds, recruitment temperate reefs"
+url: "https://onlinelibrary.wiley.com/doi/abs/10.1002/ecy.70007"
+image: featured.png    
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: "./articles/Ecology_2025_10.1002_ecy.70007/cite.bib"
+pdf: "./articles/Ecology_2025_10.1002_ecy.70007/Pérez-Matus et al. - 2025 - Kelp forests as nursery and foundational habitat for reef fishes.pdf"
+---

@@ -1,0 +1,20 @@
+---
+title: "Native predators limit invasion of benthic invertebrate communities in Bodega Harbor, California, USA"
+date: "2016"
+year: "2016"
+author: ["T L Rogers", "J. E. Byrnes", "J. J. Stachowicz"]
+publication: "Marine Ecology Progress Series"
+volume: "545"
+number: "NA"
+pages: "161-173"
+doi: "10.3354/meps11611"
+abstract: "Page 1. MARINE ECOLOGY PROGRESS SERIES Mar Ecol Prog Ser Vol. 545: 161–173, 2016 doi: 10.3354 / meps11611 Published March 8 INTRODUCTION The consumption of non-native species by native consumers is an ..."
+keywords: "NA"
+url: "http://www.int-res.com/abstracts/meps/v545/p161-173/"
+image: featured.png    
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: "./articles/Marine Ecology Progress Series_2016_10.3354_meps11611/cite.bib"
+pdf: "./articles/Marine Ecology Progress Series_2016_10.3354_meps11611/Rogers et al. - 2016 - Native predators limit invasion of benthic invertebrate communities in Bodega Harbor, California, US.pdf"
+---
