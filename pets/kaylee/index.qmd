@@ -6,6 +6,7 @@ about:
   template: marquee
   image: kb_coat.jpeg
 date-format: " "
+lightbox: auto
 categories:
   - Cat
 ---

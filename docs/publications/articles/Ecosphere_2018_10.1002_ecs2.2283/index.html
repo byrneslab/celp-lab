@@ -6,8 +6,14 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="James B. Grace">
+<meta name="author" content="Darren J Johnson">
+<meta name="author" content="Jonathan S Lefcheck">
+<meta name="author" content="Jarrett E K Byrnes">
+<meta name="dcterms.date" content="2017-12-31">
+<meta name="keywords" content="NA">
 
-<title>Natalie Izbicki</title>
+<title>Quantifying relative importance: computing standardized effects in models with binary outcomes</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,26 +29,26 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../">
-<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
-<script src="../site_libs/quarto-html/popper.min.js"></script>
-<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-13b4c1af9e6d1f451f222de3dba79446.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
-<link href="../site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
-<link href="../site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
+<script src="../../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../../">
+<script src="../../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="../../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../../site_libs/bootstrap/bootstrap-13b4c1af9e6d1f451f222de3dba79446.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../../../site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
+<link href="../../../site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -70,10 +76,9 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<meta http-equiv="refresh" content="0; url=https://www.linkedin.com/in/natalie-izbicki-952b7528b/">
 
 
-<link rel="stylesheet" href="../styles.css">
+<link rel="stylesheet" href="../../../styles.css">
 </head>
 
 <body class="nav-fixed quarto-light">
@@ -83,7 +88,7 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="../index.html" class="navbar-brand navbar-brand-logo">
+    <a href="../../../index.html" class="navbar-brand navbar-brand-logo">
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -93,7 +98,7 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../index.html"> 
+    <a class="nav-link" href="../../../index.html"> 
 <span class="menu-text">CELP-Lab</span></a>
   </li>  
   <li class="nav-item dropdown ">
@@ -102,25 +107,25 @@ ul.task-list li input[type="checkbox"] {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-members">    
         <li>
-    <a class="dropdown-item" href="../current_members.html">
+    <a class="dropdown-item" href="../../../current_members.html">
  <span class="dropdown-text">Current Members</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../lab_alums.html">
+    <a class="dropdown-item" href="../../../lab_alums.html">
  <span class="dropdown-text">Lab Alums</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../pets.html">
+    <a class="dropdown-item" href="../../../pets.html">
  <span class="dropdown-text">Pets</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="../research.html"> 
+    <a class="nav-link" href="../../../research.html"> 
 <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../publications/index.html"> 
+    <a class="nav-link" href="../../../publications/index.html"> 
 <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item dropdown ">
@@ -129,21 +134,21 @@ ul.task-list li input[type="checkbox"] {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-resources">    
         <li>
-    <a class="dropdown-item" href="../teaching.html">
+    <a class="dropdown-item" href="../../../teaching.html">
  <span class="dropdown-text">Teaching &amp; Stats Tutorials</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../code_data.html">
+    <a class="dropdown-item" href="../../../code_data.html">
  <span class="dropdown-text">Code and Data</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="../prospectives.html"> 
+    <a class="nav-link" href="../../../prospectives.html"> 
 <span class="menu-text">Prospective Students</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../undergrad_resources.html"> 
+    <a class="nav-link" href="../../../undergrad_resources.html"> 
 <span class="menu-text">For Undergraduates</span></a>
   </li>  
 </ul>
@@ -171,27 +176,58 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Natalie Izbicki</h1>
-  <div class="quarto-categories">
-    <div class="quarto-category">Undergrad</div>
-  </div>
-  </div>
+<h1 class="title">Quantifying relative importance: computing standardized effects in models with binary outcomes</h1>
+</div>
 
 
 
 <div class="quarto-title-meta">
 
+    <div>
+    <div class="quarto-title-meta-heading">Authors</div>
+    <div class="quarto-title-meta-contents">
+             <p>James B. Grace </p>
+             <p>Darren J Johnson </p>
+             <p>Jonathan S Lefcheck </p>
+             <p>Jarrett E K Byrnes </p>
+          </div>
+  </div>
     
-  
-    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">December 31, 2017</p>
+    </div>
   </div>
   
+    
+    <div>
+    <div class="quarto-title-meta-heading">Doi</div>
+    <div class="quarto-title-meta-contents">
+      <p class="doi">
+        <a href="https://doi.org/10.1002/ecs2.2283">10.1002/ecs2.2283</a>
+      </p>
+    </div>
+  </div>
+  </div>
+  
+<div>
+  <div class="abstract">
+    <div class="block-title">Abstract</div>
+    Scientists commonly ask questions about the relative importance of processes and then turn to statistical models for answers. Standardized coefficients are typically used in such situations, with the goal being to compare effects on a common scale. Traditional approaches to obtaining standardized coefficients were developed with idealized Gaussian variables in mind. When responses are binary, complications arise that impact standardization methods. In this paper, we review, evaluate, and propose new methods for stan- dardizing coefficients from models that contain binary outcomes. We first consider the interpretability of unstandardized coefficients and then examine two main approaches to standardization. One approach, which we refer to as the latent-theoretical (LT) method, assumes that underlying binary observations, there exists a latent, continuous propensity linearly related to the coefficients. A second approach, which we refer to as the observed-empirical (OE) method, assumes responses are purely discrete and estimates error vari- ance empirically via reference to a classical R2 estimator. We also evaluate the standard formula for calculat- ing standardized coefficients based on standard deviations. Criticisms of this practice have been persistent, leading us to propose an alternative formula that is based on user-defined “relevant ranges.” Finally, we implement all of the above in an open-source package for the statistical software R. Results from simulation studies show that both the LT and OE methods of standardization support a similarly broad range of coeffi- cient comparisons. The LT method estimates effects that reflect underlying latent-linear propensities, while the OE method computes a linear approximation for the effects of predictors on binary responses. The con- trast between assumptions for the two methods is reflected in persistently weaker standardized effects asso- ciated with OE standardization. Reliance on standard deviations for standardization (the traditional approach) is critically examined and shown to introduce substantial biases when predictors are non- Gaussian. The use of relevant ranges in place of standard deviations has the capacity to place LT and OE standardized coefficients on a more comparable scale. As ecologists address increasingly complex hypothe- ses, especially those that comparing the influences of different controlling factors (e.g., top-down vs.&nbsp;bottom- up or biotic vs.&nbsp;abiotic controls), comparable coefficients become necessary for evaluations.
+  </div>
+</div>
 
+<div>
+  <div class="keywords">
+    <div class="block-title">Keywords</div>
+    <p>NA</p>
+  </div>
+</div>
 
 </header>
 
 
-<p>Linkedin is <a href="https://www.linkedin.com/in/natalie-izbicki-952b7528b/">here</a></p>
 
 
 
@@ -600,7 +636,7 @@ ul.task-list li input[type="checkbox"] {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p><a href="https://www.umb.edu/"><img src="../images/New_UMB_Logo_news_042522.jpg" class="img-fluid" style="width:50.0%"></a></p>
+<p><a href="https://www.umb.edu/"><img src="../../../images/New_UMB_Logo_news_042522.jpg" class="img-fluid" style="width:50.0%"></a></p>
 </div>   
     <div class="nav-footer-center">
       &nbsp;
