@@ -13,8 +13,8 @@ keywords: "global change, habitat complexity, kelp beds, recruitment temperate r
 url: "https://onlinelibrary.wiley.com/doi/abs/10.1002/ecy.70007"
 image: featured.png    
 url_preprint: ""
-url_code: ""
-url_dataset: ""
+url_code: "https://github.com/jebyrnes/fish_kelp_meta"
+url_dataset: "https://portal.edirepository.org/nis/mapbrowse?packageid=edi.1687.1"
 bib: "./articles/Ecology_2025_10.1002_ecy.70007/cite.bib"
 pdf: "./articles/Ecology_2025_10.1002_ecy.70007/Pérez-Matus et al. - 2025 - Kelp forests as nursery and foundational habitat for reef fishes.pdf"
 ---

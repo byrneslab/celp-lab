@@ -12,9 +12,9 @@ abstract: "Sustainably managing kelp forest ecosystems is critical to maintainin
 keywords: "NA"
 url: "https://onlinelibrary.wiley.com/doi/abs/10.1002/ece3.71459"
 image: featured.png    
-url_preprint: ""
-url_code: ""
-url_dataset: ""
+url_preprint: "https://www.authorea.com/users/880153/articles/1259243-an-ecological-niche-mapping-tool-for-kelp-forest-conservation"
+url_code: "https://georginawood.shinyapps.io/KelpNicheMapper/"
+url_dataset: "https://osf.io/ewsk5/overview"
 bib: "./articles/Ecology and Evolution_2025_10.1002_ece3.71459/cite.bib"
 pdf: "./articles/Ecology and Evolution_2025_10.1002_ece3.71459/Eger et al. - 2025 - An Environmental Niche Exploration Tool for Kelp Forest Management.pdf"
 ---
