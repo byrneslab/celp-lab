@@ -1,0 +1,10 @@
+---
+title: "Laura Dissly"
+image: '/images/students/laura_dissly.png'
+date: "2021-03-20"
+categories:
+    - Tech
+include-in-header: 
+      text: |
+        <meta http-equiv="refresh" content="0; url=https://www.linkedin.com/in/laura-dissly/">
+---

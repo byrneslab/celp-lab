@@ -1,0 +1,12 @@
+---
+title: "Michael Moscote"
+image: '/images/students/michael_moscote.jpg'
+date: "2020-03-20"
+categories:
+    - Undergrad
+    - REU
+    - Tech
+include-in-header: 
+      text: |
+        <meta http-equiv="refresh" content="0; url=https://www.linkedin.com/in/michael-moscote-a7061a207/">
+---

@@ -1,0 +1,10 @@
+---
+title: "Callie Herschfield"
+image: '/images/students/callie_herschfield.jpg'
+date: "2022-03-20"
+categories:
+    - Tech
+include-in-header: 
+      text: |
+        <meta http-equiv="refresh" content="0; url=https://www.linkedin.com/in/callie-herschfield/">
+---

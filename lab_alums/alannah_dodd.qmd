@@ -1,0 +1,10 @@
+---
+title: "Alannah Dodd"
+image: '/images/students/alannah_dodd.png'
+date: "2022-03-20"
+categories:
+    - Tech
+# include-in-header: 
+#       text: |
+#         <meta http-equiv="refresh" content="0; url=https://www.linkedin.com/in/bradlie-morgan-4b52b0156/">
+---

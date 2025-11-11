@@ -1,0 +1,10 @@
+---
+title: "Bradlie Morgan"
+image: '/images/students/bradlie_morgan.jpg'
+date: "2024-03-20"
+categories:
+    - Tech
+include-in-header: 
+      text: |
+        <meta http-equiv="refresh" content="0; url=https://www.linkedin.com/in/bradlie-morgan-4b52b0156/">
+---

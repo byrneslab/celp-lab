@@ -1,0 +1,10 @@
+---
+title: "Hudson Filas"
+image: '/images/students/hudson_filas.png'
+date: "2021-03-20"
+categories:
+    - REU
+include-in-header: 
+      text: |
+        <meta http-equiv="refresh" content="0; url=https://www.linkedin.com/in/hudson-filas-2b780a1b1/">
+---

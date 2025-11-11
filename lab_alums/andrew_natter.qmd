@@ -1,0 +1,10 @@
+---
+title: "Andrew Natter"
+image: '/images/students/andrew_natter.jpg'
+date: "2022-03-20"
+categories:
+    - REU
+include-in-header: 
+      text: |
+        <meta http-equiv="refresh" content="0; url=https://www.linkedin.com/in/andrew-j-natter/">
+---
