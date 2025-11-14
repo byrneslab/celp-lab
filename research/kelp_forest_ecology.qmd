@@ -1,10 +1,15 @@
 ---
 title: "Kelp Forest Ecology"
-image: '/images/research/ne_kelp.jpg'
 date: "2012-09-01"
+image: '../images/research/ne_kelp.jpg'
+about: 
+  id: about
+  template: marquee
+  image: '../images/research/ne_kelp.jpg'
+date-format: " "
+lightbox: auto
 ---
 
-![](/images/research/ne_kelp.jpg)
 
 Over one quarter of the world's coastlines are covered in kelp. Forming dense forests, rolling meadows, and lush beds, these large brown algae provide structure to the many temperate and boreal ecosystems around the world. As a foundation species, they provide critical habitat for many fish and invertebrates - a number of whom are fished for comercially. Their large structures also change flow conditions along shorelines. As large fast growing algae, they are a critical channel for carbon and nitrogen into the undersea ecosystem. They soak them up, and then feed many of the herbivores, detritivores, and even bacteria in the surrounding system. Changes to kelps and their associated communities could have a large impact on the goods and services provided by coastal ecosystems. 
 
@@ -15,6 +20,8 @@ We're pursuing several different lines of inquiry to look at global effects of c
 
 <b>Zooming in on the Gulf of Maine</b>
 To understand the global, one must develop a fine-scale mechanistic understanding of the local. We're grounding all of our fine-scale work here, in the Gulf of Maine. In the Gulf of Maine and New England, kelp beds support an immense diversity of life, and have been impacted tremendously by shifts in urchins, invasive species, and environmental shifts. We're developing programs to understand the interplay between human-driven environmental change and subtidal ecosystems. Current efforts include examining feedbacks between kelp and waves, the causes of shifts to invasive species, and the effects of large-scale kelp disturbances. There's still much to be done, and many questions to be asked at every level, from the individual organisms to the entire coastline.
+ 
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/9B4K3MFTCUk?si=6GsZiD4WFx3ZuHbC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
  
 <b>Relevant References</b>
 

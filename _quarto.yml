@@ -34,6 +34,8 @@ website:
     right:
       - text: "{{< fa brands bluesky >}}"
         href: https://bsky.app/profile/jebyrnes.bsky.social/lists/3laooalcpjz2c
+      - text: "{{<fa brands flickr>}}"
+        href: https://www.flickr.com/photos/byrneslab/
 
   page-footer: 
     left: '[![](/images/New_UMB_Logo_news_042522.jpg){width="50%"}](https://www.umb.edu/)'
