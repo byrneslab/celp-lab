@@ -1,8 +1,32 @@
 ---
 title: "Pepper"
 date: "2025-01-01"
-image: ""
+lightbox: true
+about: 
+  id: about
+  template: jolla
+  image-shape: round
+  image: pepper_tube.jpeg
+  image-width: 50%
 date-format: " "
 categories:
   - Cat
 ---
+:::{#about}  
+:::
+
+Pepper is a spicy little man. He arrived as a kitten, and quickly showed he was more of a dog in a cat's body that anything else. He waited by the door for someone to come home, attached himself to anyone within eyesight, and even played fetch multiple times with my daughter.
+
+![This is a little man who needs everyone around him to snuggle him](trio.jpeg){.lightbox width=100%}
+
+He has continued to prove himself a cheeky little man, crying from several rooms away during Zoom meetings until someone comes and picks him up, waiting until you are done, and then taking over your chair when you get up for a moment. Or trapping you on a couch while he hugs you and passes out, so that you cannot move.
+
+::: {layout-ncol=2 layout-valign="center"}
+![This is his chair now.](pepper_chair.jpeg){.lightbox width=100%} 
+
+![A hug!](pepper_hug.jpeg){.lightbox width=100%}
+:::
+
+Such is the way of this little man, who is always there for you so that he knows you will be there for him. Just after he steals all of his siblings' food.
+
+![Yes, his theme song is Pink Pony Club](pepper_boa.jpeg){.lightbox width=80%}

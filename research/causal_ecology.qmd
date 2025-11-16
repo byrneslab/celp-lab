@@ -1,7 +1,13 @@
 ---
 title: "Causal Inference in Ecology"
-image: '/images/research/mussels_on_rainsford.jpg'
+image: '..//images/research/confounding.png'
 date: "2012-09-01"
+about: 
+  id: about
+  template: marquee
+  image: '../images/research/confounding.png'
+date-format: " "
+lightbox: auto
 ---
 
-![](/images/research/mussels_on_rainsford.jpg)
+As a someone who grew up firmly in the tradition of of 
