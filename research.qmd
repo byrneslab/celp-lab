@@ -2,7 +2,7 @@
 title: "CELP Lab Research"
 listing:
   contents: research
-  categories: true
+  categories: false
   sort: "date"
   type: grid
   fields: [image, title, categories]
