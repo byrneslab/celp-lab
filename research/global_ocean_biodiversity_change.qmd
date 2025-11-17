@@ -1,7 +1,0 @@
----
-title: "Global Biodiversity Change in Coastal Oceans"
-image: '/images/research/mussels_on_rainsford.jpg'
-date: "2012-09-01"
----
-
-![](/images/research/mussels_on_rainsford.jpg)

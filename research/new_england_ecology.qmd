@@ -2,6 +2,9 @@
 title: "New England Marine Ecology"
 image: '/images/research/mussels_on_rainsford.jpg'
 date: "2012-09-01"
+date-format: " "
 ---
 
 ![](/images/research/mussels_on_rainsford.jpg)
+
+A good chunk of what we work on in the lab is simply learning from and learning about the Ecology of ocean ecosystems here in New England. The lab is based here in the Gulf of Maine, sitting at the back of Boston Harbor. 
