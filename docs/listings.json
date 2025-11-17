@@ -78,6 +78,7 @@
     "listing": "/publications/index.html",
     "items": [
       "/publications/articles/Marine Policy_2026_10.1016_j.marpol.2025.106922/index.html",
+      "/publications/articles/Ecology Letters_2025_10.1111_ele.70192/index.html",
       "/publications/articles/Ecology and Evolution_2025_10.1002_ece3.71459/index.html",
       "/publications/articles/EcoEvoRxiv_2025_67/index.html",
       "/publications/articles/Ecology Letters_2025_10.1111_ele.70023/index.html",
@@ -160,6 +161,16 @@
       "/pets/pepper/index.html",
       "/pets/pierogi/index.html",
       "/pets/zola/index.html"
+    ]
+  },
+  {
+    "listing": "/research/causal_ecology.html",
+    "items": [
+      "/publications/articles/Ecology Letters_2025_10.1111_ele.70192/index.html",
+      "/publications/articles/EcoEvoRxiv_2025_67/index.html",
+      "/publications/articles/Ecology Letters_2025_10.1111_ele.70023/index.html",
+      "/publications/articles/Ecology_2024_10.1002_ecy.4334/index.html",
+      "/publications/articles/Ecosphere_2018_10.1002_ecs2.2283/index.html"
     ]
   }
 ]

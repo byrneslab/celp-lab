@@ -17,4 +17,5 @@ url_code: ""
 url_dataset: ""
 bib: "./articles/Ecology Letters_2025_10.1111_ele.70023/cite.bib"
 pdf: "./articles/Ecology Letters_2025_10.1111_ele.70023/Byrnes and Dee - 2025 - Causal Inference With Observational Data and Unobserved Confounding Variables.pdf"
+categories: ["causal inference"]
 ---

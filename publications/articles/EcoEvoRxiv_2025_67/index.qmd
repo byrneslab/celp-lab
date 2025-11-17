@@ -17,4 +17,5 @@ url_code: ""
 url_dataset: ""
 bib: "./articles/EcoEvoRxiv_2025_67/cite.bib"
 pdf: "./articles/EcoEvoRxiv_2025_67/Correia et al. - 2025 - Best practices for moving from correlation to causation in ecological research.pdf"
+categories: ["causal inference"]
 ---

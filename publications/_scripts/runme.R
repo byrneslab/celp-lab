@@ -20,4 +20,11 @@ source("publications/_scripts/bibtex_2_website_qmds.R")
 #     overwrite = FALSE
 # )
 
+# 
+# bibtex_2_website_qmds(
+#     bibfile = "publications/_zotero_outputs/dudney_2025/dudney_2025.bib",
+#     pdf_files_folder_location = "publications/_zotero_outputs/dudney_2025",
+#     outfold = "publications/articles/",
+#     overwrite = FALSE
+# )
 

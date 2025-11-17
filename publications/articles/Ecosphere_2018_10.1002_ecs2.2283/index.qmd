@@ -17,4 +17,5 @@ url_code: ""
 url_dataset: ""
 bib: "./articles/Ecosphere_2018_10.1002_ecs2.2283/cite.bib"
 pdf: "./articles/Ecosphere_2018_10.1002_ecs2.2283/Grace et al. - 2018 - Quantifying relative importance computing standardized effects in models with binary outcomes.pdf"
+categories: ["causal inference", "structural equation modeling"]
 ---

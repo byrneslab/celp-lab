@@ -1,6 +1,6 @@
 ---
 title: "Causal Inference in Ecology"
-image: '..//images/research/confounding.png'
+image: '../images/research/confounding.png'
 date: "2012-09-01"
 about: 
   id: about
@@ -8,6 +8,44 @@ about:
   image: '../images/research/confounding.png'
 date-format: " "
 lightbox: auto
+
+listing:
+  - id: relevant_references
+    contents: ../publications/articles/*/*.qmd
+    template: ../_ejs/article.ejs
+    categories: true
+    include:
+      categories: ["causal inference"]
+    sort:
+      - "year desc"
+      - "title"
+    sort-ui: [year, title, author, publication]
+    filter-ui: [year, title, author, publication]
+    page-size: 100
+    field-display-names: 
+      publication: "Publication"
+      year: "Year"
+
 ---
 
-As a someone who grew up firmly in the tradition of of 
+As a someone who grew up firmly in the tradition of experiments as The Way to assess the causal relationships between different elements of nature, I've always been skeptical of claims of causality from observational data. The tradition of ecological experimentation - reaching back to Paine and Connell and even further to [Fischer-Piette](https://www.conchology.be/?t=9001&id=18388) and Hatton - was reified in the 1980s as our way to take apart ecosystems and put them back together. Couple this with a heavy dose of Pearson's "Correlation Does Not Equal Causation", a dash of Popper (often not read carefully), and some papers delighting in telling folk they are Wrong in how they do things, and we as a field have been fixated on the epistemology of experimentation for some time. With, frankly, some very good effects in terms of what we've learned!
+
+But, moving into the 21st century, more and more experiments addressing problems of global change have been met with the critique of - is what we do in a box/aquarium/square-meter-plot really relevant at scales of whole estuaries, watersheds, continents, the planet? 
+
+So, how we can make use of the rapidly growing body of observational data sets out there to do causal inference at scale?
+
+![](/images/research/gcb_sem.png){width=80% align=center}
+
+This question has driven a number of efforts in the lab - from methods development and teaching in Structural Equation Modeling to importing tools from Epidemiology and Econometrics to applying this to studies in kelp forests, grasslands, salt marshes, and more. 
+
+![](/images/research/equation.png){width=70%}  
+In the lab, we're very interested in trying to carefully blend natural history with both familiar and emerging quantitative techniques in order to divine knowledge about causal relationships in the world from high quality data. This is really exciting, as it's a place where hard-core field ecology and systems-knowledge is just as important as the ability to dive deep into the rabbit hole of data science. And it provides answers to some of the world's most pressing problems.
+
+**Relevant References**
+
+- [SEM for Ecology and Evolutionary Biology](https://sem-eeb.github.io/semclass/)  
+- [Full Luxury Bayesian SEM](https://jebyrnes.github.io/bayesian_sem/bayesian_sem.html)  
+
+:::{#relevant_references}  
+:::
+

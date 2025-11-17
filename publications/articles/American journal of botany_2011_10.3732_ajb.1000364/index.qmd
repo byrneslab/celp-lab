@@ -17,4 +17,5 @@ url_code: ""
 url_dataset: ""
 bib: "./articles/American journal of botany_2011_10.3732_ajb.1000364/cite.bib"
 pdf: "./articles/American journal of botany_2011_10.3732_ajb.1000364/Cardinale et al. - 2011 - The functional role of producer diversity in ecosystems..pdf"
+categories: ["biodiversity ecosystem function"]
 ---

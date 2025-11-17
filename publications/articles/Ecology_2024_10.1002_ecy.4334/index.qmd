@@ -17,4 +17,5 @@ url_code: ""
 url_dataset: ""
 bib: "./articles/Ecology_2024_10.1002_ecy.4334/cite.bib"
 pdf: "./articles/Ecology_2024_10.1002_ecy.4334/Suskiewicz et al. - 2024 - Ocean warming undermines the recovery resilience o.pdf"
+categories: ["causal inference", "kelp forest ecology", "new england ecology"]
 ---
