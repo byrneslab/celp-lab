@@ -1,8 +1,36 @@
 ---
 title: "Pearl"
 date: "2025-01-01"
-image: ""
+image: hellothere_pearl.jpeg
+
+about: 
+  id: about
+  template: marquee
+  image: hellothere_pearl.jpeg
 date-format: " "
+lightbox: auto
 categories:
   - Cat
 ---
+
+Pearl is a Barbarian. From moment one of arrival, she has been a barbarian - fierce in battle and fierce in love.
+
+![The feathers will later be feasted upon](pearl_attack.jpeg){.lightbox}
+
+She's even fierce in immune system, having overcome feline leukemia when she was a kitten while staying isolated in Jarrett's daughter's room for three months.
+
+::: {layout-ncol=2 layout-valign="center"}
+
+![A little lady of snuggles](pearl_curled.jpeg){.lightbox}  
+
+![Watching over the world](pearl_tree.jpeg){.lightbox}
+
+:::
+
+Make no bones about it, if she wants something, she will yell at you and let you know. This little lynx-point wants you to pick her up and will tell you. Loudly.
+
+![Lounging for you to love her](pearl_lounging.jpeg){.lightbox width=80%}
+
+Or nightly, she will demand to be put atop a bunk-bed to get roll around and purr louder than you ever thought as small a creature as her could purr. For she is a fierce barbarian, even when it comes to purring.
+
+![When she was a kitten, Pearl would sync her purrs with her brother. So loud!](pearl_curled.jpeg){.lightbox width=80%}
