@@ -1,8 +1,25 @@
 ---
 title: "Pepita"
 date: "2006-01-01"
-image: ""
+image: long_pepsi.jpg
+about: 
+  id: about
+  template: broadside
+  image: long_pepsi.jpg
 date-format: " "
+lightbox: auto
 categories:
   - Dog
 ---
+
+
+My name is Pepita, and I’m the 8lb head of my household. My official job titles include Chief Morale Officer, Professional Yapper, and *Senior Curtis patrol officer* (long story).
+
+### My Projects
+My days are extremely busy. My primary project is a data-gathering mission called *“Who’s that?“* which requires me to bark loudly at any passing dogs (and sometimes people), just in case. I’m also perfecting a new algorithm to predict the exact location where my parents need to step, sit, or work, and then lie there. Finally, I collect sticks.
+
+### My Passions
+* Being on the way: As previously discussed
+* Naps: No need to elaborate.
+* Sneezing: I love sneezing to show my dislike for things.
+* Chasing birds: Alas, I’m just a dog
