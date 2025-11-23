@@ -30,6 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
@@ -70,7 +72,93 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-teaching .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-title-sort'] }],
+      
+      searchColumns: ["listing-title","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-teaching'] = new List('listing-teaching', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-tutorials .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-title-sort'] }],
+      
+      searchColumns: ["listing-title","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-tutorials'] = new List('listing-tutorials', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -148,12 +236,20 @@ ul.task-list li input[type="checkbox"] {
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
+    <a class="nav-link" href="https://github.com/jebyrnes"> 
+<span class="menu-text"><i class="fa-brands fa-github" aria-label="github"></i></span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="https://bsky.app/profile/jebyrnes.bsky.social/lists/3laooalcpjz2c"> 
 <span class="menu-text"><i class="fa-brands fa-bluesky" aria-label="bluesky"></i></span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="https://www.flickr.com/photos/byrneslab/"> 
 <span class="menu-text"><i class="fa-brands fa-flickr" aria-label="flickr"></i></span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="https://imachordata.com"> 
+<span class="menu-text"><i class="fa-solid fa-blog" aria-label="blog"></i></span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -191,17 +287,148 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p><strong>Classes</strong><br>
-- <a href="https://biol355.github.io">Biol 355/356: Intro to Data Science for Biology</a><br>
-- <a href="https://biol607.github.io">Biol 607/617: Biostatistics and Experimental Design</a><br>
-- <a href="https://biol609.github.io">Biol 609: Advanced Data Analysis for Biology</a><br>
-- <a href="https://jarrettbyrnes.info/meta/">Biol 697: Meta-analysis for Ecology</a><br>
-- <a href="https://sem-eeb.github.io/semclass/">Structural Equation Modeling for Ecology and Evolutionary Biology</a><br>
-- <a href="https://docs.google.com/document/d/16_qAslz3CDlSPTsFBsmzh6FoDt7uzTt2/edit?usp=sharing&amp;ouid=105030083689633832675&amp;rtpof=true&amp;sd=true">Marine Biology and Ecology</a><br>
-- <a href="https://www.shoalsmarinelaboratory.org/underwater-research">Underwater Research</a><br>
-- <a href="https://jebyrnes.github.io/2019-01-22-UMB/">2019 Geospatial Data Carpentry Workshop at UMB</a></p>
-<p><strong>Blog(s)</strong><br>
-- <a href="https://imachordata.com/">I’m a chordata! Urochordata!</a> - bringing stats tutorials, marine biology, and paper commentary since 2003</p>
+<div id="listing-teaching" class="quarto-listing quarto-listing-container-table">
+<table class="quarto-listing-table table">
+<thead>
+<tr>
+
+<th>
+<b>Classes</b>
+</th>
+
+<th>
+ 
+</th>
+
+</tr>
+</thead>
+<tbody class="list">
+
+<tr data-index="0" data-listing-title-sort="Biol 355/356: Intro to Data Science for Biology">
+<td>
+<a href="https://biol355.github.io" class="title listing-title">Biol 355/356: Intro to Data Science for Biology</a>
+</td>
+<td>
+<span class="listing-description">My undergraduate data science course. Covers everything from intro to R to building Shiny apps with a supçon of data analysis.</span>
+</td>
+
+</tr>
+
+<tr data-index="1" data-listing-title-sort="Biol 607/617: Biostatistics and Experimental Design">
+<td>
+<a href="https://biol607.github.io" class="title listing-title">Biol 607/617: Biostatistics and Experimental Design</a>
+</td>
+<td>
+<span class="listing-description">My graduate biostats class. It constantly evolves. See <a href="https://github.com/orgs/biol607/repositories">here</a> for past versions - or just put a / and enter the year number after the main class URL. <a href="http://biol607.github.io/2012">v1.0</a> is a hoot.</span>
+</td>
+
+</tr>
+
+<tr data-index="2" data-listing-title-sort="Biol 609: Advanced Data Analysis for Biology">
+<td>
+<a href="https://biol609.github.io" class="title listing-title">Biol 609: Advanced Data Analysis for Biology</a>
+</td>
+<td>
+<span class="listing-description">My grad Bayesian data analysis class mostly using McElreath’s Statistical Rethinking.</span>
+</td>
+
+</tr>
+
+<tr data-index="3" data-listing-title-sort="Biol 697: Meta-analysis for Ecology">
+<td>
+<a href="https://jarrettbyrnes.info/meta/" class="title listing-title">Biol 697: Meta-analysis for Ecology</a>
+</td>
+<td>
+<span class="listing-description">Once upon a time I taught a course in meta-analysis using Handbook of Meta-Analysis in Ecology and Evolution. It went well, led to a paper, but, so much has changed… And I haven’t had a chance to revisit or re-teach.</span>
+</td>
+
+</tr>
+
+<tr data-index="4" data-listing-title-sort="Structural Equation Modeling for Ecology and Evolutionary Biology">
+<td>
+<a href="https://sem-eeb.github.io/semclass/" class="title listing-title">Structural Equation Modeling for Ecology and Evolutionary Biology</a>
+</td>
+<td>
+<span class="listing-description">The course Jon Lefcheck and I co-teach periodically on SEM.</span>
+</td>
+
+</tr>
+
+<tr data-index="5" data-listing-title-sort="Marine Biology and Ecology">
+<td>
+<a href="https://docs.google.com/document/d/16_qAslz3CDlSPTsFBsmzh6FoDt7uzTt2/edit?usp=sharing&amp;ouid=105030083689633832675&amp;rtpof=true&amp;sd=true" class="title listing-title">Marine Biology and Ecology</a>
+</td>
+<td>
+<span class="listing-description">An undergraduate marine bio class. The link is to the syllabus, as the course is on canvas… I should change that.</span>
+</td>
+
+</tr>
+
+<tr data-index="6" data-listing-title-sort="Underwater Research">
+<td>
+<a href="https://www.shoalsmarinelaboratory.org/underwater-research" class="title listing-title">Underwater Research</a>
+</td>
+<td>
+<span class="listing-description">Most summers find me at the Shoals Marine Lab for two weeks teaching an AAUS sci-dive class that has a heavy emphasis on designing and conducting research projects underwater.</span>
+</td>
+
+</tr>
+
+<tr data-index="7" data-listing-title-sort="2019 Geospatial Data Carpentry Workshop at UMB">
+<td>
+<a href="https://jebyrnes.github.io/2019-01-22-UMB/" class="title listing-title">2019 Geospatial Data Carpentry Workshop at UMB</a>
+</td>
+<td>
+<span class="listing-description">I’m a trained data carpentry instructor, and really excited about their Geospatial curriculum. Here’s a workshop a group of us taught at UMB.</span>
+</td>
+
+</tr>
+
+<tr data-index="8" data-listing-title-sort="2024 R Geospatial and Shiny Workshop for COBALT">
+<td>
+<a href="https://cobalt-casco.github.io/2024-01-10-osher/" class="title listing-title">2024 R Geospatial and Shiny Workshop for COBALT</a>
+</td>
+<td>
+<span class="listing-description">As a part of my NASA MUREP grant, a group of us taught how to do geospatial in R as well as how to build R Shiny Apps to a group at the Osher Maps Library in Portland, ME.</span>
+</td>
+
+</tr>
+
+</tbody>
+</table>
+<div class="listing-no-matching d-none">No matching items</div>
+</div>
+<div id="listing-tutorials" class="quarto-listing quarto-listing-container-table">
+<table class="quarto-listing-table table">
+<thead>
+<tr>
+
+<th>
+<b>Tutorials</b>
+</th>
+
+<th>
+ 
+</th>
+
+</tr>
+</thead>
+<tbody class="list">
+
+<tr data-index="0" data-listing-title-sort="">
+<td>
+<span class="listing-title">&nbsp;</span>
+</td>
+<td>
+<span class="listing-description">&nbsp;</span>
+</td>
+
+</tr>
+
+</tbody>
+</table>
+<div class="listing-no-matching d-none">No matching items</div>
+</div>
 <p><strong>Tutorials</strong><br>
 - <a href="https://jebyrnes.github.io/bayesian_sem/bayesian_sem.html">Full Luxury Bayesian Structural Equation Modeling</a><br>
 - <a href="https://biol609.github.io/lab/alt_to_rethinking.html">Same Model, Different Bayesian Code</a><br>
@@ -210,6 +437,7 @@ ul.task-list li input[type="checkbox"] {
 - <a href="https://imachordata.com/2020/09/24/simulating-posterior-predictions-from-non-bayesian-fits/">Simulating Posteriors from Non-Bayesian Fits</a><br>
 - <a href="https://imachordata.com/2016/10/18/linear-model-power-analysis-with-dplyr/">Linear Model Power Analysis with dplyr in R</a><br>
 - <a href="https://imachordata.com/2020/10/03/gf-pizza-that-rocks/">Gluten Free Pizza Crust</a></p>
+
 
 
 
@@ -624,7 +852,7 @@ ul.task-list li input[type="checkbox"] {
       &nbsp;
     </div>
     <div class="nav-footer-right">
-<p>Made with <i class="fa-brands fa-r-project fa-2x" aria-label="r-project"></i> and <a href="https://quarto.org/"><img src="https://quarto.org/quarto.png" alt="Quarto" height="20"></a> <br> Code at <i class="fa-brands fa-github" aria-label="github"></i><br></p>
+<p>Made with <i class="fa-brands fa-r-project fa-2x" aria-label="r-project"></i> and <a href="https://quarto.org/"><img src="https://quarto.org/quarto.png" alt="Quarto" height="20"></a> <br> Code at <a href="https://github.com/byrneslab/celp-lab"><i class="fa-brands fa-github" aria-label="github"></i></a><br></p>
 </div>
   </div>
 </footer>

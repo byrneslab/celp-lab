@@ -1,19 +1,30 @@
 ---
 title: "Teaching and Tutorials"
+listing:
+  - id: teaching
+    contents: "resources/teaching.yaml"
+    type: table
+    sort: false
+    sort-ui: false
+    filter-ui: false
+    field-display-names: 
+        title: "<b>Classes</b>"
+        description: " "
+  - id: tutorials
+    contents: "resources/tutorials.yaml"
+    type: table
+    sort: false
+    sort-ui: false
+    filter-ui: false
+    field-display-names: 
+        title: "<b>Tutorials</b>"
+        description: " "
 ---
+:::{#teaching}
+:::
 
-**Classes**  
-- [Biol 355/356: Intro to Data Science for Biology](https://biol355.github.io)  
-- [Biol 607/617: Biostatistics and Experimental Design](https://biol607.github.io)  
-- [Biol 609: Advanced Data Analysis for Biology](https://biol609.github.io)  
-- [Biol 697: Meta-analysis for Ecology](https://jarrettbyrnes.info/meta/)  
-- [Structural Equation Modeling for Ecology and Evolutionary Biology](https://sem-eeb.github.io/semclass/)  
-- [Marine Biology and Ecology](https://docs.google.com/document/d/16_qAslz3CDlSPTsFBsmzh6FoDt7uzTt2/edit?usp=sharing&ouid=105030083689633832675&rtpof=true&sd=true)  
-- [Underwater Research](https://www.shoalsmarinelaboratory.org/underwater-research)  
-- [2019 Geospatial Data Carpentry Workshop at UMB](https://jebyrnes.github.io/2019-01-22-UMB/)  
-
-**Blog(s)**  
-- [I'm a chordata! Urochordata!](https://imachordata.com/) - bringing stats tutorials, marine biology, and paper commentary since 2003
+:::{#tutorials}
+:::
 
 **Tutorials**  
 - [Full Luxury Bayesian Structural Equation Modeling](https://jebyrnes.github.io/bayesian_sem/bayesian_sem.html)  

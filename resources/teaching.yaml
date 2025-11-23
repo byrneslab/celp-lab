@@ -1,3 +1,36 @@
-- title: ""
-  path: 
-  description: ""
+- title: "Biol 355/356: Intro to Data Science for Biology"
+  path: https://biol355.github.io
+  description: "My undergraduate data science course. Covers everything from intro to R to building Shiny apps with a supçon of data analysis."
+
+- title: "Biol 607/617: Biostatistics and Experimental Design"
+  path: https://biol607.github.io
+  description: "My graduate biostats class. It constantly evolves. See <a href=https://github.com/orgs/biol607/repositories>here</a> for past versions - or just put a / and enter the year number after the main class URL. <a href=http://biol607.github.io/2012>v1.0</a> is a hoot."
+
+- title: "Biol 609: Advanced Data Analysis for Biology"
+  path: https://biol609.github.io
+  description: "My grad Bayesian data analysis class mostly using McElreath's Statistical Rethinking."
+
+- title: "Biol 697: Meta-analysis for Ecology"
+  path: https://jarrettbyrnes.info/meta/
+  description: "Once upon a time I taught a course in meta-analysis using Handbook of Meta-Analysis in Ecology and Evolution. It went well, led to a paper, but, so much has changed... And I haven't had a chance to revisit or re-teach."
+
+- title: "Structural Equation Modeling for Ecology and Evolutionary Biology"
+  path: https://sem-eeb.github.io/semclass/
+  description: "The course Jon Lefcheck and I co-teach periodically on SEM."
+
+- title: "Marine Biology and Ecology"
+  path: "https://docs.google.com/document/d/16_qAslz3CDlSPTsFBsmzh6FoDt7uzTt2/edit?usp=sharing&ouid=105030083689633832675&rtpof=true&sd=true"
+  description: "An undergraduate marine bio class. The link is to the syllabus, as the course is on canvas... I should change that."
+
+- title: "Underwater Research"
+  path: https://www.shoalsmarinelaboratory.org/underwater-research
+  description: "Most summers find me at the Shoals Marine Lab for two weeks teaching an AAUS sci-dive class that has a heavy emphasis on designing and conducting research projects underwater."
+
+- title: "2019 Geospatial Data Carpentry Workshop at UMB"
+  path: https://jebyrnes.github.io/2019-01-22-UMB/
+  description: "I'm a trained data carpentry instructor, and really excited about their Geospatial curriculum. Here's a workshop a group of us taught at UMB."
+
+- title: "2024 R Geospatial and Shiny Workshop for COBALT"
+  path: https://cobalt-casco.github.io/2024-01-10-osher/
+  description: "As a part of my NASA MUREP grant, a group of us taught how to do geospatial in R as well as how to build R Shiny Apps to a group at the Osher Maps Library in Portland, ME."
+

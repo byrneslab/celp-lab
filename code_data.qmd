@@ -27,7 +27,7 @@ listing:
     sort-ui: false
     filter-ui: false
     field-display-names: 
-        title: "<b>Data Set</b>"
+        title: "<b>Data Sets</b>"
         description: " "
 ---
 
