@@ -84,9 +84,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-project','listing-website','listing-format','listing-language','listing-title','listing-date','listing-year','listing-author','listing-publication','listing-volume','listing-number','listing-pages','listing-doi','listing-abstract','listing-keywords','listing-url','listing-image','listing-url_preprint','listing-url_code','listing-url_dataset','listing-bib','listing-pdf','listing-categories','listing-path','listing-outputHref','listing-date-modified','listing-description','listing-filename','listing-file-modified','listing-reading-time','listing-word-count',{ data: ['index'] },{ data: ['categories'] }],
+      valueNames: ['listing-project','listing-website','listing-format','listing-language','listing-title','listing-date','listing-year','listing-author','listing-publication','listing-volume','listing-number','listing-pages','listing-doi','listing-abstract','listing-keywords','listing-url','listing-image','listing-url_preprint','listing-url_code','listing-url_dataset','listing-bib','listing-pdf','listing-categories','listing-path','listing-outputHref','listing-date-modified','listing-description','listing-filename','listing-file-modified','listing-reading-time','listing-word-count',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-date-modified-sort'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] },{ data: ['listing-word-count-sort'] }],
       
-      searchColumns: ["listing-year","listing-title","listing-author","listing-publication"],
+      searchColumns: ["listing-project","listing-website","listing-format","listing-language","listing-title","listing-date","listing-year","listing-author","listing-publication","listing-volume","listing-number","listing-pages","listing-doi","listing-abstract","listing-keywords","listing-url","listing-image","listing-url_preprint","listing-url_code","listing-url_dataset","listing-bib","listing-pdf","listing-categories","listing-path","listing-outputHref","listing-date-modified","listing-description","listing-filename","listing-file-modified","listing-reading-time","listing-word-count"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -210,12 +210,20 @@ window.Quarto = {
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
+    <a class="nav-link" href="https://github.com/jebyrnes"> 
+<span class="menu-text"><i class="fa-brands fa-github" aria-label="github"></i></span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="https://bsky.app/profile/jebyrnes.bsky.social/lists/3laooalcpjz2c"> 
 <span class="menu-text"><i class="fa-brands fa-bluesky" aria-label="bluesky"></i></span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="https://www.flickr.com/photos/byrneslab/"> 
 <span class="menu-text"><i class="fa-brands fa-flickr" aria-label="flickr"></i></span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="https://imachordata.com"> 
+<span class="menu-text"><i class="fa-solid fa-blog" aria-label="blog"></i></span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -254,35 +262,11 @@ In the lab, we’re very interested in trying to carefully blend natural history
 <p><strong>Relevant References</strong></p>
 <ul>
 <li><a href="https://sem-eeb.github.io/semclass/">SEM for Ecology and Evolutionary Biology</a><br>
-</li>
-<li><a href="https://jebyrnes.github.io/bayesian_sem/bayesian_sem.html">Full Luxury Bayesian SEM</a></li>
+<hr width="100%" size="2" color="blue" noshade=""></li>
+<li><a href="https://jebyrnes.github.io/bayesian_sem/bayesian_sem.html">Full Luxury Bayesian SEM</a><br>
+<hr width="100%" size="2" color="blue" noshade=""></li>
 </ul>
 <div id="listing-relevant_references" class="quarto-listing quarto-listing-container-custom">
-<div class="listing-actions-group">
-   <div class="input-group input-group-sm quarto-listing-sort">
-    <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
-    <select id="listing-relevant_references-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-relevant_references'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
-      <option value="" disabled="" selected="" hidden="">Order By</option>
-      <option value="index" data-direction="asc">Default</option>
-      <option value="listing-year" data-direction="asc">
-        Year
-      </option>
-      <option value="listing-title" data-direction="asc">
-        Title
-      </option>
-      <option value="listing-author" data-direction="asc">
-        Author
-      </option>
-      <option value="listing-publication" data-direction="asc">
-        Publication
-      </option>
-    </select>
-  </div>
-    <div class="input-group input-group-sm quarto-listing-filter">
-      <span class="input-group-text"><i class="bi bi-search"></i></span>
-      <input type="text" class="search form-control" placeholder="Filter">
-    </div>
-</div>
 <ul class="pub-list list">
   <li data-index="0" data-categories="Y2F1c2FsJTIwaW5mZXJlbmNl" data-listing-date-sort="1735689600000" data-listing-file-modified-sort="1763411833558" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
     <span class="listing-author ">Joan Dudney, Laura E. Dee, Robert Heilmayr, Jarrett Byrnes, Katherine Siegel</span>
@@ -368,7 +352,7 @@ In the lab, we’re very interested in trying to carefully blend natural history
   </div>
   <hr width="100%" size="2" color="blue" noshade="">
   </li>
-  <li data-index="3" data-categories="Y2F1c2FsJTIwaW5mZXJlbmNlJTJDa2VscCUyMGZvcmVzdCUyMGVjb2xvZ3klMkNuZXclMjBlbmdsYW5kJTIwZWNvbG9neQ==" data-listing-date-sort="1704067200000" data-listing-file-modified-sort="1763411290358" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+  <li data-index="3" data-categories="Y2F1c2FsJTIwaW5mZXJlbmNlJTJDa2VscCUyMGZvcmVzdCUyMGVjb2xvZ3klMkNuZXclMjBlbmdsYW5kJTIwZWNvbG9neQ==" data-listing-date-sort="1704067200000" data-listing-file-modified-sort="1763847578412" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
     <span class="listing-author ">Thew S. Suskiewicz, Jarrett E. K. Byrnes, Robert S. Steneck, Robert Russell, Carl J. Wilson, Douglas B. Rasher</span>
     <span class="listing-year">(2024)</span>
     <span class="listing-title fw-bold">Ocean warming undermines the recovery resilience of New England kelp forests following a fishery-induced trophic cascade.</span>
@@ -384,6 +368,14 @@ In the lab, we’re very interested in trying to carefully blend natural history
     <a href="./articles/Ecology_2024_10.1002_ecy.4334/Suskiewicz et al. - 2024 - Ocean warming undermines the recovery resilience o.pdf" <button="" class="btn btn-secondary btn-sm">
     <i class="bi bi-file-earmark-pdf" target="_blank" rel="noopener noreferrer" style="font-size: 1rem"></i>
     pdf
+    </a>
+    <a href="https://github.com/jebyrnes/kelp_gom_thermal_causal" <button="" class="btn btn-secondary btn-sm">
+    <i class="bi bi-github" target="_blank" rel="noopener noreferrer" style="font-size: 1rem"></i>
+    code
+    </a>
+    <a href="https://datadryad.org/dataset/doi:10.5061/dryad.v9s4mw73q" <button="" class="btn btn-secondary btn-sm">
+    <i class="bi bi-clipboard-data" target="_blank" rel="noopener noreferrer" style="font-size: 1rem"></i>
+    data
     </a>
     <a href="./articles/Ecology_2024_10.1002_ecy.4334/cite.bib" <button="" class="btn btn-secondary btn-sm">
     <i class="bi bi-blockquote-left" target="_blank" rel="noopener noreferrer" style="font-size: 1rem"></i>
@@ -836,7 +828,7 @@ In the lab, we’re very interested in trying to carefully blend natural history
       &nbsp;
     </div>
     <div class="nav-footer-right">
-<p>Made with <i class="fa-brands fa-r-project fa-2x" aria-label="r-project"></i> and <a href="https://quarto.org/"><img src="https://quarto.org/quarto.png" alt="Quarto" height="20"></a> <br> Code at <i class="fa-brands fa-github" aria-label="github"></i><br></p>
+<p>Made with <i class="fa-brands fa-r-project fa-2x" aria-label="r-project"></i> and <a href="https://quarto.org/"><img src="https://quarto.org/quarto.png" alt="Quarto" height="20"></a> <br> Code at <a href="https://github.com/byrneslab/celp-lab"><i class="fa-brands fa-github" aria-label="github"></i></a><br></p>
 </div>
   </div>
 </footer>

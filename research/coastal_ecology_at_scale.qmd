@@ -6,3 +6,13 @@ date-format: " "
 ---
 
 ![](/images/research/krumhansl_map.png)
+
+The planet is undergoing enormous changes driven by human influences. At the same time, ecological systems are mind-bogglingly complex and subject to all manner of jukes and bounces due to environmental noise. This makes detecting change and then attributing it to cause an incredibly difficult task.  
+
+One of the principle challenges in learning about large-scale change - from the regional to global scale - is expanding one's scale of inference. One cannot understand nature without having a solid sense of the natural history of one or a handful of sites. Knowing and understanding the stories behind chage in, say, a single kelp forest is a keyhole through which we can peer and understand the wider world. At the same time, when we open the door to see the entire landscape arrayed in front of us, we learn that what we have learned is one piece of a much larger puzzle of the natural world.
+
+In our lab, we approach global change biology through the lense of data synthesis of long-term and large-scale data sets. We work to bring together many different data layers - from modeled outputs to remote sensing to visual surveys aggregated across many studies - in order to learn about how the world has changed. We employ [causal statistical approaches](causal_ecology.html) in order to either attribute change to particular drivers, or to interpolate and learn about general change across large unsampled spatial scales.
+
+We bring this approach to coastal ecosystems, but also work with researchers in other systems as well in order to build a broad understanding of global change that is necessary to tackle the next century of environmental issues.
+
+**Relevant References**

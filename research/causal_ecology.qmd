@@ -14,14 +14,13 @@ listing:
     contents: ../publications/articles/*/*.qmd
     template: ../_ejs/article.ejs
     categories: true
+    sort-ui: false
+    filter-ui: false
     include:
       categories: ["causal inference"]
     sort:
       - "year desc"
       - "title"
-    sort-ui: [year, title, author, publication]
-    filter-ui: [year, title, author, publication]
-    page-size: 100
     field-display-names: 
       publication: "Publication"
       year: "Year"
@@ -44,7 +43,10 @@ In the lab, we're very interested in trying to carefully blend natural history w
 **Relevant References**
 
 - [SEM for Ecology and Evolutionary Biology](https://sem-eeb.github.io/semclass/)  
+  <hr width="100%" size="2" color="blue" noshade>
+
 - [Full Luxury Bayesian SEM](https://jebyrnes.github.io/bayesian_sem/bayesian_sem.html)  
+  <hr width="100%" size="2" color="blue" noshade>
 
 :::{#relevant_references}  
 :::
