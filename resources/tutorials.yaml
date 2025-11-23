@@ -1,3 +1,35 @@
-- title: ""
-  path: 
-  description: ""
+- title: "Full Luxury Bayesian Structural Equation Modeling"
+  path: https://jebyrnes.github.io/bayesian_sem/bayesian_sem.html
+  description: "For ages, I' was curious about how to reproduce've been frustrated with the inability to work latent variables and other things into piecewise SEM using a frequentist approach. I knew Bayesian piecewise SEM was the answer, but was having a difficult time getting LVs to work properly. Then I got inspired, and, in a fit of mad procrastination, created this tutorial with brms."
+
+- title: "Same Model, Different Bayesian Code"
+  path: https://biol609.github.io/lab/alt_to_rethinking.html
+  description: "There are several ways to fit Bayesian models in R. While teaching using the rethinking package, I decided to introduce my students to stan, brms, and inla as alternatives."
+
+- title: "[Using Modelbased for Model Viz in R"
+  path: https://imachordata.com/2025/07/25/modelbased-for-quick-and-beautiful-model-visualization/
+  description: "I've become a big fan of the modelbased package from easystats in R for quick visualization of marginal effects and counterfactual scenarios. But, some of the documentation isn't super clear. So I wrote this to crytalize a few lessons learned that I keep forgetting and that others might find useful."
+
+- title: "tidyeval for dynamic functions"
+  path: https://imachordata.com/2021/11/28/tidyeval-dynamic-evaluation-for-writing-functions-in-the-tidyverse/
+  description: "I always forget - quo, quosure, {{}}, or what?! So I wrote this for myself. Mostly so that when I google this stuff, I re-find my own blog entry."
+
+- title: "Simulating Posteriors from Non-Bayesian Fits"
+  path: https://imachordata.com/2020/09/24/simulating-posterior-predictions-from-non-bayesian-fits/
+  description: "I love tidybayes and other R packages to simulate from Bayesian posteriors. While the arm package got us part way there, how can we automate more?"
+
+- title: "Linear Model Power Analysis with dplyr in R"
+  path: https://imachordata.com/2016/10/18/linear-model-power-analysis-with-dplyr/
+  description: "Honestly, I prefer power analysis by simulation to power analysis by equation. Why? Because you are not constrained in model types. So here are the basics for a linear model."
+
+- title: "Gluten Free Pizza Crust"
+  path: https://imachordata.com/2020/10/03/gf-pizza-that-rocks/
+  description: "When my daughter was diagnosed with Celiac, I had to rework a lot of things in the kitchen. Here's a dough that always works."
+
+- title: "dagitty and ggdag"
+  path: https://biol607.github.io/lab/dagitty.html
+  description: "A quick tutorial on these useful packages for dag visualization and analysis"
+
+- title: "Cross Validation in R"
+  path: https://biol607.github.io/lab/crossvalidation.html
+  description: "A quick tutorial on some of the underlying basics."
