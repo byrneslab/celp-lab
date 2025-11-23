@@ -13,8 +13,8 @@ keywords: "herbivory, Laminaria digitata, phase shift, range shift, Saccharina l
 url: "https://onlinelibrary.wiley.com/doi/abs/10.1002/ecy.4334"
 image: featured.png    
 url_preprint: ""
-url_code: ""
-url_dataset: ""
+url_code: "https://github.com/jebyrnes/kelp_gom_thermal_causal"
+url_dataset: "https://datadryad.org/dataset/doi:10.5061/dryad.v9s4mw73q"
 bib: "./articles/Ecology_2024_10.1002_ecy.4334/cite.bib"
 pdf: "./articles/Ecology_2024_10.1002_ecy.4334/Suskiewicz et al. - 2024 - Ocean warming undermines the recovery resilience o.pdf"
 categories: ["causal inference", "kelp forest ecology", "new england ecology"]

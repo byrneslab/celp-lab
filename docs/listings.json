@@ -125,7 +125,7 @@
       "/publications/articles/PNAS_2014_10.1073_pnas.1419515112/index.html",
       "/publications/articles/PNAS_2014_10.1073_pnas.1421203112/index.html",
       "/publications/articles/PloS one_2014_10.1371_journal.pone.0110329/index.html",
-      "/publications/articles/NA_2013_34/index.html",
+      "/publications/articles/MCEC_2013_34/index.html",
       "/publications/articles/Ecology_2013_10.1890_13-0179.1/index.html",
       "/publications/articles/Frontiers in Microbiology_2013_10.3389_fmicb.2013.00342/index.html",
       "/publications/articles/Ecology_2013_10.1890_11-2310.1/index.html",
@@ -171,5 +171,9 @@
       "/publications/articles/Ecology_2024_10.1002_ecy.4334/index.html",
       "/publications/articles/Ecosphere_2018_10.1002_ecs2.2283/index.html"
     ]
+  },
+  {
+    "listing": "/code_data.html",
+    "items": []
   }
 ]

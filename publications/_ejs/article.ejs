@@ -6,7 +6,8 @@
     <span class="listing-year">(<%= item.year%>)</span>
     <span class="listing-title fw-bold"><%= item.title %>.</span>
     <span class="listing-publication fst-italic "><%= item.publication %>.</span>
-  <span class="listing-volume "><%= item.volume %>:</span>
+    <% if (item.editors) { %> <span class="listing-author "><%= item.editors %> eds.</span><% } %>
+  <% if (item.volume) { %> <span class="listing-volume "><%= item.volume %>:</span><% } %>
   <span class="listing-pages "><%= item.pages %>.</span>
     </br>
     

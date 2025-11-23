@@ -1,0 +1,44 @@
+- title: "The Multifunc Package"
+  path: https://cran.r-project.org/web/packages/multifunc/index.html
+  description: "An R package for the analysis of multifunctionality in ecological studies"
+
+- title: "bibtex_2_website_qmds"
+  path: https://github.com/jebyrnes/bibtex_2_website_qmds
+  description: "R tools to turn bibTeX entries into qmd files for quarto websites, like in the publications section of this site"
+
+- title: "Code for Suskiewicz et al. 2024"
+  path: https://github.com/jebyrnes/kelp_gom_thermal_causal 
+  description: "Examining the causal effects of temperature change on kelp abundance in the Gulf of Maine"
+
+- title: "Code and Data for Pérez-Matus et al. 2024"
+  path: https://github.com/jebyrnes/fish_kelp_meta
+  description: "A meta-analysis of the effects of kelp on fish community structure"
+
+- title: "NOAA Coastwatch Tutorial in the Tidyverse"
+  path: https://github.com/jebyrnes/noaa_coastwatch_tutorial_1
+  description: "A rewrite of the R code for the NOAA Coastwatch Satellite using tidyverse tools, terra, and sf"
+
+- title: "Habitat Suitability Modeling for COCA"
+  path: https://github.com/jebyrnes/coca_2017
+  description: "Modeling of Habitat Suitability for different species in Boston Harbor considering green versus grey infrastructure options in East Boston. For the 2018 COCA report led by Ellen Douglass"
+
+- title: "Code for Bowen et al. 2017"
+  path: https://github.com/jebyrnes/phrag_common_garden_sem
+  description: "Structural Equation Models examining outcome of experiments looking at the effects of Phragmites genotype on ecosystem function"
+
+- title: "Code for Krumhansl et al. 2016"
+  path: https://github.com/kelpecosystems/global_kelp_time_series
+  description: "All code for modeling kelp forest change from the 2014 KelpTime database"
+
+
+- title: "pieDivPlots"
+  path: https://github.com/jebyrnes/pieDivPlots
+  description: "Want to make plots for biodiversity ecosystem function experiments where instead of points you have pie charts showing species composition? This is it!"
+
+- title: "Ecological SEMs in R"
+  path: https://github.com/jebyrnes/Ecological-SEMs-in-lavaan
+  description: "A few SEMS from Ecological papers refit in lavaan"
+
+- title: "Code from Orzechowski et al. 2015"
+  path: https://github.com/jebyrnes/ext-meta
+  description: "Meta-analysis of extinction selectivity in the geological record"

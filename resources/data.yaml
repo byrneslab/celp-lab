@@ -1,0 +1,56 @@
+- title: "KelpTime"
+  path: "https://catalogue-temperatereefbase.imas.utas.edu.au/geonetwork/srv/eng/catalog.search#/metadata/ecbe5cc3-3fbf-4569-b5e8-07c2201fcb9c"
+  description: "Collection of global kelp time series harvested by NCEAS Kelp and Climate Change working group in 2014"
+  
+- title: "KEEN ONE Kelp Forests of New England"
+  path: "https://catalogue-temperatereefbase.imas.utas.edu.au/geonetwork/srv/eng/catalog.search#/metadata/a869dfaa-59a7-4d2f-aaa6-47c2dae5741a"
+  description: "Data from the Kelp Ecosystem Ecology Network of New England, 2013-2017"
+
+- title: "Suskiewicz et al. 2024 data"
+  path: https://doi.org/10.5061/dryad.v9s4mw73q
+  description: "Data from: Ocean warming undermines the recovery resilience of New England kelp forests following a fishery-induced trophic cascade"
+
+- title: "Chase et al. 2019 data"
+  path: https://doi.org/10.5683/SP2/ZDF9RP
+  description: "Data from: Species richness change across spatial scales"
+
+- title: "Pérez-Matus et al. 2025 data"
+  path: https://doi.org/10.6073/pasta/2c6e5c63bf01432e39414bb9dc1e787a
+  description: "Data for a meta-analysis of the effect of kelp forests on fish communities around the world from observational and experimental studies spanning 1983-2020"
+
+- title: "SBC LTER: Reef: Feeding relationships for kelp forest species"
+  path: https://doi.org/10.6073/pasta/e82a082f4440d469c84e11a265266004
+  description: "Literature-based southern California kelp forest food web trophic linkages from Byrnes et al. 2011 GCB"
+
+- title: "SBC LTER: Effect of algal diet on consumption, growth, and gonad weight of the purple sea urchin (<i>Strongylocentrotus pupuratus</i>)"
+  path: https://doi.org/10.6073/pasta/530089fcb3ca5d0dd015ef4943a16886
+  description: "Data from REU/thesis project of Matt Foster on the effects of biodiversity on urchin growth from Foster et al. 2015"
+
+- title: "PIE LTER location and sample dates for sites used in space for time sea level rise study, Rowley, MA"
+  path: https://doi.org/10.6073/pasta/46a4f697dfe070dad740fb1fb859a063
+  description: ""
+  
+- title: "PIE LTER plant biomass associated with marsh sites used in space for time sea level rise study, Rowley, MA"
+  path: https://doi.org/10.6073/pasta/895e4278b794533c94d3b3eee2211c93
+  description: ""
+
+- title: "PIE LTER bird observations associated with marsh sites used in space for time sea level rise study, Rowley, MA"
+  path: https://doi.org/10.6073/pasta/4f0c149903dc2e526ec045daf7f74b72
+  description: ""
+
+- title: "PIE LTER predation and herbivory rates associated with marsh sites used in space for time sea level rise study, Rowley, MA"
+  path: https://doi.org/10.6073/pasta/ab7c87401f08db2e682b428e524fec03
+  description: ""
+
+- title: "PIE LTER quadrat percent cover associated with marsh sites used in space for time sea level rise study, Rowley, MA"
+  path: https://doi.org/10.6073/pasta/b9475fdec69c1b5d61bfd009ac327a5e
+  description: ""
+
+- title: "PIE LTER fish and crab trap data associated with marsh sites used in space for time sea level rise study, Rowley, MA"
+  path: https://doi.org/10.6073/pasta/29663d5246634a210ce011794d78c703
+  description: ""
+
+- title: "PIE LTER herbivory measurement associated with marsh sites used in space for time sea level rise study, Rowley, MA"
+  path: https://doi.org/10.6073/pasta/3d6330d038d5ae3a79c70a2a29c6346e
+  description: ""
+  

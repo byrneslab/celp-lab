@@ -3,13 +3,14 @@ title: "Feasibility of Harbor-wide Barrier Systems"
 date: "2018"
 year: "2018"
 author: ["Paul Kirshen", "Kelli Thurson", "Brett McMann", "Carly Foster", "Heather Sprague", "Hugh Roberts", "Mark Borelli", "Jarrett E K Byrnes", "Robert Chen", "Lucy Lockwood", "Chris Watson", "Kimberly Starbuck", "Jack Wiggin", "Allison Novelly", "Kristin Ulterwyk", "Kirk Bostoma", "Eric Holmes", "Zach Stromer", "Joe Famely", "Alex Shaw", "Brittan Hoffnagle", "Di Jin", "Rebecca Herst", "Emily Moothart", "Courtney Humphries"]
-publication: "NA"
-volume: "NA"
-number: "NA"
-pages: "NA"
+publication: " "
+editors: "Sustainable Solutions Lab, University of Massachusetts Boston"
+volume: 
+number: 
+pages: 
 doi: "30"
 abstract: "In 2016 the City of Boston released Climate Ready Boston (Climate Ready Boston, 2016). This major initiative to organize a citywide response to climate change included detailed climate change projections, a vulnerability assessment, and proposals for adapting to climate change. Effective policies can lessen the long-germ threat and ensure that the city, the Greater Boston area and the region are better prepared for the sea level rise (SLR) and extreme weather events we are already beginning to experience. -- from introduction"
-keywords: "NA"
+keywords: "coastal resilience"
 url: "http://books.google.com/books?id=ndHmtwEACAAJ&dq=intitle:Feasibility+of+Harbor+wide+BarrierSystems&hl=&cd=1&source=gbs_api"
 image: featured.png    
 url_preprint: ""

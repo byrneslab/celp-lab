@@ -30,6 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
@@ -70,7 +72,121 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-repos .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-title-sort'] }],
+      
+      searchColumns: ["listing-title","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-repos'] = new List('listing-repos', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-code .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-title-sort'] }],
+      
+      searchColumns: ["listing-title","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-code'] = new List('listing-code', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-data .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-title-sort'] }],
+      
+      searchColumns: ["listing-title","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-data'] = new List('listing-data', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -148,12 +264,20 @@ ul.task-list li input[type="checkbox"] {
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
+    <a class="nav-link" href="https://github.com/jebyrnes"> 
+<span class="menu-text"><i class="fa-brands fa-github" aria-label="github"></i></span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="https://bsky.app/profile/jebyrnes.bsky.social/lists/3laooalcpjz2c"> 
 <span class="menu-text"><i class="fa-brands fa-bluesky" aria-label="bluesky"></i></span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="https://www.flickr.com/photos/byrneslab/"> 
 <span class="menu-text"><i class="fa-brands fa-flickr" aria-label="flickr"></i></span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="https://imachordata.com"> 
+<span class="menu-text"><i class="fa-solid fa-blog" aria-label="blog"></i></span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -191,18 +315,430 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p><strong>Lab Github Repos</strong><br>
-- <a href="https://github.com/byrneslab">Our lab repo</a><br>
-- <a href="https://github.com/jebyrnes">Jarrett</a><br>
-- <a href="https://github.com/Intertidal-Subtidal-WG">CIEE Intertidal-Subtidal at Shoals Marine Lab Working Group</a><br>
-- <a href="http://github.com/bAMcCollum/">Breckie McCollum</a><br>
-- <a href="https://github.com/jebyrnes/grant_applications">Grant Applications Submitted</a> - incomplete, but some examples there</p>
-<p><strong>Data Sets</strong><br>
-- <a href="https://github.com/kelpecosystems/observational_data">KEEN ONE Kelp Forests of New England</a><br>
-- <a href="https://github.com/kelpecosystems/global_kelp_time_series">Data and Code for Krumhansl et al.&nbsp;2016 KelpTime Database analysis</a></p>
-<p><strong>Code</strong><br>
-- <a href="https://cran.r-project.org/web/packages/multifunc/index.html">The Multifunc Package</a> - for the analysis of ecosystem multifunctionality<br>
-- <a href="https://github.com/jebyrnes/kelp_gom_thermal_causal">Code for Suskiewicz et al.&nbsp;2024</a></p>
+<div id="listing-repos" class="quarto-listing quarto-listing-container-table">
+<table class="quarto-listing-table table">
+<thead>
+<tr>
+
+<th>
+<b>Repositories from Projects or People in the Byrnes Lab</b>
+</th>
+
+<th>
+ 
+</th>
+
+</tr>
+</thead>
+<tbody class="list">
+
+<tr data-index="0" data-listing-title-sort="Our lab repo">
+<td>
+<a href="https://github.com/byrneslab" class="title listing-title">Our lab repo</a>
+</td>
+<td>
+<span class="listing-description">Find code for this page, other lab materials, and code and data from current and former students</span>
+</td>
+
+</tr>
+
+<tr data-index="1" data-listing-title-sort="Jarrett">
+<td>
+<a href="https://github.com/jebyrnes" class="title listing-title">Jarrett</a>
+</td>
+<td>
+<span class="listing-description">Our PI’s code and data through the ages</span>
+</td>
+
+</tr>
+
+<tr data-index="2" data-listing-title-sort="CIEE Intertidal-Subtidal at Shoals Marine Lab Working Group">
+<td>
+<a href="https://github.com/Intertidal-Subtidal-WG" class="title listing-title">CIEE Intertidal-Subtidal at Shoals Marine Lab Working Group</a>
+</td>
+<td>
+<span class="listing-description">Code and data from the working group unifying subtidal and intertidal long-term data at the Shoals Marine Lab</span>
+</td>
+
+</tr>
+
+<tr data-index="3" data-listing-title-sort="Kelp Ecosystem Ecology Network">
+<td>
+<a href="https://github.com/kelpecosystems" class="title listing-title">Kelp Ecosystem Ecology Network</a>
+</td>
+<td>
+<span class="listing-description">Materials, methods, and data from KEEN projects over the years</span>
+</td>
+
+</tr>
+
+<tr data-index="4" data-listing-title-sort="Structural Equation Modeling for EEB">
+<td>
+<a href="https://github.com/sem-eeb" class="title listing-title">Structural Equation Modeling for EEB</a>
+</td>
+<td>
+<span class="listing-description">Course materials for SEM for EEB workshops from Jarrett and collaborators</span>
+</td>
+
+</tr>
+
+<tr data-index="5" data-listing-title-sort="Kelp MUREP">
+<td>
+<a href="https://github.com/kelp-murep" class="title listing-title">Kelp MUREP</a>
+</td>
+<td>
+<span class="listing-description">Code for our NASA funded project to look at remote sensing of shallow-water kelp forests in the Northwest Atlantic</span>
+</td>
+
+</tr>
+
+<tr data-index="6" data-listing-title-sort="COBALT Casco Bay Geospatial Workshop and Projects">
+<td>
+<a href="https://github.com/orgs/cobalt-casco/repositories" class="title listing-title">COBALT Casco Bay Geospatial Workshop and Projects</a>
+</td>
+<td>
+<span class="listing-description">Course materials, shiny apps, and data processing code for an introduction to geospatial data and web applications in R using seagrass data in Casco Bay</span>
+</td>
+
+</tr>
+
+<tr data-index="7" data-listing-title-sort="Curtis Morris">
+<td>
+<a href="https://github.com/crustis-r-morris" class="title listing-title">Curtis Morris</a>
+</td>
+<td>
+<span class="listing-description">Lab grad student working on algal crusts and cobble berms</span>
+</td>
+
+</tr>
+
+<tr data-index="8" data-listing-title-sort="Breckie McCollum">
+<td>
+<a href="http://github.com/bAMcCollum/" class="title listing-title">Breckie McCollum</a>
+</td>
+<td>
+<span class="listing-description">Lab grad student working on long-term subtidal rock wall analysis</span>
+</td>
+
+</tr>
+
+<tr data-index="9" data-listing-title-sort="Jillian Dunic">
+<td>
+<a href="https://github.com/jdunic" class="title listing-title">Jillian Dunic</a>
+</td>
+<td>
+<span class="listing-description">Lab grad student working on global change in biodiversity</span>
+</td>
+
+</tr>
+
+<tr data-index="10" data-listing-title-sort="Isaac Rosenthal">
+<td>
+<a href="https://github.com/irosenthal" class="title listing-title">Isaac Rosenthal</a>
+</td>
+<td>
+<span class="listing-description">Lab grad student working on kelp forest remote sensing and citizen science</span>
+</td>
+
+</tr>
+
+</tbody>
+</table>
+<div class="listing-no-matching d-none">No matching items</div>
+</div>
+<div id="listing-code" class="quarto-listing quarto-listing-container-table">
+<table class="quarto-listing-table table">
+<thead>
+<tr>
+
+<th>
+<b>Code</b>
+</th>
+
+<th>
+ 
+</th>
+
+</tr>
+</thead>
+<tbody class="list">
+
+<tr data-index="0" data-listing-title-sort="The Multifunc Package">
+<td>
+<a href="https://cran.r-project.org/web/packages/multifunc/index.html" class="title listing-title">The Multifunc Package</a>
+</td>
+<td>
+<span class="listing-description">An R package for the analysis of multifunctionality in ecological studies</span>
+</td>
+
+</tr>
+
+<tr data-index="1" data-listing-title-sort="bibtex_2_website_qmds">
+<td>
+<a href="https://github.com/jebyrnes/bibtex_2_website_qmds" class="title listing-title">bibtex_2_website_qmds</a>
+</td>
+<td>
+<span class="listing-description">R tools to turn bibTeX entries into qmd files for quarto websites, like in the publications section of this site</span>
+</td>
+
+</tr>
+
+<tr data-index="2" data-listing-title-sort="Code for Suskiewicz et al. 2024">
+<td>
+<a href="https://github.com/jebyrnes/kelp_gom_thermal_causal" class="title listing-title">Code for Suskiewicz et al.&nbsp;2024</a>
+</td>
+<td>
+<span class="listing-description">Examining the causal effects of temperature change on kelp abundance in the Gulf of Maine</span>
+</td>
+
+</tr>
+
+<tr data-index="3" data-listing-title-sort="Code and Data for Pérez-Matus et al. 2024">
+<td>
+<a href="https://github.com/jebyrnes/fish_kelp_meta" class="title listing-title">Code and Data for Pérez-Matus et al.&nbsp;2024</a>
+</td>
+<td>
+<span class="listing-description">A meta-analysis of the effects of kelp on fish community structure</span>
+</td>
+
+</tr>
+
+<tr data-index="4" data-listing-title-sort="NOAA Coastwatch Tutorial in the Tidyverse">
+<td>
+<a href="https://github.com/jebyrnes/noaa_coastwatch_tutorial_1" class="title listing-title">NOAA Coastwatch Tutorial in the Tidyverse</a>
+</td>
+<td>
+<span class="listing-description">A rewrite of the R code for the NOAA Coastwatch Satellite using tidyverse tools, terra, and sf</span>
+</td>
+
+</tr>
+
+<tr data-index="5" data-listing-title-sort="Habitat Suitability Modeling for COCA">
+<td>
+<a href="https://github.com/jebyrnes/coca_2017" class="title listing-title">Habitat Suitability Modeling for COCA</a>
+</td>
+<td>
+<span class="listing-description">Modeling of Habitat Suitability for different species in Boston Harbor considering green versus grey infrastructure options in East Boston. For the 2018 COCA report led by Ellen Douglass</span>
+</td>
+
+</tr>
+
+<tr data-index="6" data-listing-title-sort="Code for Bowen et al. 2017">
+<td>
+<a href="https://github.com/jebyrnes/phrag_common_garden_sem" class="title listing-title">Code for Bowen et al.&nbsp;2017</a>
+</td>
+<td>
+<span class="listing-description">Structural Equation Models examining outcome of experiments looking at the effects of Phragmites genotype on ecosystem function</span>
+</td>
+
+</tr>
+
+<tr data-index="7" data-listing-title-sort="Code for Krumhansl et al. 2016">
+<td>
+<a href="https://github.com/kelpecosystems/global_kelp_time_series" class="title listing-title">Code for Krumhansl et al.&nbsp;2016</a>
+</td>
+<td>
+<span class="listing-description">All code for modeling kelp forest change from the 2014 KelpTime database</span>
+</td>
+
+</tr>
+
+<tr data-index="8" data-listing-title-sort="pieDivPlots">
+<td>
+<a href="https://github.com/jebyrnes/pieDivPlots" class="title listing-title">pieDivPlots</a>
+</td>
+<td>
+<span class="listing-description">Want to make plots for biodiversity ecosystem function experiments where instead of points you have pie charts showing species composition? This is it!</span>
+</td>
+
+</tr>
+
+<tr data-index="9" data-listing-title-sort="Ecological SEMs in R">
+<td>
+<a href="https://github.com/jebyrnes/Ecological-SEMs-in-lavaan" class="title listing-title">Ecological SEMs in R</a>
+</td>
+<td>
+<span class="listing-description">A few SEMS from Ecological papers refit in lavaan</span>
+</td>
+
+</tr>
+
+<tr data-index="10" data-listing-title-sort="Code from Orzechowski et al. 2015">
+<td>
+<a href="https://github.com/jebyrnes/ext-meta" class="title listing-title">Code from Orzechowski et al.&nbsp;2015</a>
+</td>
+<td>
+<span class="listing-description">Meta-analysis of extinction selectivity in the geological record</span>
+</td>
+
+</tr>
+
+</tbody>
+</table>
+<div class="listing-no-matching d-none">No matching items</div>
+</div>
+<div id="listing-data" class="quarto-listing quarto-listing-container-table">
+<table class="quarto-listing-table table">
+<thead>
+<tr>
+
+<th>
+<b>Data Set</b>
+</th>
+
+<th>
+ 
+</th>
+
+</tr>
+</thead>
+<tbody class="list">
+
+<tr data-index="0" data-listing-title-sort="KelpTime">
+<td>
+<a href="https://catalogue-temperatereefbase.imas.utas.edu.au/geonetwork/srv/eng/catalog.search#/metadata/ecbe5cc3-3fbf-4569-b5e8-07c2201fcb9c" class="title listing-title">KelpTime</a>
+</td>
+<td>
+<span class="listing-description">Collection of global kelp time series harvested by NCEAS Kelp and Climate Change working group in 2014</span>
+</td>
+
+</tr>
+
+<tr data-index="1" data-listing-title-sort="KEEN ONE Kelp Forests of New England">
+<td>
+<a href="https://catalogue-temperatereefbase.imas.utas.edu.au/geonetwork/srv/eng/catalog.search#/metadata/a869dfaa-59a7-4d2f-aaa6-47c2dae5741a" class="title listing-title">KEEN ONE Kelp Forests of New England</a>
+</td>
+<td>
+<span class="listing-description">Data from the Kelp Ecosystem Ecology Network of New England, 2013-2017</span>
+</td>
+
+</tr>
+
+<tr data-index="2" data-listing-title-sort="Suskiewicz et al. 2024 data">
+<td>
+<a href="https://doi.org/10.5061/dryad.v9s4mw73q" class="title listing-title">Suskiewicz et al.&nbsp;2024 data</a>
+</td>
+<td>
+<span class="listing-description">Data from: Ocean warming undermines the recovery resilience of New England kelp forests following a fishery-induced trophic cascade</span>
+</td>
+
+</tr>
+
+<tr data-index="3" data-listing-title-sort="Chase et al. 2019 data">
+<td>
+<a href="https://doi.org/10.5683/SP2/ZDF9RP" class="title listing-title">Chase et al.&nbsp;2019 data</a>
+</td>
+<td>
+<span class="listing-description">Data from: Species richness change across spatial scales</span>
+</td>
+
+</tr>
+
+<tr data-index="4" data-listing-title-sort="Pérez-Matus et al. 2025 data">
+<td>
+<a href="https://doi.org/10.6073/pasta/2c6e5c63bf01432e39414bb9dc1e787a" class="title listing-title">Pérez-Matus et al.&nbsp;2025 data</a>
+</td>
+<td>
+<span class="listing-description">Data for a meta-analysis of the effect of kelp forests on fish communities around the world from observational and experimental studies spanning 1983-2020</span>
+</td>
+
+</tr>
+
+<tr data-index="5" data-listing-title-sort="SBC LTER: Reef: Feeding relationships for kelp forest species">
+<td>
+<a href="https://doi.org/10.6073/pasta/e82a082f4440d469c84e11a265266004" class="title listing-title">SBC LTER: Reef: Feeding relationships for kelp forest species</a>
+</td>
+<td>
+<span class="listing-description">Literature-based southern California kelp forest food web trophic linkages from Byrnes et al.&nbsp;2011 GCB</span>
+</td>
+
+</tr>
+
+<tr data-index="6" data-listing-title-sort="SBC LTER: Effect of algal diet on consumption, growth, and gonad weight of the purple sea urchin (<i>Strongylocentrotus pupuratus</i>)">
+<td>
+<a href="https://doi.org/10.6073/pasta/530089fcb3ca5d0dd015ef4943a16886" class="title listing-title">SBC LTER: Effect of algal diet on consumption, growth, and gonad weight of the purple sea urchin (<i>Strongylocentrotus pupuratus</i>)</a>
+</td>
+<td>
+<span class="listing-description">Data from REU/thesis project of Matt Foster on the effects of biodiversity on urchin growth from Foster et al.&nbsp;2015</span>
+</td>
+
+</tr>
+
+<tr data-index="7" data-listing-title-sort="PIE LTER location and sample dates for sites used in space for time sea level rise study, Rowley, MA">
+<td>
+<a href="https://doi.org/10.6073/pasta/46a4f697dfe070dad740fb1fb859a063" class="title listing-title">PIE LTER location and sample dates for sites used in space for time sea level rise study, Rowley, MA</a>
+</td>
+<td>
+<span class="listing-description">&nbsp;</span>
+</td>
+
+</tr>
+
+<tr data-index="8" data-listing-title-sort="PIE LTER plant biomass associated with marsh sites used in space for time sea level rise study, Rowley, MA">
+<td>
+<a href="https://doi.org/10.6073/pasta/895e4278b794533c94d3b3eee2211c93" class="title listing-title">PIE LTER plant biomass associated with marsh sites used in space for time sea level rise study, Rowley, MA</a>
+</td>
+<td>
+<span class="listing-description">&nbsp;</span>
+</td>
+
+</tr>
+
+<tr data-index="9" data-listing-title-sort="PIE LTER bird observations associated with marsh sites used in space for time sea level rise study, Rowley, MA">
+<td>
+<a href="https://doi.org/10.6073/pasta/4f0c149903dc2e526ec045daf7f74b72" class="title listing-title">PIE LTER bird observations associated with marsh sites used in space for time sea level rise study, Rowley, MA</a>
+</td>
+<td>
+<span class="listing-description">&nbsp;</span>
+</td>
+
+</tr>
+
+<tr data-index="10" data-listing-title-sort="PIE LTER predation and herbivory rates associated with marsh sites used in space for time sea level rise study, Rowley, MA">
+<td>
+<a href="https://doi.org/10.6073/pasta/ab7c87401f08db2e682b428e524fec03" class="title listing-title">PIE LTER predation and herbivory rates associated with marsh sites used in space for time sea level rise study, Rowley, MA</a>
+</td>
+<td>
+<span class="listing-description">&nbsp;</span>
+</td>
+
+</tr>
+
+<tr data-index="11" data-listing-title-sort="PIE LTER quadrat percent cover associated with marsh sites used in space for time sea level rise study, Rowley, MA">
+<td>
+<a href="https://doi.org/10.6073/pasta/b9475fdec69c1b5d61bfd009ac327a5e" class="title listing-title">PIE LTER quadrat percent cover associated with marsh sites used in space for time sea level rise study, Rowley, MA</a>
+</td>
+<td>
+<span class="listing-description">&nbsp;</span>
+</td>
+
+</tr>
+
+<tr data-index="12" data-listing-title-sort="PIE LTER fish and crab trap data associated with marsh sites used in space for time sea level rise study, Rowley, MA">
+<td>
+<a href="https://doi.org/10.6073/pasta/29663d5246634a210ce011794d78c703" class="title listing-title">PIE LTER fish and crab trap data associated with marsh sites used in space for time sea level rise study, Rowley, MA</a>
+</td>
+<td>
+<span class="listing-description">&nbsp;</span>
+</td>
+
+</tr>
+
+<tr data-index="13" data-listing-title-sort="PIE LTER herbivory measurement associated with marsh sites used in space for time sea level rise study, Rowley, MA">
+<td>
+<a href="https://doi.org/10.6073/pasta/3d6330d038d5ae3a79c70a2a29c6346e" class="title listing-title">PIE LTER herbivory measurement associated with marsh sites used in space for time sea level rise study, Rowley, MA</a>
+</td>
+<td>
+<span class="listing-description">&nbsp;</span>
+</td>
+
+</tr>
+
+</tbody>
+</table>
+<div class="listing-no-matching d-none">No matching items</div>
+</div>
+
 
 
 
@@ -617,7 +1153,7 @@ ul.task-list li input[type="checkbox"] {
       &nbsp;
     </div>
     <div class="nav-footer-right">
-<p>Made with <i class="fa-brands fa-r-project fa-2x" aria-label="r-project"></i> and <a href="https://quarto.org/"><img src="https://quarto.org/quarto.png" alt="Quarto" height="20"></a> <br> Code at <i class="fa-brands fa-github" aria-label="github"></i><br></p>
+<p>Made with <i class="fa-brands fa-r-project fa-2x" aria-label="r-project"></i> and <a href="https://quarto.org/"><img src="https://quarto.org/quarto.png" alt="Quarto" height="20"></a> <br> Code at <a href="https://github.com/byrneslab/celp-lab"><i class="fa-brands fa-github" aria-label="github"></i></a><br></p>
 </div>
   </div>
 </footer>

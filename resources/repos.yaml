@@ -1,0 +1,44 @@
+- title: "Our lab repo"
+  path: https://github.com/byrneslab
+  description: "Find code for this page, other lab materials, and code and data from current and former students"
+
+- title: "Jarrett"
+  path: https://github.com/jebyrnes
+  description: "Our PI's code and data through the ages"
+
+- title: "CIEE Intertidal-Subtidal at Shoals Marine Lab Working Group"
+  path: https://github.com/Intertidal-Subtidal-WG
+  description: "Code and data from the working group unifying subtidal and intertidal long-term data at the Shoals Marine Lab"
+  
+- title: "Kelp Ecosystem Ecology Network"
+  path: https://github.com/kelpecosystems
+  description: "Materials, methods, and data from KEEN projects over the years"
+  
+- title: "Structural Equation Modeling for EEB"
+  path: https://github.com/sem-eeb
+  description: "Course materials for SEM for EEB workshops from Jarrett and collaborators"
+  
+- title: "Kelp MUREP"
+  path: https://github.com/kelp-murep
+  description: "Code for our NASA funded project to look at remote sensing of shallow-water kelp forests in the Northwest Atlantic"
+
+- title: "COBALT Casco Bay Geospatial Workshop and Projects"
+  path: https://github.com/orgs/cobalt-casco/repositories
+  description: "Course materials, shiny apps, and data processing code for an introduction to geospatial data and web applications in R using seagrass data in Casco Bay"
+    
+- title: "Curtis Morris"
+  path: https://github.com/crustis-r-morris
+  description: "Lab grad student working on algal crusts and cobble berms"
+  
+- title: "Breckie McCollum"
+  path: http://github.com/bAMcCollum/
+  description: "Lab grad student working on long-term subtidal rock wall analysis"
+  
+- title: "Jillian Dunic"
+  path: https://github.com/jdunic
+  description: "Lab grad student working on global change in biodiversity"
+  
+- title: "Isaac Rosenthal"
+  path: https://github.com/irosenthal
+  description: "Lab grad student working on kelp forest remote sensing and citizen science"
+  

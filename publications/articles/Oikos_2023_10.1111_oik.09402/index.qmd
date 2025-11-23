@@ -13,7 +13,7 @@ keywords: "diversity, ecosystem function, Hill numbers, multifunctionality"
 url: "https://onlinelibrary.wiley.com/doi/abs/10.1111/oik.09402"
 image: featured.png    
 url_preprint: ""
-url_code: ""
+url_code: "https://cran.r-project.org/web/packages/multifunc/index.html"
 url_dataset: ""
 bib: "./articles/Oikos_2023_10.1111_oik.09402/cite.bib"
 pdf: "./articles/Oikos_2023_10.1111_oik.09402/Byrnes et al. - 2023 - Understandable multifunctionality measures using H.pdf"

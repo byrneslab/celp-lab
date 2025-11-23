@@ -1,5 +1,5 @@
 ---
-title: "The consequences of consumer diversity loss: different answers from different experimental designs."
+title: "The consequences of consumer diversity loss: different answers from different experimental designs"
 date: "2009"
 year: "2009"
 author: ["Jarrett E Byrnes", "John J Stachowicz"]

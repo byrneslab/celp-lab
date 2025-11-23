@@ -1,0 +1,21 @@
+---
+title: "Biodiversity and Ecosystem Function: Does Pattern Influence Process?"
+date: "2013"
+year: "2013"
+author: ["Mary I O'Connor", "Jarrett E K Byrnes"]
+publication: "Marine community ecology and conservation"
+editors: ["Mark D. Bertness", "John F. Bruno", "Brian R. Silliman", "John J Stachowicz"]
+volume: ""
+number: ""
+pages: "109-130"
+doi: " "
+abstract: " "
+keywords: ""
+url: "NA"
+image: featured.png    
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: "./articles/MCEC_2013_34/cite.bib"
+pdf: "./articles/MCEC_2013_34/O'Connor and Byrnes - 2013 - Biodiversity and Ecosystem Function Does Pattern Influence Process.pdf"
+---

@@ -13,8 +13,8 @@ keywords: "NA"
 url: "http://www.pnas.org/content/early/2016/11/09/1606102113.abstract"
 image: featured.png    
 url_preprint: ""
-url_code: ""
-url_dataset: ""
+url_code: "https://github.com/kelpecosystems/global_kelp_time_series"
+url_dataset: "https://catalogue-temperatereefbase.imas.utas.edu.au/geonetwork/srv/eng/catalog.search#/metadata/ecbe5cc3-3fbf-4569-b5e8-07c2201fcb9c"
 bib: "./articles/Proceedings of the National Academy of Sciences_2016_10.1073_pnas.1606102113/cite.bib"
 pdf: "./articles/Proceedings of the National Academy of Sciences_2016_10.1073_pnas.1606102113/Krumhansl et al. - 2016 - Global patterns of kelp forest change over the past half-century.pdf"
 ---
