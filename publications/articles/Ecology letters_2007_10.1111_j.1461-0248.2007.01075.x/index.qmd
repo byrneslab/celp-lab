@@ -17,4 +17,5 @@ url_code: ""
 url_dataset: ""
 bib: "./articles/Ecology letters_2007_10.1111_j.1461-0248.2007.01075.x/cite.bib"
 pdf: "./articles/Ecology letters_2007_10.1111_j.1461-0248.2007.01075.x/Hughes et al. - 2007 - Reciprocal relationships and potential feedbacks between biodiversity and disturbance..pdf"
+categories: ["biodiversity ecosystem function"]
 ---

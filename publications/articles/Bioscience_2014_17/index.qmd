@@ -17,4 +17,5 @@ url_code: ""
 url_dataset: ""
 bib: "./articles/Bioscience_2014_17/cite.bib"
 pdf: "./articles/Bioscience_2014_17/Balvanera et al. - 2014 - Linking Biodiversity and Ecosystem Services Current Uncertainties and the Necessary Next Steps.pdf"
+categories: ["biodiversity ecosystem function"]
 ---

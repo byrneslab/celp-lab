@@ -2,6 +2,23 @@
 title: "The Ecology of Coastal Protection Structures"
 image: '/images/research/one_panel.jpeg'
 date: "2012-09-01"
+
+listing:
+  - id: relevant_references
+    contents: ../publications/articles/*/*.qmd
+    template: ../_ejs/article.ejs
+    categories: true
+    sort-ui: false
+    filter-ui: false
+    include:
+      categories: ["coastal protection ecology"]
+    sort:
+      - "year desc"
+      - "title"
+    field-display-names: 
+      publication: "Publication"
+      year: "Year"
+
 ---
 ![](/images/research/lsw_condor.png)
 

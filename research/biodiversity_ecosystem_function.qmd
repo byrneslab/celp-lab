@@ -8,6 +8,22 @@ about:
   image: '../images/research/panel.png'
 date-format: " "
 lightbox: auto
+
+listing:
+  - id: relevant_references
+    contents: ../publications/articles/*/*.qmd
+    template: ../_ejs/article.ejs
+    categories: true
+    sort-ui: false
+    filter-ui: false
+    include:
+      categories: ["biodiversity ecosystem function"]
+    sort:
+      - "year desc"
+      - "title"
+    field-display-names: 
+      publication: "Publication"
+      year: "Year"
 ---
 
 Global environmental change is reshaping food webs through increased rates of extinction and invasion. But how? What kinds of species are winning, and what kinds are losing? How will climate change, overharvesting, habitat fragmentation, urbanization, and more interact to create the food webs of the future? I am interested in examining both global patterns of change to food webs as well as examining how environmental drivers shape food webs at local spatial scales.
@@ -39,16 +55,8 @@ The field of biodiversity and ecosystem function typically considers the consequ
 
 In marine communities, my work has shown that the many non-native species are sessile invertebrate filter feeders. These exotic species may alter the amount and consistency of food for other small native species in marine ecosystems. In highly invaded fouling communities, I examined the effects of increases in exotic filter feeder diversity on the removal of plankton. My results showed that diverse mixtures of natives and exotics do not filter water differently than diverse communities of natives. However, increases in exotic species diversity may increase the consistency of water filtration through time. Invasions may thus be decreasing the amount of energy and nutrients that can be channeled into grazers.
 
+
 **Relevant References**
 
-Byrnes, J.E. and Stachowicz, J.J. 2009. Short and Long-Term consequences of increases in exotic species richness on water filtration by marine invertebrates. Ecology Letters. 8: 830-841. [doi] [pdf]
-
-Byrnes, J.E., Reynolds, P.L., Stachowicz, J.J. 2007. Invasions and extinctions reshape coastal marine food webs. PLoS One. 2: e295. [doi] [pdf]
-
-Griffin, J. N., Byrnes, J. E. K., and Cardinale, B. J. 2013. Effects of predator richness on prey suppression: a meta-analysis. Ecology. 94:2180-2187. [doi]
-
-Byrnes, J.E. and Stachowicz, J.J. 2009. The consequences of consumer diversity loss: different answers from different designs. Ecology. 90: 2879-2888. [doi] [pdf]
-
-Byrnes, J.E., Reynolds, P.L., Stachowicz, J.J. 2007. Invasions and extinctions reshape coastal marine food webs. PLoS One. 2: e295. [doi] [pdf]
-
-Byrnes, J.E., Stachowicz, J.J., Hultgren, K.M., Hughes, A.R., Olyarnik, S.V., Thornber, C. 2006. Predator Diversity Enhances Trophic Cascades in Kelp Forests by Modifying Herbivore Behavior. Ecology Letters. 9: 61-71. [doi] [pdf]
+:::{#relevant_references}  
+:::

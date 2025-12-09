@@ -17,4 +17,5 @@ url_code: ""
 url_dataset: ""
 bib: "./articles/Climatic Change_2020_10.1007_s10584-020-02781-8/cite.bib"
 pdf: "./articles/Climatic Change_2020_10.1007_s10584-020-02781-8/Kirshen et al. - 2020 - Integrated assessment of storm surge barrier systems under present and future climates and compariso.pdf"
+categories: ["coastal protection ecology"]
 ---

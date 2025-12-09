@@ -3,8 +3,36 @@ title: "New England Marine Ecology"
 image: '/images/research/mussels_on_rainsford.jpg'
 date: "2012-09-01"
 date-format: " "
+
+listing:
+  - id: relevant_references
+    contents: ../publications/articles/*/*.qmd
+    template: ../_ejs/article.ejs
+    categories: true
+    sort-ui: false
+    filter-ui: false
+    include:
+      categories: ["new england ecology"]
+    sort:
+      - "year desc"
+      - "title"
+    field-display-names: 
+      publication: "Publication"
+      year: "Year"
+
 ---
 
 ![](/images/research/mussels_on_rainsford.jpg)
 
-A good chunk of what we work on in the lab is simply learning from and learning about the Ecology of ocean ecosystems here in New England. The lab is based here in the Gulf of Maine, sitting at the back of Boston Harbor. 
+A good chunk of what we work on in the lab is simply learning from and learning about the Ecology of ocean ecosystems here in New England. The lab is based here in the Gulf of Maine, sitting at the back of Boston Harbor. We also work extensively in Salem Sound out of the [Cat Cove Marine Lab](https://www.mass.gov/locations/division-of-marine-fisheries-cat-cove-marine-laboratory) and the [Shoals Marine Laboratory](https://www.shoalsmarinelaboratory.org/).
+
+The natural history of New England is the foundation against which we test Ecological theory. By better understanding the natural history of the area, we as a lab are better able to advance the field of ecology and give ourselves a sanity check on results from larger models anad analyses.
+
+Many of us also cut our teeth here as naturalists - from growing up here to undergraduate study to working as technicians before entering graduate school. The region is home, a joy to study, and somewhere to which we have a deep commitment to giving back.
+
+**Relevant References**
+
+
+:::{#relevant_references}  
+:::
+

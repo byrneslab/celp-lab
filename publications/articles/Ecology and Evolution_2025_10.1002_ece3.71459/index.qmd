@@ -17,4 +17,5 @@ url_code: "https://georginawood.shinyapps.io/KelpNicheMapper/"
 url_dataset: "https://osf.io/ewsk5/overview"
 bib: "./articles/Ecology and Evolution_2025_10.1002_ece3.71459/cite.bib"
 pdf: "./articles/Ecology and Evolution_2025_10.1002_ece3.71459/Eger et al. - 2025 - An Environmental Niche Exploration Tool for Kelp Forest Management.pdf"
+categories: ["kelp forest ecology"]
 ---

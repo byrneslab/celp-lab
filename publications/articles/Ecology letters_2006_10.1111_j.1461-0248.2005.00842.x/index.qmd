@@ -16,5 +16,6 @@ url_preprint: ""
 url_code: ""
 url_dataset: ""
 bib: "./articles/Ecology letters_2006_10.1111_j.1461-0248.2005.00842.x/cite.bib"
-pdf: "./articles/Ecology letters_2006_10.1111_j.1461-0248.2005.00842.x/Byrnes et al. - 2006 - Predator diversity strengthens trophic cascades in kelp forests by modifying herbivore behaviour..pdf"
+pdf: "./articles/Ecology letters_2006_10.1111_j.1461-0248.2005.00842.x/Byrnes et al. - 2006 - Predator diversity strengthens trophic cascades in kelp forests by modifying herbivore behaviour.pdf"
+categories: ["biodiversity ecosystem function"]
 ---

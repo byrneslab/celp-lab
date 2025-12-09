@@ -17,4 +17,5 @@ url_code: ""
 url_dataset: ""
 bib: "./articles/Annual Review of Marine Science_2025_10.1146_annurev-marine-040523-020221/cite.bib"
 pdf: "./articles/Annual Review of Marine Science_2025_10.1146_annurev-marine-040523-020221/Cavanaugh et al. - 2025 - New Technologies for Monitoring Coastal Ecosystem Dynamics.pdf"
+categories: ["global change biology", "remote sensing"]
 ---

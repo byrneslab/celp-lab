@@ -3,6 +3,22 @@ title: "Coastal Ecology at Scale"
 image: '/images/research/krumhansl_map.png'
 date: "2012-09-01"
 date-format: " "
+
+listing:
+  - id: relevant_references
+    contents: ../publications/articles/*/*.qmd
+    template: ../_ejs/article.ejs
+    categories: true
+    sort-ui: false
+    filter-ui: false
+    include:
+      categories: ["global change biology"]
+    sort:
+      - "year desc"
+      - "title"
+    field-display-names: 
+      publication: "Publication"
+      year: "Year"
 ---
 
 ![](/images/research/krumhansl_map.png)
@@ -15,4 +31,8 @@ In our lab, we approach global change biology through the lense of data synthesi
 
 We bring this approach to coastal ecosystems, but also work with researchers in other systems as well in order to build a broad understanding of global change that is necessary to tackle the next century of environmental issues.
 
+
 **Relevant References**
+
+:::{#relevant_references}  
+:::

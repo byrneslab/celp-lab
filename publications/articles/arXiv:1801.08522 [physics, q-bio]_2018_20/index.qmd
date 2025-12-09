@@ -17,4 +17,5 @@ url_code: ""
 url_dataset: ""
 bib: "./articles/arXiv:1801.08522 [physics, q-bio]_2018_20/cite.bib"
 pdf: "./articles/arXiv:1801.08522 [physics, q-bio]_2018_20/Rosenthal et al. - 2018 - Floating Forests Quantitative Validation of Citizen Science Data Generated From Consensus Classific.pdf"
+categories: ["kelp forest ecology"]
 ---

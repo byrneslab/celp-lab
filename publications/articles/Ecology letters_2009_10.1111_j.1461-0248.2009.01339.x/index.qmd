@@ -17,4 +17,5 @@ url_code: ""
 url_dataset: ""
 bib: "./articles/Ecology letters_2009_10.1111_j.1461-0248.2009.01339.x/cite.bib"
 pdf: "./articles/Ecology letters_2009_10.1111_j.1461-0248.2009.01339.x/Byrnes and Stachowicz - 2009 - Short and long term consequences of increases in exotic species richness on water filtration by mari.pdf"
+categories: ["biodiversity ecosystem function"]
 ---

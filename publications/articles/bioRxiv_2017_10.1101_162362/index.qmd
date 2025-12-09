@@ -17,4 +17,5 @@ url_code: ""
 url_dataset: ""
 bib: "./articles/bioRxiv_2017_10.1101_162362/cite.bib"
 pdf: "./articles/bioRxiv_2017_10.1101_162362/Dunic et al. - 2017 - Human activities influence the direction and magnitude of local biodiversity change over time.pdf"
+categories: ["global change biology"]
 ---
