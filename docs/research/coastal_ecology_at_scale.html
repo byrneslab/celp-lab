@@ -30,6 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-listing/list.min.js"></script>
+<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
@@ -70,7 +72,65 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-relevant_references .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-project','listing-website','listing-format','listing-language','listing-title','listing-date','listing-year','listing-author','listing-publication','listing-volume','listing-number','listing-pages','listing-doi','listing-abstract','listing-keywords','listing-url','listing-image','listing-url_preprint','listing-url_code','listing-url_dataset','listing-bib','listing-pdf','listing-categories','listing-path','listing-outputHref','listing-date-modified','listing-description','listing-filename','listing-file-modified','listing-reading-time','listing-word-count',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-date-modified-sort'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] },{ data: ['listing-word-count-sort'] }],
+      
+      searchColumns: ["listing-project","listing-website","listing-format","listing-language","listing-title","listing-date","listing-year","listing-author","listing-publication","listing-volume","listing-number","listing-pages","listing-doi","listing-abstract","listing-keywords","listing-url","listing-image","listing-url_preprint","listing-url_code","listing-url_dataset","listing-bib","listing-pdf","listing-categories","listing-path","listing-outputHref","listing-date-modified","listing-description","listing-filename","listing-file-modified","listing-reading-time","listing-word-count"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-relevant_references'] = new List('listing-relevant_references', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../styles.css">
 </head>
@@ -174,9 +234,9 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    </div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Z2xvYmFsJTIwY2hhbmdlJTIwYmlvbG9neQ==">global change biology <span class="quarto-category-count">(3)</span></div><div class="category" data-category="a2VscCUyMGZvcmVzdCUyMGVjb2xvZ3k=">kelp forest ecology <span class="quarto-category-count">(1)</span></div><div class="category" data-category="cmVtb3RlJTIwc2Vuc2luZw==">remote sensing <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -205,6 +265,173 @@ ul.task-list li input[type="checkbox"] {
 <p>In our lab, we approach global change biology through the lense of data synthesis of long-term and large-scale data sets. We work to bring together many different data layers - from modeled outputs to remote sensing to visual surveys aggregated across many studies - in order to learn about how the world has changed. We employ <a href="causal_ecology.html">causal statistical approaches</a> in order to either attribute change to particular drivers, or to interpolate and learn about general change across large unsampled spatial scales.</p>
 <p>We bring this approach to coastal ecosystems, but also work with researchers in other systems as well in order to build a broad understanding of global change that is necessary to tackle the next century of environmental issues.</p>
 <p><strong>Relevant References</strong></p>
+<div id="listing-relevant_references" class="quarto-listing quarto-listing-container-custom">
+<ul class="pub-list list">
+
+  <li data-index="0" data-categories="Z2xvYmFsJTIwY2hhbmdlJTIwYmlvbG9neSUyQ3JlbW90ZSUyMHNlbnNpbmc=" data-listing-date-sort="1735689600000" data-listing-file-modified-sort="1763925421316" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+    <span class="listing-author ">Kyle C. Cavanaugh, Tom W. Bell, Karen E. Aerni, Jarrett E. K. Byrnes, Seth McCammon, Madison M. Smith</span>
+    <span class="listing-year">(2025)</span>
+    <span class="listing-title fw-bold">New Technologies for Monitoring Coastal Ecosystem Dynamics.</span>
+    <span class="listing-publication fst-italic ">Annual Review of Marine Science.</span>
+  <span class="listing-volume ">17:</span>
+  <span class="listing-pages ">409-433.</span>
+    <br>
+    
+    <div class="d-grid d-md-flex d-small justify-content-md-end">
+    
+    
+    
+    
+    <a href="../publications/articles/Annual Review of Marine Science_2025_10.1146_annurev-marine-040523-020221/index.html" <button="" class="btn btn-secondary btn-sm">
+    <i class="bi bi-list-task" target="_blank" rel="noopener noreferrer" style="font-size: 1rem"></i>
+    Abstract &amp; More » 
+    </a>
+    
+   
+  
+    
+    <a href="./articles/Annual Review of Marine Science_2025_10.1146_annurev-marine-040523-020221/Cavanaugh et al. - 2025 - New Technologies for Monitoring Coastal Ecosystem Dynamics.pdf" <button="" class="btn btn-secondary btn-sm">
+    <i class="bi bi-file-earmark-pdf" target="_blank" rel="noopener noreferrer" style="font-size: 1rem"></i>
+    pdf
+    </a>
+    
+    
+    
+    
+    
+    
+    
+    <a href="./articles/Annual Review of Marine Science_2025_10.1146_annurev-marine-040523-020221/cite.bib" <button="" class="btn btn-secondary btn-sm">
+    <i class="bi bi-blockquote-left" target="_blank" rel="noopener noreferrer" style="font-size: 1rem"></i>
+    bib
+    </a>
+    
+    
+    
+    <a href="https://www.annualreviews.org/content/journals/10.1146/annurev-marine-040523-020221" <button="" class="btn btn-secondary btn-sm">
+    <i class="bi bi-link" target="_blank" rel="noopener noreferrer" style="font-size: 1rem"></i>
+    url
+    </a>
+    
+    
+  </div>
+  <hr width="100%" size="2" color="blue" noshade="">
+  </li>
+
+  <li data-index="1" data-categories="Z2xvYmFsJTIwY2hhbmdlJTIwYmlvbG9neQ==" data-listing-date-sort="1483228800000" data-listing-file-modified-sort="1763925459565" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+    <span class="listing-author ">Jillian C Dunic, Robin Elahi, Marc J S Hensel, Patrick J Kearns, Mary I O'Connor, Daniel Acuna, Aaron Honig, Alexa R Wilson, Jarrett E K Byrnes</span>
+    <span class="listing-year">(2017)</span>
+    <span class="listing-title fw-bold">Human activities influence the direction and magnitude of local biodiversity change over time.</span>
+    <span class="listing-publication fst-italic ">bioRxiv.</span>
+  <span class="listing-volume ">NA:</span>
+  <span class="listing-pages ">162362.</span>
+    <br>
+    
+    <div class="d-grid d-md-flex d-small justify-content-md-end">
+    
+    
+    
+    
+    <a href="../publications/articles/bioRxiv_2017_10.1101_162362/index.html" <button="" class="btn btn-secondary btn-sm">
+    <i class="bi bi-list-task" target="_blank" rel="noopener noreferrer" style="font-size: 1rem"></i>
+    Abstract &amp; More » 
+    </a>
+    
+   
+  
+    
+    <a href="./articles/bioRxiv_2017_10.1101_162362/Dunic et al. - 2017 - Human activities influence the direction and magnitude of local biodiversity change over time.pdf" <button="" class="btn btn-secondary btn-sm">
+    <i class="bi bi-file-earmark-pdf" target="_blank" rel="noopener noreferrer" style="font-size: 1rem"></i>
+    pdf
+    </a>
+    
+    
+    
+    
+    
+    
+    
+    <a href="./articles/bioRxiv_2017_10.1101_162362/cite.bib" <button="" class="btn btn-secondary btn-sm">
+    <i class="bi bi-blockquote-left" target="_blank" rel="noopener noreferrer" style="font-size: 1rem"></i>
+    bib
+    </a>
+    
+    
+    
+    <a href="http://biorxiv.org/lookup/doi/10.1101/162362" <button="" class="btn btn-secondary btn-sm">
+    <i class="bi bi-link" target="_blank" rel="noopener noreferrer" style="font-size: 1rem"></i>
+    url
+    </a>
+    
+    
+  </div>
+  <hr width="100%" size="2" color="blue" noshade="">
+  </li>
+
+  <li data-index="2" data-categories="Z2xvYmFsJTIwY2hhbmdlJTIwYmlvbG9neSUyQ2tlbHAlMjBmb3Jlc3QlMjBlY29sb2d5" data-listing-date-sort="1451606400000" data-listing-file-modified-sort="1763925317199" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+    <span class="listing-author ">Kira A Krumhansl, Daniel K Okamoto, Andrew Rassweiler, Mark Novak, John J Bolton, Kyle C Cavanaugh, Sean D. Connell, Craig R. Johnson, Brenda Konar, Scott D Ling, Fiorenza Micheli, Kjell M Norderhaug, Alejandro Perez-Matus, Isabel Sousa-Pinto, Daniel C. Reed, Anne K. Salomon, Nick T. Shears, Thomas Wernberg, Robert J Anderson, Nevell S Barrett, Alejandro H Buschmann, Mark H. Carr, Jennifer E. Caselle, Sandrine Derrien-Courtel, Graham J Edgar, Matt Edwards, James A. Estes, Claire Goodwin, Michael C Kenner, David. J. Kushner, Frithjof E Moy, Julia Nunn, Robert S Steneck, Julio Vasquez, Jane Watson, Jon D Witman, Jarrett E K Byrnes</span>
+    <span class="listing-year">(2016)</span>
+    <span class="listing-title fw-bold">Global patterns of kelp forest change over the past half-century.</span>
+    <span class="listing-publication fst-italic ">Proceedings of the National Academy of Sciences.</span>
+  <span class="listing-volume ">113:</span>
+  <span class="listing-pages ">13785-13790.</span>
+    <br>
+    
+    <div class="d-grid d-md-flex d-small justify-content-md-end">
+    
+    
+    
+    
+    <a href="../publications/articles/Proceedings of the National Academy of Sciences_2016_10.1073_pnas.1606102113/index.html" <button="" class="btn btn-secondary btn-sm">
+    <i class="bi bi-list-task" target="_blank" rel="noopener noreferrer" style="font-size: 1rem"></i>
+    Abstract &amp; More » 
+    </a>
+    
+   
+  
+    
+    <a href="./articles/Proceedings of the National Academy of Sciences_2016_10.1073_pnas.1606102113/Krumhansl et al. - 2016 - Global patterns of kelp forest change over the past half-century.pdf" <button="" class="btn btn-secondary btn-sm">
+    <i class="bi bi-file-earmark-pdf" target="_blank" rel="noopener noreferrer" style="font-size: 1rem"></i>
+    pdf
+    </a>
+    
+    
+    
+    <a href="https://github.com/kelpecosystems/global_kelp_time_series" <button="" class="btn btn-secondary btn-sm">
+    <i class="bi bi-github" target="_blank" rel="noopener noreferrer" style="font-size: 1rem"></i>
+    code
+    </a>
+    
+    
+    
+    <a href="https://catalogue-temperatereefbase.imas.utas.edu.au/geonetwork/srv/eng/catalog.search#/metadata/ecbe5cc3-3fbf-4569-b5e8-07c2201fcb9c" <button="" class="btn btn-secondary btn-sm">
+    <i class="bi bi-clipboard-data" target="_blank" rel="noopener noreferrer" style="font-size: 1rem"></i>
+    data
+    </a>
+    
+    
+    
+    <a href="./articles/Proceedings of the National Academy of Sciences_2016_10.1073_pnas.1606102113/cite.bib" <button="" class="btn btn-secondary btn-sm">
+    <i class="bi bi-blockquote-left" target="_blank" rel="noopener noreferrer" style="font-size: 1rem"></i>
+    bib
+    </a>
+    
+    
+    
+    <a href="http://www.pnas.org/content/early/2016/11/09/1606102113.abstract" <button="" class="btn btn-secondary btn-sm">
+    <i class="bi bi-link" target="_blank" rel="noopener noreferrer" style="font-size: 1rem"></i>
+    url
+    </a>
+    
+    
+  </div>
+  <hr width="100%" size="2" color="blue" noshade="">
+  </li>
+
+</ul>
+<div class="listing-no-matching d-none">No matching items</div>
+</div>
+
 
 
 

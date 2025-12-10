@@ -154,6 +154,8 @@
       "/pets/cleo/index.html",
       "/pets/girasol/index.html",
       "/pets/kaylee/index.html",
+      "/pets/medium/index.html",
+      "/pets/mimolette/index.html",
       "/pets/noorm/index.html",
       "/pets/pearl/index.html",
       "/pets/pepita/index.html",
@@ -179,5 +181,12 @@
   {
     "listing": "/teaching.html",
     "items": []
+  },
+  {
+    "listing": "/research/new_england_ecology.html",
+    "items": [
+      "/publications/articles/Ecology_2024_10.1002_ecy.4334/index.html",
+      "/publications/articles/EcoEvoRxiv_2022_13/index.html"
+    ]
   }
 ]

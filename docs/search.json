@@ -186,7 +186,7 @@
     "href": "pets.html",
     "title": "Pets",
     "section": "",
-    "text": "Baby\n\n\n\nCat\n\n\n\n\n\n\n\n\n\n\n\nCleo\n\n\n\nCat\n\n\n\n\n\n\n\n\n\n\n\n\n\nGirasol\n\n\n\nCat\n\n\n\n\n\n\n\n\n\n\n\nKaylee\n\n\n\nCat\n\n\n\n\n\n\n\n\n\n\n\n\n\nNoorm\n\n\n\nDog\n\n\n\n\n\n\n\n\n\n\n\n\n\nPearl\n\n\n\nCat\n\n\n\n\n\n\n\n\n\n\n\n\n\nPepita\n\n\n\nDog\n\n\n\n\n\n\n\n\n\n\n\nPepper\n\n\n\nCat\n\n\n\n\n\n\n\n\n\n\n\nPierogi\n\n\n\nDog\n\n\n\n\n\n\n\n\n\n\n\n\n\nZola\n\n\n\nCat\n\n\n\n\n\n\nNo matching items"
+    "text": "Baby\n\n\n\nCat\n\n\n\n\n\n\n\n\n\n\n\nCleo\n\n\n\nCat\n\n\n\n\n\n\n\n\n\n\n\n\n\nGirasol\n\n\n\nCat\n\n\n\n\n\n\n\n\n\n\n\nKaylee\n\n\n\nCat\n\n\n\n\n\n\n\n\n\n\n\nMedium Baby\n\n\n\nCat\n\n\n\n\n\n\n\n\n\n\n\nMimolette\n\n\n\nCat\n\n\n\n\n\n\n\n\n\n\n\n\n\nNoorm\n\n\n\nDog\n\n\n\n\n\n\n\n\n\n\n\n\n\nPearl\n\n\n\nCat\n\n\n\n\n\n\n\n\n\n\n\n\n\nPepita\n\n\n\nDog\n\n\n\n\n\n\n\n\n\n\n\nPepper\n\n\n\nCat\n\n\n\n\n\n\n\n\n\n\n\nPierogi\n\n\n\nDog\n\n\n\n\n\n\n\n\n\n\n\n\n\nZola\n\n\n\nCat\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "pets/cleo/index.html",
@@ -249,7 +249,7 @@
     "href": "research/new_england_ecology.html",
     "title": "New England Marine Ecology",
     "section": "",
-    "text": "A good chunk of what we work on in the lab is simply learning from and learning about the Ecology of ocean ecosystems here in New England. The lab is based here in the Gulf of Maine, sitting at the back of Boston Harbor."
+    "text": "A good chunk of what we work on in the lab is simply learning from and learning about the Ecology of ocean ecosystems here in New England. The lab is based here in the Gulf of Maine, sitting at the back of Boston Harbor. We also work extensively in Salem Sound out of the Cat Cove Marine Lab and the Shoals Marine Laboratory.\nThe natural history of New England is the foundation against which we test Ecological theory. By better understanding the natural history of the area, we as a lab are better able to advance the field of ecology and give ourselves a sanity check on results from larger models anad analyses.\nMany of us also cut our teeth here as naturalists - from growing up here to undergraduate study to working as technicians before entering graduate school. The region is home, a joy to study, and somewhere to which we have a deep commitment to giving back.\nRelevant References\n\n\n\n  \n    Thew S. Suskiewicz, Jarrett E. K. Byrnes, Robert S. Steneck, Robert Russell, Carl J. Wilson, Douglas B. Rasher\n    (2024)\n    Ocean warming undermines the recovery resilience of New England kelp forests following a fishery-induced trophic cascade.\n    Ecology.\n  105:\n  e4334.\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    Abstract & More » \n    \n    \n   \n  \n    \n    \n    \n    pdf\n    \n    \n    \n    \n    \n    \n    code\n    \n    \n    \n    \n    \n    \n    data\n    \n    \n    \n    \n    \n    \n    bib\n    \n    \n    \n    \n    \n    \n    url\n    \n    \n    \n  \n  \n  \n\n  \n    Jarrett Edward Kaplan Byrnes, Laura Dissly, Kirk Bosma\n    (2022)\n    Surprising Abundant Mussel Beds in the Center of Boston Harbor in the Midst of a Regional Die-Back.\n    EcoEvoRxiv.\n  NA:\n  NA.\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    Abstract & More » \n    \n    \n   \n  \n    \n    \n    \n    pdf\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    bib\n    \n    \n    \n    \n    \n    \n    url\n    \n    \n    \n  \n  \n  \n\n\nNo matching items"
   },
   {
     "objectID": "pets/pearl/index.html",
@@ -271,5 +271,26 @@
     "title": "Coastal Ecology at Scale",
     "section": "",
     "text": "The planet is undergoing enormous changes driven by human influences. At the same time, ecological systems are mind-bogglingly complex and subject to all manner of jukes and bounces due to environmental noise. This makes detecting change and then attributing it to cause an incredibly difficult task.\nOne of the principle challenges in learning about large-scale change - from the regional to global scale - is expanding one’s scale of inference. One cannot understand nature without having a solid sense of the natural history of one or a handful of sites. Knowing and understanding the stories behind chage in, say, a single kelp forest is a keyhole through which we can peer and understand the wider world. At the same time, when we open the door to see the entire landscape arrayed in front of us, we learn that what we have learned is one piece of a much larger puzzle of the natural world.\nIn our lab, we approach global change biology through the lense of data synthesis of long-term and large-scale data sets. We work to bring together many different data layers - from modeled outputs to remote sensing to visual surveys aggregated across many studies - in order to learn about how the world has changed. We employ causal statistical approaches in order to either attribute change to particular drivers, or to interpolate and learn about general change across large unsampled spatial scales.\nWe bring this approach to coastal ecosystems, but also work with researchers in other systems as well in order to build a broad understanding of global change that is necessary to tackle the next century of environmental issues.\nRelevant References"
+  },
+  {
+    "objectID": "pets/mimolette/index.html",
+    "href": "pets/mimolette/index.html",
+    "title": "Mimolette",
+    "section": "",
+    "text": "Mimo (Mimolette) is a tripod kitty who loves crunchy treats and a good paper bag\n\n\n\n\n\nPizza Mimo\n\n\n\n\n\n\nshe loves a crunchy bag\n\n\n\n\n\n\nShe enjoys rolling around and looking at birds through the window\n\n\n\n\n\n\n\n\n\n\n\n\n\nBut her true passions are cuddling and sleeping in\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnd spending time with her sisters"
+  },
+  {
+    "objectID": "pets/medium/index.html",
+    "href": "pets/medium/index.html",
+    "title": "Medium Baby",
+    "section": "",
+    "text": "Medium Baby (short for Long Island Medium Baby) is a simple cat that enjoys a good sunny spot & probably sees ghosts\n\n\n\n\n\n\n\n\n\n\n\n\n\nShe does not understand how chairs work\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBut loves a good cardboard box & an occasional flop\n\n\n\n\n\n\n\n\n\n\n\n\n\nMostly, she loves a good cuddle with her sisters"
+  },
+  {
+    "objectID": "pets/baby/index.html",
+    "href": "pets/baby/index.html",
+    "title": "Baby",
+    "section": "",
+    "text": "Baby is human toddler trapped in a fluffy cat body\n\n\n\n\n\n\n\n\n\n\n\n\n\nShe recently graduated from UMass Boston with a degree in Chaos & Treat Acquisition\n\n\n\n\n\nRecent Graduate Baby\n\n\n\n\n\n\nOptimistic Baby\n\n\n\n\n\n\nWhen not practicing her degree, she can be found begging for cheese, screaming for ice cubes, and playing board games\n\n\n\n\n\nStretchy Baby\n\n\n\n\n\n\nChef Baby\n\n\n\n\n\n\nNerd Baby\n\n\n\nAnd on occasion, she will spend time with her two sisters, Medium & Mimo\n\n\nAll Babies"
   }
 ]
