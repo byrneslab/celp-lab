@@ -1,1 +1,65 @@
+---
+title: "Medium Baby"
+date: "2025-01-01"
+lightbox: auto
+about:
+  id: about
+  template: jolla
+  image-shape: round
+  image-width: "50%"
+  image: spicy_medium.jpeg
+date-format: " "
+categories:
+  - Cat
+---
+
+#### Medium Baby (short for Long Island Medium Baby) is a simple cat that enjoys a good sunny spot & probably sees ghosts
+
+::: {.columns}
+::: {.column width="40%"}
+<figure>
+  <img src="sun_medium.jpeg" width="300px">
+</figure>
+:::
+::: {.column width="40%" style="margin-left: 5%;"}
+<figure>
+  <img src="sun_face_medium.jpeg" width="300px">
+</figure>
+:::
+:::
+
+#### She does not understand how chairs work
+
+::: {.columns}
+::: {.column width="40%"}
+<figure>
+  <img src="chair_medium.jpeg" width="300px">
+</figure>
+:::
+::: {.column width="40%" style="margin-left: 5%;"}
+<figure>
+  <img src="chair_2_medium.jpeg" width="300px">
+</figure>
+:::
+:::
+
+<img src="chair_3_medium.jpeg" width="350px" style="display:block; margin-left:auto; margin-right:auto;">
+
+#### But loves a good cardboard box & an occasional flop
+
+::: {.columns}
+::: {.column width="40%"}
+<figure>
+  <img src="loaf_medium.jpeg" width="300px">
+</figure>
+:::
+::: {.column width="40%" style="margin-left: 5%;"}
+<figure>
+  <img src="floppy_medium.jpeg" width="300px">
+</figure>
+:::
+:::
+
+#### Mostly, she loves a good cuddle with her sisters 
+<img src="three.jpeg" width="350px" style="display:block; margin-left:auto; margin-right:auto;">
 
