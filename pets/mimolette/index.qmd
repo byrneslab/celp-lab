@@ -1,1 +1,72 @@
+---
+title: "Mimolette"
+date: "2025-01-01"
+lightbox: auto
+about:
+  id: about
+  template: jolla
+  image-shape: round
+  image-width: "50%"
+  image: book.jpeg
+date-format: " "
+categories:
+  - Cat
+---
+
+<img src="mimo.jpeg" width="350px" style="display:block; margin-left:auto; margin-right:auto;">
+
+#### Mimo (Mimolette) is a tripod kitty who loves crunchy treats and a good paper bag
+
+::: {.columns}
+::: {.column width="40%"}
+<figure>
+  <img src="pizza.jpeg" width="300px">
+  <figcaption style="text-align:center;">Pizza Mimo</figcaption>
+</figure>
+:::
+::: {.column width="40%"style="margin-left: 10%;"}
+<figure>
+  <img src="bag.jpeg" width="300px"> <figcaption style="text-align:center;">she loves a crunchy bag</figcaption>
+</figure>
+:::
+::: 
+
+#### She enjoys rolling around and looking at birds through the window
+
+::: {.columns}
+::: {.column width="40%"}
+<figure>
+  <img src="flop.jpeg" width="300px">
+</figure>
+:::
+::: {.column width="40%"style="margin-left: 10%;"}
+<figure>
+  <img src="window.jpeg" width="300px">
+</figure>
+:::
+:::
+
+#### But her true passions are cuddling and sleeping in
+::: {.columns}
+::: {.column width="40%"}
+<figure>
+  <img src="snuggled.jpeg" width="300px">
+</figure>
+:::
+::: {.column width="40%"style="margin-left: 10%;"}
+<figure>
+  <img src="lay.jpeg" width="300px">
+</figure>
+:::
+:::
+
+#### And spending time with her sisters 
+<img src="three.jpeg" width="350px" style="display:block; margin-left:auto; margin-right:auto;">
+
+
+
+
+
+
+
 
