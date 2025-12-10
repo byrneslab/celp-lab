@@ -1,8 +1,78 @@
 ---
 title: "Baby"
-date: "2024-01-01"
-image: ""
+date: "2025-01-01"
+lightbox: auto
+about:
+  id: about
+  template: jolla
+  image-shape: round
+  image-width: "50%"
+  image: Baby/baby_face.jpeg
 date-format: " "
 categories:
   - Cat
 ---
+
+#### Baby is human toddler trapped in a fluffy cat body
+
+::: {.columns}
+::: {.column width="40%"}
+<figure>
+  <img src="Baby/weird_baby.jpeg" width="300px">
+</figure>
+:::
+::: {.column width="40%" style="margin-left: 5%;"}
+<figure>
+  <img src="Baby/closeup_baby.jpeg" width="300px">
+</figure>
+:::
+:::
+
+#### She recently graduated from UMass Boston with a degree in Chaos & Treat Acquisition
+
+::: {.columns}
+::: {.column width="40%"}
+<figure>
+  <img src="Baby/graduate_baby.jpeg" width="300px">
+  <figcaption>Recent Graduate Baby</figcaption>
+</figure>
+:::
+::: {.column width="40%" style="margin-left: 5%;"}
+<figure>
+  <img src="Baby/thanksgiving_baby.jpeg" width="300px">
+  <figcaption>Optimistic Baby</figcaption>
+</figure>
+:::
+:::
+
+
+
+#### When not practicing her degree, she can be found begging for cheese, screaming for ice cubes, and playing board games
+::: {.columns}
+::: {.column width="40%"}
+<figure>
+  <img src="Baby/stretchy_baby.jpeg" width="300px">
+  <figcaption>Stretchy Baby</figcaption>
+</figure>
+:::
+::: {.column width="40%"style="margin-left: 10%;"}
+<figure>
+  <img src="Baby/cambro_baby.jpeg" width="300px">
+  <figcaption>Chef Baby</figcaption>
+</figure>
+:::
+::: 
+<img src="Baby/boardgame_baby.jpeg" width="350px" style="display:block; margin-left:auto; margin-right:auto;">
+<figcaption style="text-align:center;">Nerd Baby</figcaption>
+
+
+
+
+
+#### And on occasion, she will spend time with her two sisters, Medium & Mimo
+<img src="Baby/IMG_9234.jpeg" width="350px" style="display:block; margin-left:auto; margin-right:auto;">
+<figcaption style="text-align:center;">All Babies</figcaption>
+
+
+
+
