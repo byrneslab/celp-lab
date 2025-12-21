@@ -16,4 +16,5 @@ url_code: ""
 url_dataset: "https://doi.org/10.6073/pasta/530089fcb3ca5d0dd015ef4943a16886"
 bib: "./articles/PeerJ_2015_10.7717_peerj.719/cite.bib"
 pdf: "./articles/PeerJ_2015_10.7717_peerj.719/Foster et al. - 2015 - Effects of five southern California macroalgal diets on consumption, growth, and gonad weight, in th.pdf"
+categories: ["biodiversity ecosystem function", "kelp forest ecology"]
 ---

@@ -57,4 +57,6 @@ Grey coastal infrastructure is always going to be part of the mix of coastal pro
 
 <strong>Relevant References:</strong>
 
-Kirshen, P., Borrelli, M., Byrnes, J., Chen, R., Lockwood, L., Watson, C., Starbuck, K., Wiggin, J., Novelly, A., Uiterwyk, K., Thurson, K., McMann, B., Foster, C., Sprague, H., Roberts, H. J., Bosma, K., Jin, D., &amp; Herst, R. 2020. Integrated assessment of storm surge barrier systems under present and future climates and comparison to alternatives: A case study of Boston, USA. Climatic Change. <a href="https://dx.doi.org/10.1007/s10584-020-02781-8">https://dx.doi.org/10.1007/s10584-020-02781-8</a>
+:::{#relevant_references}  
+:::
+

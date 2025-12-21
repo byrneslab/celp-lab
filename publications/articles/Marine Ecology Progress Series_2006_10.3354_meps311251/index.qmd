@@ -35,4 +35,5 @@ url_code: ""
 url_dataset: ""
 bib: "./articles/Marine Ecology Progress Series_2006_10.3354_meps311251/cite.bib"
 pdf: "./articles/Marine Ecology Progress Series_2006_10.3354_meps311251/Stachowicz and Byrnes - 2006 - Species diversity, invasion success, and ecosystem functioning disentangling the influence of resou.pdf"
+categories: ["biodiversity ecosystem function"]
 ---

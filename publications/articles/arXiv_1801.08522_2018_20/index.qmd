@@ -3,7 +3,7 @@ title: "Floating Forests: Quantitative Validation of Citizen Science Data Genera
 date: "2018"
 year: "2018"
 author: ["Isaac S. Rosenthal", "Jarrett E. K. Byrnes", "Kyle C. Cavanaugh", "Tom W. Bell", "Briana Harder", "Alison J. Haupt", "Andrew T. W. Rassweiler", "Alejandro Perez-Matus", "Jorge Assis", "Ali Swanson", "Amy Boyer", "Adam McMaster", "Laura Trouille"]
-publication: "arXiv:1801.08522 [physics, q-bio]"
+publication: "arXiv"
 volume: "NA"
 number: "NA"
 pages: "NA"
@@ -15,7 +15,7 @@ image: featured.png
 url_preprint: ""
 url_code: ""
 url_dataset: ""
-bib: "./articles/arXiv:1801.08522 [physics, q-bio]_2018_20/cite.bib"
-pdf: "./articles/arXiv:1801.08522 [physics, q-bio]_2018_20/Rosenthal et al. - 2018 - Floating Forests Quantitative Validation of Citizen Science Data Generated From Consensus Classific.pdf"
-categories: ["kelp forest ecology"]
+bib: "./articles/arXiv_1801.08522_2018_20/cite.bib"
+pdf: "./articles/arXiv_1801.08522_2018_20/Rosenthal et al. - 2018 - Floating Forests Quantitative Validation of Citizen Science Data Generated From Consensus Classific.pdf"
+categories: ["kelp forest ecology", "remote sensing"]
 ---

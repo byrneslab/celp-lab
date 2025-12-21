@@ -17,4 +17,5 @@ url_code: ""
 url_dataset: ""
 bib: "./articles/Nature_2015_doi:10.1038_ncomms7936/cite.bib"
 pdf: "./articles/Nature_2015_doi:10.1038_ncomms7936/Lefcheck et al. - 2015 - Biodiversity enhances ecosystem multifunctionality across trophic levels and habitats.pdf"
+categories: ["biodiversity ecosystem function"]
 ---

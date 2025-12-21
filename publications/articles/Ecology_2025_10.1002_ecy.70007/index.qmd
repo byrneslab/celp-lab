@@ -17,4 +17,5 @@ url_code: "https://github.com/jebyrnes/fish_kelp_meta"
 url_dataset: "https://doi.org/10.6073/pasta/2c6e5c63bf01432e39414bb9dc1e787a"
 bib: "./articles/Ecology_2025_10.1002_ecy.70007/cite.bib"
 pdf: "./articles/Ecology_2025_10.1002_ecy.70007/Pérez-Matus et al. - 2025 - Kelp forests as nursery and foundational habitat for reef fishes.pdf"
+categories: ["kelp forest ecology"]
 ---

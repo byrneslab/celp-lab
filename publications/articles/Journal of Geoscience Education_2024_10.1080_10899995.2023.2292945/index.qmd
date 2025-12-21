@@ -17,4 +17,5 @@ url_code: ""
 url_dataset: ""
 bib: "./articles/Journal of Geoscience Education_2024_10.1080_10899995.2023.2292945/cite.bib"
 pdf: "./articles/Journal of Geoscience Education_2024_10.1080_10899995.2023.2292945/Rosenthal et al. - 2024 - A citizen science approach to teaching climate change in introductory-level undergraduate general sc.pdf"
+categories: ["remote sensing"]
 ---

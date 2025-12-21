@@ -17,4 +17,5 @@ url_code: ""
 url_dataset: ""
 bib: "./articles/Frontiers in Marine Science_2019_10.3389_fmars.2019.00317/cite.bib"
 pdf: "./articles/Frontiers in Marine Science_2019_10.3389_fmars.2019.00317/Duffy et al. - 2019 - Toward a Coordinated Global Observing System for S.pdf"
+categories: ["global change biology"]
 ---

@@ -17,4 +17,5 @@ url_code: ""
 url_dataset: ""
 bib: "./articles/Scientific Reports_2023_10.1038_s41598-023-44685-4/cite.bib"
 pdf: "./articles/Scientific Reports_2023_10.1038_s41598-023-44685-4/Shaughnessy et al. - 2023 - Evidence of elevated heavy metals concentrations i.pdf"
+categories: ["kelp forest ecology", "new england ecology"]
 ---

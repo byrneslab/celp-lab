@@ -17,4 +17,5 @@ url_code: ""
 url_dataset: ""
 bib: "./articles/Ecology_2009_10.1890_08-1073.1/cite.bib"
 pdf: "./articles/Ecology_2009_10.1890_08-1073.1/Byrnes and Stachowicz - 2009 - The consequences of consumer diversity loss different answers from different experimental designs..pdf"
+categories: ["biodiversity ecosystem function"]
 ---

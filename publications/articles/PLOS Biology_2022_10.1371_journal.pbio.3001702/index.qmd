@@ -17,4 +17,5 @@ url_code: ""
 url_dataset: ""
 bib: "./articles/PLOS Biology_2022_10.1371_journal.pbio.3001702/cite.bib"
 pdf: "./articles/PLOS Biology_2022_10.1371_journal.pbio.3001702/Filbee-Dexter et al. - 2022 - Kelp carbon sink potential decreases with warming .pdf"
+categories: ["kelp forest ecology"]
 ---

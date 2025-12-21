@@ -17,4 +17,5 @@ url_code: ""
 url_dataset: ""
 bib: "./articles/Sustainability Science_2023_10.1007_s11625-023-01414-0/cite.bib"
 pdf: "./articles/Sustainability Science_2023_10.1007_s11625-023-01414-0/Roy et al. - 2023 - Mitigation policies buffer multiple climate stress.pdf"
+categories: ["new england ecology"]
 ---

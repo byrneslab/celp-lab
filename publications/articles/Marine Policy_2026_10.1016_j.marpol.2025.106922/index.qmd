@@ -17,4 +17,5 @@ url_code: ""
 url_dataset: ""
 bib: "./articles/Marine Policy_2026_10.1016_j.marpol.2025.106922/cite.bib"
 pdf: "./articles/Marine Policy_2026_10.1016_j.marpol.2025.106922/von Schuckmann et al. - 2026 - Global ocean indicators Marking pathways at the science-policy nexus.pdf"
+categories: ["global change biology"]
 ---

@@ -18,4 +18,5 @@ url_code: ""
 url_dataset: ""
 bib: "./articles/NA_2018_30/cite.bib"
 pdf: "./articles/NA_2018_30/Kirshen et al. - 2018 - Feasibility of Harbor-wide Barrier Systems.pdf"
+categories: ["coastal protection ecology"]
 ---

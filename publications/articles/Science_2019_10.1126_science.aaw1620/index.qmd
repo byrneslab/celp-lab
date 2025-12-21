@@ -17,4 +17,5 @@ url_code: ""
 url_dataset: ""
 bib: "./articles/Science_2019_10.1126_science.aaw1620/cite.bib"
 pdf: "./articles/Science_2019_10.1126_science.aaw1620/Blowes et al. - 2019 - The geography of biodiversity change in marine and.pdf"
+categories: ["global change biology"]
 ---

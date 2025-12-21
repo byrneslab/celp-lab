@@ -17,4 +17,5 @@ url_code: ""
 url_dataset: ""
 bib: "./articles/Oikos_2015_10.1111_oik.01549/cite.bib"
 pdf: "./articles/Oikos_2015_10.1111_oik.01549/Gamfeldt et al. - 2015 - Marine biodiversity and ecosystem functioning what's known and what's next.pdf"
+categories: ["biodiversity ecosystem function"]
 ---

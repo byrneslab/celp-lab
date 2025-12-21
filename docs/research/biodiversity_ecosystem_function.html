@@ -81,9 +81,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-project','listing-website','listing-format','listing-language','listing-title','listing-date','listing-year','listing-author','listing-publication','listing-volume','listing-number','listing-pages','listing-doi','listing-abstract','listing-keywords','listing-url','listing-image','listing-url_preprint','listing-url_code','listing-url_dataset','listing-bib','listing-pdf','listing-categories','listing-path','listing-outputHref','listing-date-modified','listing-description','listing-filename','listing-file-modified','listing-reading-time','listing-word-count',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-date-modified-sort'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] },{ data: ['listing-word-count-sort'] }],
+      valueNames: ['listing-project','listing-website','listing-format','listing-language','listing-title','listing-date','listing-year','listing-author','listing-publication','listing-volume','listing-number','listing-pages','listing-doi','listing-abstract','listing-keywords','listing-url','listing-image','listing-url_preprint','listing-url_code','listing-url_dataset','listing-bib','listing-pdf','listing-categories','listing-path','listing-outputHref','listing-date-modified','listing-description','listing-filename','listing-file-modified','listing-reading-time','listing-word-count','listing-editors',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-date-modified-sort'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] },{ data: ['listing-word-count-sort'] }],
       
-      searchColumns: ["listing-project","listing-website","listing-format","listing-language","listing-title","listing-date","listing-year","listing-author","listing-publication","listing-volume","listing-number","listing-pages","listing-doi","listing-abstract","listing-keywords","listing-url","listing-image","listing-url_preprint","listing-url_code","listing-url_dataset","listing-bib","listing-pdf","listing-categories","listing-path","listing-outputHref","listing-date-modified","listing-description","listing-filename","listing-file-modified","listing-reading-time","listing-word-count"],
+      searchColumns: ["listing-project","listing-website","listing-format","listing-language","listing-title","listing-date","listing-year","listing-author","listing-publication","listing-volume","listing-number","listing-pages","listing-doi","listing-abstract","listing-keywords","listing-url","listing-image","listing-url_preprint","listing-url_code","listing-url_dataset","listing-bib","listing-pdf","listing-categories","listing-path","listing-outputHref","listing-date-modified","listing-description","listing-filename","listing-file-modified","listing-reading-time","listing-word-count","listing-editors"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -235,7 +235,7 @@ window.Quarto = {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(5)</span></div><div class="category" data-category="YmlvZGl2ZXJzaXR5JTIwZWNvc3lzdGVtJTIwZnVuY3Rpb24=">biodiversity ecosystem function <span class="quarto-category-count">(5)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(17)</span></div><div class="category" data-category="YmlvZGl2ZXJzaXR5JTIwZWNvc3lzdGVtJTIwZnVuY3Rpb24=">biodiversity ecosystem function <span class="quarto-category-count">(17)</span></div><div class="category" data-category="Y2F1c2FsJTIwZWNvbG9neQ==">causal ecology <span class="quarto-category-count">(1)</span></div><div class="category" data-category="a2VscCUyMGZvcmVzdCUyMGVjb2xvZ3k=">kelp forest ecology <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <div class="quarto-about-marquee">
   <div class="about-image-container">
@@ -267,7 +267,183 @@ window.Quarto = {
 <p><strong>Relevant References</strong></p>
 <div id="listing-relevant_references" class="quarto-listing quarto-listing-container-custom">
 <ul class="pub-list list">
-  <li data-index="0" data-categories="YmlvZGl2ZXJzaXR5JTIwZWNvc3lzdGVtJTIwZnVuY3Rpb24=" data-listing-date-sort="1388534400000" data-listing-file-modified-sort="1763925477791" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+  <li data-index="0" data-categories="YmlvZGl2ZXJzaXR5JTIwZWNvc3lzdGVtJTIwZnVuY3Rpb24lMkNjYXVzYWwlMjBlY29sb2d5" data-listing-date-sort="1672531200000" data-listing-file-modified-sort="1766280191145" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+    <span class="listing-author ">Laura E. Dee, Paul J. Ferraro, Christopher N. Severen, Kaitlin A. Kimmel, Elizabeth T. Borer, Jarrett E. K. Byrnes, Adam Thomas Clark, Yann Hautier, Andrew Hector, Xavier Raynaud, Peter B. Reich, Alexandra J. Wright, Carlos A. Arnillas, Kendi F. Davies, Andrew MacDougall, Akira S. Mori, Melinda D. Smith, Peter B. Adler, Jonathan D. Bakker, Kate A. Brauman, Jane Cowles, Kimberly Komatsu, Johannes M. H. Knops, Rebecca L. McCulley, Joslin L. Moore, John W. Morgan, Timothy Ohlert, Sally A. Power, Lauren L. Sullivan, Carly Stevens, Michel Loreau</span>
+    <span class="listing-year">(2023)</span>
+    <span class="listing-title fw-bold">Clarifying the effect of biodiversity on productivity in natural ecosystems with longitudinal data and methods for causal inference.</span>
+    <span class="listing-publication fst-italic ">Nature Communications.</span>
+  <span class="listing-volume ">14:</span>
+  <span class="listing-pages ">2607.</span>
+    <br>
+    <div class="d-grid d-md-flex d-small justify-content-md-end">
+    <a href="../publications/articles/Nature Communications_2023_10.1038_s41467-023-37194-5/index.html" <button="" class="btn btn-secondary btn-sm">
+    <i class="bi bi-list-task" target="_blank" rel="noopener noreferrer" style="font-size: 1rem"></i>
+    Abstract &amp; More » 
+    </a>
+    <a href="./articles/Nature Communications_2023_10.1038_s41467-023-37194-5/Dee et al. - 2023 - Clarifying the effect of biodiversity on productiv.pdf" <button="" class="btn btn-secondary btn-sm">
+    <i class="bi bi-file-earmark-pdf" target="_blank" rel="noopener noreferrer" style="font-size: 1rem"></i>
+    pdf
+    </a>
+    <a href="./articles/Nature Communications_2023_10.1038_s41467-023-37194-5/cite.bib" <button="" class="btn btn-secondary btn-sm">
+    <i class="bi bi-blockquote-left" target="_blank" rel="noopener noreferrer" style="font-size: 1rem"></i>
+    bib
+    </a>
+    <a href="https://www.nature.com/articles/s41467-023-37194-5" <button="" class="btn btn-secondary btn-sm">
+    <i class="bi bi-link" target="_blank" rel="noopener noreferrer" style="font-size: 1rem"></i>
+    url
+    </a>
+  </div>
+  <hr width="100%" size="2" color="blue" noshade="">
+  </li>
+  <li data-index="1" data-categories="YmlvZGl2ZXJzaXR5JTIwZWNvc3lzdGVtJTIwZnVuY3Rpb24=" data-listing-date-sort="1672531200000" data-listing-file-modified-sort="1766280394739" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+    <span class="listing-author ">Jarrett E. K. Byrnes, Fabian Roger, Robert Bagchi</span>
+    <span class="listing-year">(2023)</span>
+    <span class="listing-title fw-bold">Understandable multifunctionality measures using Hill numbers.</span>
+    <span class="listing-publication fst-italic ">Oikos.</span>
+  <span class="listing-volume ">2023:</span>
+  <span class="listing-pages ">e09402.</span>
+    <br>
+    <div class="d-grid d-md-flex d-small justify-content-md-end">
+    <a href="../publications/articles/Oikos_2023_10.1111_oik.09402/index.html" <button="" class="btn btn-secondary btn-sm">
+    <i class="bi bi-list-task" target="_blank" rel="noopener noreferrer" style="font-size: 1rem"></i>
+    Abstract &amp; More » 
+    </a>
+    <a href="./articles/Oikos_2023_10.1111_oik.09402/Byrnes et al. - 2023 - Understandable multifunctionality measures using H.pdf" <button="" class="btn btn-secondary btn-sm">
+    <i class="bi bi-file-earmark-pdf" target="_blank" rel="noopener noreferrer" style="font-size: 1rem"></i>
+    pdf
+    </a>
+    <a href="https://cran.r-project.org/web/packages/multifunc/index.html" <button="" class="btn btn-secondary btn-sm">
+    <i class="bi bi-github" target="_blank" rel="noopener noreferrer" style="font-size: 1rem"></i>
+    code
+    </a>
+    <a href="./articles/Oikos_2023_10.1111_oik.09402/cite.bib" <button="" class="btn btn-secondary btn-sm">
+    <i class="bi bi-blockquote-left" target="_blank" rel="noopener noreferrer" style="font-size: 1rem"></i>
+    bib
+    </a>
+    <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/oik.09402" <button="" class="btn btn-secondary btn-sm">
+    <i class="bi bi-link" target="_blank" rel="noopener noreferrer" style="font-size: 1rem"></i>
+    url
+    </a>
+  </div>
+  <hr width="100%" size="2" color="blue" noshade="">
+  </li>
+  <li data-index="2" data-categories="YmlvZGl2ZXJzaXR5JTIwZWNvc3lzdGVtJTIwZnVuY3Rpb24=" data-listing-date-sort="1451606400000" data-listing-file-modified-sort="1766280357310" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+    <span class="listing-author ">Mary I O'Connor, Andrew Gonzalez, Jarrett E K Byrnes, Bradley J Cardinale, J. Emmett Duffy, Lars Gamfeldt, John N. Griffin, David Hooper, Bruce A Hungate, Alain Paquette, Patrick L Thompson, Laura E Dee, Kristin L Dolan</span>
+    <span class="listing-year">(2016)</span>
+    <span class="listing-title fw-bold">A general biodiversity-function relationship is mediated by trophic level.</span>
+    <span class="listing-publication fst-italic ">Oikos.</span>
+  <span class="listing-volume ">126:</span>
+  <span class="listing-pages ">n-a-n-a.</span>
+    <br>
+    <div class="d-grid d-md-flex d-small justify-content-md-end">
+    <a href="../publications/articles/Oikos_2016_10.1111_oik.03652/index.html" <button="" class="btn btn-secondary btn-sm">
+    <i class="bi bi-list-task" target="_blank" rel="noopener noreferrer" style="font-size: 1rem"></i>
+    Abstract &amp; More » 
+    </a>
+    <a href="./articles/Oikos_2016_10.1111_oik.03652/O'Connor et al. - 2016 - A general biodiversity-function relationship is mediated by trophic level.pdf" <button="" class="btn btn-secondary btn-sm">
+    <i class="bi bi-file-earmark-pdf" target="_blank" rel="noopener noreferrer" style="font-size: 1rem"></i>
+    pdf
+    </a>
+    <a href="./articles/Oikos_2016_10.1111_oik.03652/cite.bib" <button="" class="btn btn-secondary btn-sm">
+    <i class="bi bi-blockquote-left" target="_blank" rel="noopener noreferrer" style="font-size: 1rem"></i>
+    bib
+    </a>
+    <a href="http://doi.wiley.com/10.1111/oik.03652" <button="" class="btn btn-secondary btn-sm">
+    <i class="bi bi-link" target="_blank" rel="noopener noreferrer" style="font-size: 1rem"></i>
+    url
+    </a>
+  </div>
+  <hr width="100%" size="2" color="blue" noshade="">
+  </li>
+  <li data-index="3" data-categories="YmlvZGl2ZXJzaXR5JTIwZWNvc3lzdGVtJTIwZnVuY3Rpb24=" data-listing-date-sort="1420070400000" data-listing-file-modified-sort="1766280289756" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+    <span class="listing-author ">J S Lefcheck, JEK Byrnes, F Isbell, L. Gamfeldt</span>
+    <span class="listing-year">(2015)</span>
+    <span class="listing-title fw-bold">Biodiversity enhances ecosystem multifunctionality across trophic levels and habitats.</span>
+    <span class="listing-publication fst-italic ">Nature.</span>
+  <span class="listing-volume ">NA:</span>
+  <span class="listing-pages ">NA.</span>
+    <br>
+    <div class="d-grid d-md-flex d-small justify-content-md-end">
+    <a href="../publications/articles/Nature_2015_doi:10.1038_ncomms7936/index.html" <button="" class="btn btn-secondary btn-sm">
+    <i class="bi bi-list-task" target="_blank" rel="noopener noreferrer" style="font-size: 1rem"></i>
+    Abstract &amp; More » 
+    </a>
+    <a href="./articles/Nature_2015_doi:10.1038_ncomms7936/Lefcheck et al. - 2015 - Biodiversity enhances ecosystem multifunctionality across trophic levels and habitats.pdf" <button="" class="btn btn-secondary btn-sm">
+    <i class="bi bi-file-earmark-pdf" target="_blank" rel="noopener noreferrer" style="font-size: 1rem"></i>
+    pdf
+    </a>
+    <a href="./articles/Nature_2015_doi:10.1038_ncomms7936/cite.bib" <button="" class="btn btn-secondary btn-sm">
+    <i class="bi bi-blockquote-left" target="_blank" rel="noopener noreferrer" style="font-size: 1rem"></i>
+    bib
+    </a>
+    <a href="http://www.nature.com/ncomms/2015/150424/ncomms7936/full/ncomms7936.html" <button="" class="btn btn-secondary btn-sm">
+    <i class="bi bi-link" target="_blank" rel="noopener noreferrer" style="font-size: 1rem"></i>
+    url
+    </a>
+  </div>
+  <hr width="100%" size="2" color="blue" noshade="">
+  </li>
+  <li data-index="4" data-categories="YmlvZGl2ZXJzaXR5JTIwZWNvc3lzdGVtJTIwZnVuY3Rpb24lMkNrZWxwJTIwZm9yZXN0JTIwZWNvbG9neQ==" data-listing-date-sort="1420070400000" data-listing-file-modified-sort="1766280565177" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+    <span class="listing-author ">Matthew C Foster, Jarrett E K Byrnes, Daniel C. Reed</span>
+    <span class="listing-year">(2015)</span>
+    <span class="listing-title fw-bold">Effects of five southern California macroalgal diets on consumption, growth, and gonad weight, in the purple sea urchin Strongylocentrotus purpuratus.</span>
+    <span class="listing-publication fst-italic ">PeerJ.</span>
+  <span class="listing-volume ">3:</span>
+  <span class="listing-pages ">e719.</span>
+    <br>
+    <div class="d-grid d-md-flex d-small justify-content-md-end">
+    <a href="../publications/articles/PeerJ_2015_10.7717_peerj.719/index.html" <button="" class="btn btn-secondary btn-sm">
+    <i class="bi bi-list-task" target="_blank" rel="noopener noreferrer" style="font-size: 1rem"></i>
+    Abstract &amp; More » 
+    </a>
+    <a href="./articles/PeerJ_2015_10.7717_peerj.719/Foster et al. - 2015 - Effects of five southern California macroalgal diets on consumption, growth, and gonad weight, in th.pdf" <button="" class="btn btn-secondary btn-sm">
+    <i class="bi bi-file-earmark-pdf" target="_blank" rel="noopener noreferrer" style="font-size: 1rem"></i>
+    pdf
+    </a>
+    <a href="https://doi.org/10.6073/pasta/530089fcb3ca5d0dd015ef4943a16886" <button="" class="btn btn-secondary btn-sm">
+    <i class="bi bi-clipboard-data" target="_blank" rel="noopener noreferrer" style="font-size: 1rem"></i>
+    data
+    </a>
+    <a href="./articles/PeerJ_2015_10.7717_peerj.719/cite.bib" <button="" class="btn btn-secondary btn-sm">
+    <i class="bi bi-blockquote-left" target="_blank" rel="noopener noreferrer" style="font-size: 1rem"></i>
+    bib
+    </a>
+    <a href="https://peerj.com/articles/719" <button="" class="btn btn-secondary btn-sm">
+    <i class="bi bi-link" target="_blank" rel="noopener noreferrer" style="font-size: 1rem"></i>
+    url
+    </a>
+  </div>
+  <hr width="100%" size="2" color="blue" noshade="">
+  </li>
+  <li data-index="5" data-categories="YmlvZGl2ZXJzaXR5JTIwZWNvc3lzdGVtJTIwZnVuY3Rpb24=" data-listing-date-sort="1420070400000" data-listing-file-modified-sort="1766280310341" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+    <span class="listing-author ">Lars Gamfeldt, Jonathan S Lefcheck, Jarrett E K Byrnes, Bradley J Cardinale, J. Emmett Duffy, John N. Griffin</span>
+    <span class="listing-year">(2015)</span>
+    <span class="listing-title fw-bold">Marine biodiversity and ecosystem functioning: what's known and what's next?.</span>
+    <span class="listing-publication fst-italic ">Oikos.</span>
+  <span class="listing-volume ">124:</span>
+  <span class="listing-pages ">252-265.</span>
+    <br>
+    <div class="d-grid d-md-flex d-small justify-content-md-end">
+    <a href="../publications/articles/Oikos_2015_10.1111_oik.01549/index.html" <button="" class="btn btn-secondary btn-sm">
+    <i class="bi bi-list-task" target="_blank" rel="noopener noreferrer" style="font-size: 1rem"></i>
+    Abstract &amp; More » 
+    </a>
+    <a href="./articles/Oikos_2015_10.1111_oik.01549/Gamfeldt et al. - 2015 - Marine biodiversity and ecosystem functioning what's known and what's next.pdf" <button="" class="btn btn-secondary btn-sm">
+    <i class="bi bi-file-earmark-pdf" target="_blank" rel="noopener noreferrer" style="font-size: 1rem"></i>
+    pdf
+    </a>
+    <a href="./articles/Oikos_2015_10.1111_oik.01549/cite.bib" <button="" class="btn btn-secondary btn-sm">
+    <i class="bi bi-blockquote-left" target="_blank" rel="noopener noreferrer" style="font-size: 1rem"></i>
+    bib
+    </a>
+    <a href="http://dx.doi.org/10.1111/oik.01549" <button="" class="btn btn-secondary btn-sm">
+    <i class="bi bi-link" target="_blank" rel="noopener noreferrer" style="font-size: 1rem"></i>
+    url
+    </a>
+  </div>
+  <hr width="100%" size="2" color="blue" noshade="">
+  </li>
+  <li data-index="6" data-categories="YmlvZGl2ZXJzaXR5JTIwZWNvc3lzdGVtJTIwZnVuY3Rpb24=" data-listing-date-sort="1388534400000" data-listing-file-modified-sort="1763925477791" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
     <span class="listing-author ">Patricia Balvanera, Ilyas Siddique, Laura Dee, Alain Paquette, Forest Isbell, Andrew Gonzalez, Jarrett Byrnes, Mary I O'Connor, Bruce A Hungate, John N. Griffin</span>
     <span class="listing-year">(2014)</span>
     <span class="listing-title fw-bold">Linking Biodiversity and Ecosystem Services: Current Uncertainties and the Necessary Next Steps.</span>
@@ -295,7 +471,119 @@ window.Quarto = {
   </div>
   <hr width="100%" size="2" color="blue" noshade="">
   </li>
-  <li data-index="1" data-categories="YmlvZGl2ZXJzaXR5JTIwZWNvc3lzdGVtJTIwZnVuY3Rpb24=" data-listing-date-sort="1293840000000" data-listing-file-modified-sort="1763411227128" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+  <li data-index="7" data-categories="YmlvZGl2ZXJzaXR5JTIwZWNvc3lzdGVtJTIwZnVuY3Rpb24=" data-listing-date-sort="1388534400000" data-listing-file-modified-sort="1766280656347" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+    <span class="listing-author ">Jarrett Byrnes, Jonathan S Lefcheck, Lars Gamfeldt, John N. Griffin, Forest Isbell, Andy Hector</span>
+    <span class="listing-year">(2014)</span>
+    <span class="listing-title fw-bold">Multifunctionality does not imply that all functions are positively correlated..</span>
+    <span class="listing-publication fst-italic ">PNAS.</span>
+  <span class="listing-volume ">111:</span>
+  <span class="listing-pages ">E5490.</span>
+    <br>
+    <div class="d-grid d-md-flex d-small justify-content-md-end">
+    <a href="../publications/articles/PNAS_2014_10.1073_pnas.1419515112/index.html" <button="" class="btn btn-secondary btn-sm">
+    <i class="bi bi-list-task" target="_blank" rel="noopener noreferrer" style="font-size: 1rem"></i>
+    Abstract &amp; More » 
+    </a>
+    <a href="./articles/PNAS_2014_10.1073_pnas.1419515112/Byrnes et al. - 2014 - Multifunctionality does not imply that all functions are positively correlated..pdf" <button="" class="btn btn-secondary btn-sm">
+    <i class="bi bi-file-earmark-pdf" target="_blank" rel="noopener noreferrer" style="font-size: 1rem"></i>
+    pdf
+    </a>
+    <a href="./articles/PNAS_2014_10.1073_pnas.1419515112/cite.bib" <button="" class="btn btn-secondary btn-sm">
+    <i class="bi bi-blockquote-left" target="_blank" rel="noopener noreferrer" style="font-size: 1rem"></i>
+    bib
+    </a>
+    <a href="http://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&amp;id=25480551&amp;retmode=ref&amp;cmd=prlinks" <button="" class="btn btn-secondary btn-sm">
+    <i class="bi bi-link" target="_blank" rel="noopener noreferrer" style="font-size: 1rem"></i>
+    url
+    </a>
+  </div>
+  <hr width="100%" size="2" color="blue" noshade="">
+  </li>
+  <li data-index="8" data-categories="YmlvZGl2ZXJzaXR5JTIwZWNvc3lzdGVtJTIwZnVuY3Rpb24=" data-listing-date-sort="1356998400000" data-listing-file-modified-sort="1766280093150" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+    <span class="listing-author ">Mary I O'Connor, Jarrett E K Byrnes</span>
+    <span class="listing-year">(2013)</span>
+    <span class="listing-title fw-bold">Biodiversity and Ecosystem Function: Does Pattern Influence Process?.</span>
+    <span class="listing-publication fst-italic ">Marine community ecology and conservation.</span>
+  <span class="listing-volume ">:</span>
+  <span class="listing-pages ">109-130.</span>
+    <br>
+    <div class="d-grid d-md-flex d-small justify-content-md-end">
+    <a href="../publications/articles/MCEC_2013_34/index.html" <button="" class="btn btn-secondary btn-sm">
+    <i class="bi bi-list-task" target="_blank" rel="noopener noreferrer" style="font-size: 1rem"></i>
+    Abstract &amp; More » 
+    </a>
+    <a href="./articles/MCEC_2013_34/O'Connor and Byrnes - 2013 - Biodiversity and Ecosystem Function Does Pattern Influence Process.pdf" <button="" class="btn btn-secondary btn-sm">
+    <i class="bi bi-file-earmark-pdf" target="_blank" rel="noopener noreferrer" style="font-size: 1rem"></i>
+    pdf
+    </a>
+    <a href="./articles/MCEC_2013_34/cite.bib" <button="" class="btn btn-secondary btn-sm">
+    <i class="bi bi-blockquote-left" target="_blank" rel="noopener noreferrer" style="font-size: 1rem"></i>
+    bib
+    </a>
+    <a href="NA" <button="" class="btn btn-secondary btn-sm">
+    <i class="bi bi-link" target="_blank" rel="noopener noreferrer" style="font-size: 1rem"></i>
+    url
+    </a>
+  </div>
+  <hr width="100%" size="2" color="blue" noshade="">
+  </li>
+  <li data-index="9" data-categories="YmlvZGl2ZXJzaXR5JTIwZWNvc3lzdGVtJTIwZnVuY3Rpb24=" data-listing-date-sort="1356998400000" data-listing-file-modified-sort="1766275316488" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+    <span class="listing-author ">John N. Griffin, Jarrett E K Byrnes, Bradley J Cardinale</span>
+    <span class="listing-year">(2013)</span>
+    <span class="listing-title fw-bold">Effects of predator richness on prey suppression: a meta-analysis.</span>
+    <span class="listing-publication fst-italic ">Ecology.</span>
+  <span class="listing-volume ">94:</span>
+  <span class="listing-pages ">2180-2187.</span>
+    <br>
+    <div class="d-grid d-md-flex d-small justify-content-md-end">
+    <a href="../publications/articles/Ecology_2013_10.1890_13-0179.1/index.html" <button="" class="btn btn-secondary btn-sm">
+    <i class="bi bi-list-task" target="_blank" rel="noopener noreferrer" style="font-size: 1rem"></i>
+    Abstract &amp; More » 
+    </a>
+    <a href="./articles/Ecology_2013_10.1890_13-0179.1/Griffin et al. - 2013 - Effects of predator richness on prey suppression a meta-analysis.pdf" <button="" class="btn btn-secondary btn-sm">
+    <i class="bi bi-file-earmark-pdf" target="_blank" rel="noopener noreferrer" style="font-size: 1rem"></i>
+    pdf
+    </a>
+    <a href="./articles/Ecology_2013_10.1890_13-0179.1/cite.bib" <button="" class="btn btn-secondary btn-sm">
+    <i class="bi bi-blockquote-left" target="_blank" rel="noopener noreferrer" style="font-size: 1rem"></i>
+    bib
+    </a>
+    <a href="http://dx.doi.org/10.1890/13-0179.1" <button="" class="btn btn-secondary btn-sm">
+    <i class="bi bi-link" target="_blank" rel="noopener noreferrer" style="font-size: 1rem"></i>
+    url
+    </a>
+  </div>
+  <hr width="100%" size="2" color="blue" noshade="">
+  </li>
+  <li data-index="10" data-categories="YmlvZGl2ZXJzaXR5JTIwZWNvc3lzdGVtJTIwZnVuY3Rpb24=" data-listing-date-sort="1325376000000" data-listing-file-modified-sort="1766280217511" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+    <span class="listing-author ">David U Hooper, E Carol Adair, Bradley J Cardinale, Jarrett E K Byrnes, Bruce A Hungate, Kristin L Matulich, Andrew Gonzalez, J. Emmett Duffy, Lars Gamfeldt, Mary I O'Connor</span>
+    <span class="listing-year">(2012)</span>
+    <span class="listing-title fw-bold">A global synthesis reveals biodiversity loss as a major driver of ecosystem change.</span>
+    <span class="listing-publication fst-italic ">Nature.</span>
+  <span class="listing-volume ">486:</span>
+  <span class="listing-pages ">105-108.</span>
+    <br>
+    <div class="d-grid d-md-flex d-small justify-content-md-end">
+    <a href="../publications/articles/Nature_2012_10.1038_nature11118/index.html" <button="" class="btn btn-secondary btn-sm">
+    <i class="bi bi-list-task" target="_blank" rel="noopener noreferrer" style="font-size: 1rem"></i>
+    Abstract &amp; More » 
+    </a>
+    <a href="./articles/Nature_2012_10.1038_nature11118/Hooper et al. - 2012 - A global synthesis reveals biodiversity loss as a major driver of ecosystem change.pdf" <button="" class="btn btn-secondary btn-sm">
+    <i class="bi bi-file-earmark-pdf" target="_blank" rel="noopener noreferrer" style="font-size: 1rem"></i>
+    pdf
+    </a>
+    <a href="./articles/Nature_2012_10.1038_nature11118/cite.bib" <button="" class="btn btn-secondary btn-sm">
+    <i class="bi bi-blockquote-left" target="_blank" rel="noopener noreferrer" style="font-size: 1rem"></i>
+    bib
+    </a>
+    <a href="http://www.nature.com/doifinder/10.1038/nature11118" <button="" class="btn btn-secondary btn-sm">
+    <i class="bi bi-link" target="_blank" rel="noopener noreferrer" style="font-size: 1rem"></i>
+    url
+    </a>
+  </div>
+  <hr width="100%" size="2" color="blue" noshade="">
+  </li>
+  <li data-index="11" data-categories="YmlvZGl2ZXJzaXR5JTIwZWNvc3lzdGVtJTIwZnVuY3Rpb24=" data-listing-date-sort="1293840000000" data-listing-file-modified-sort="1763411227128" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
     <span class="listing-author ">Bradley J Cardinale, Kristin L Matulich, David U Hooper, Jarrett E Byrnes, Emmett Duffy, Lars Gamfeldt, Patricia Balvanera, Mary I O'Connor, Andrew Gonzalez</span>
     <span class="listing-year">(2011)</span>
     <span class="listing-title fw-bold">The functional role of producer diversity in ecosystems..</span>
@@ -323,7 +611,7 @@ window.Quarto = {
   </div>
   <hr width="100%" size="2" color="blue" noshade="">
   </li>
-  <li data-index="2" data-categories="YmlvZGl2ZXJzaXR5JTIwZWNvc3lzdGVtJTIwZnVuY3Rpb24=" data-listing-date-sort="1230768000000" data-listing-file-modified-sort="1763925613714" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+  <li data-index="12" data-categories="YmlvZGl2ZXJzaXR5JTIwZWNvc3lzdGVtJTIwZnVuY3Rpb24=" data-listing-date-sort="1230768000000" data-listing-file-modified-sort="1763925613714" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
     <span class="listing-author ">Jarrett Byrnes, John J Stachowicz</span>
     <span class="listing-year">(2009)</span>
     <span class="listing-title fw-bold">Short and long term consequences of increases in exotic species richness on water filtration by marine invertebrates..</span>
@@ -351,7 +639,35 @@ window.Quarto = {
   </div>
   <hr width="100%" size="2" color="blue" noshade="">
   </li>
-  <li data-index="3" data-categories="YmlvZGl2ZXJzaXR5JTIwZWNvc3lzdGVtJTIwZnVuY3Rpb24=" data-listing-date-sort="1167609600000" data-listing-file-modified-sort="1763925594357" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+  <li data-index="13" data-categories="YmlvZGl2ZXJzaXR5JTIwZWNvc3lzdGVtJTIwZnVuY3Rpb24=" data-listing-date-sort="1230768000000" data-listing-file-modified-sort="1766275252961" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+    <span class="listing-author ">Jarrett E Byrnes, John J Stachowicz</span>
+    <span class="listing-year">(2009)</span>
+    <span class="listing-title fw-bold">The consequences of consumer diversity loss: different answers from different experimental designs.</span>
+    <span class="listing-publication fst-italic ">Ecology.</span>
+  <span class="listing-volume ">90:</span>
+  <span class="listing-pages ">2879-2888.</span>
+    <br>
+    <div class="d-grid d-md-flex d-small justify-content-md-end">
+    <a href="../publications/articles/Ecology_2009_10.1890_08-1073.1/index.html" <button="" class="btn btn-secondary btn-sm">
+    <i class="bi bi-list-task" target="_blank" rel="noopener noreferrer" style="font-size: 1rem"></i>
+    Abstract &amp; More » 
+    </a>
+    <a href="./articles/Ecology_2009_10.1890_08-1073.1/Byrnes and Stachowicz - 2009 - The consequences of consumer diversity loss different answers from different experimental designs..pdf" <button="" class="btn btn-secondary btn-sm">
+    <i class="bi bi-file-earmark-pdf" target="_blank" rel="noopener noreferrer" style="font-size: 1rem"></i>
+    pdf
+    </a>
+    <a href="./articles/Ecology_2009_10.1890_08-1073.1/cite.bib" <button="" class="btn btn-secondary btn-sm">
+    <i class="bi bi-blockquote-left" target="_blank" rel="noopener noreferrer" style="font-size: 1rem"></i>
+    bib
+    </a>
+    <a href="http://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&amp;id=19886496&amp;retmode=ref&amp;cmd=prlinks" <button="" class="btn btn-secondary btn-sm">
+    <i class="bi bi-link" target="_blank" rel="noopener noreferrer" style="font-size: 1rem"></i>
+    url
+    </a>
+  </div>
+  <hr width="100%" size="2" color="blue" noshade="">
+  </li>
+  <li data-index="14" data-categories="YmlvZGl2ZXJzaXR5JTIwZWNvc3lzdGVtJTIwZnVuY3Rpb24=" data-listing-date-sort="1167609600000" data-listing-file-modified-sort="1763925594357" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
     <span class="listing-author ">A Randall Hughes, Jarrett E Byrnes, David L Kimbro, John J Stachowicz</span>
     <span class="listing-year">(2007)</span>
     <span class="listing-title fw-bold">Reciprocal relationships and potential feedbacks between biodiversity and disturbance..</span>
@@ -379,7 +695,7 @@ window.Quarto = {
   </div>
   <hr width="100%" size="2" color="blue" noshade="">
   </li>
-  <li data-index="4" data-categories="YmlvZGl2ZXJzaXR5JTIwZWNvc3lzdGVtJTIwZnVuY3Rpb24=" data-listing-date-sort="1136073600000" data-listing-file-modified-sort="1763925578112" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+  <li data-index="15" data-categories="YmlvZGl2ZXJzaXR5JTIwZWNvc3lzdGVtJTIwZnVuY3Rpb24=" data-listing-date-sort="1136073600000" data-listing-file-modified-sort="1763925578112" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
     <span class="listing-author ">Jarrett Byrnes, John J Stachowicz, Kristin M Hultgren, A Randall Hughes, Suzanne V Olyarnik, Carol S Thornber</span>
     <span class="listing-year">(2006)</span>
     <span class="listing-title fw-bold">Predator diversity strengthens trophic cascades in kelp forests by modifying herbivore behaviour..</span>
@@ -401,6 +717,34 @@ window.Quarto = {
     bib
     </a>
     <a href="http://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&amp;id=16958869&amp;retmode=ref&amp;cmd=prlinks" <button="" class="btn btn-secondary btn-sm">
+    <i class="bi bi-link" target="_blank" rel="noopener noreferrer" style="font-size: 1rem"></i>
+    url
+    </a>
+  </div>
+  <hr width="100%" size="2" color="blue" noshade="">
+  </li>
+  <li data-index="16" data-categories="YmlvZGl2ZXJzaXR5JTIwZWNvc3lzdGVtJTIwZnVuY3Rpb24=" data-listing-date-sort="1136073600000" data-listing-file-modified-sort="1766279909526" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+    <span class="listing-author ">John J Stachowicz, Jarrett E Byrnes</span>
+    <span class="listing-year">(2006)</span>
+    <span class="listing-title fw-bold">Species diversity, invasion success, and ecosystem functioning: disentangling the influence of resource competition, facilitation, and extrinsic factors.</span>
+    <span class="listing-publication fst-italic ">Marine Ecology Progress Series.</span>
+  <span class="listing-volume ">311:</span>
+  <span class="listing-pages ">251-262.</span>
+    <br>
+    <div class="d-grid d-md-flex d-small justify-content-md-end">
+    <a href="../publications/articles/Marine Ecology Progress Series_2006_10.3354_meps311251/index.html" <button="" class="btn btn-secondary btn-sm">
+    <i class="bi bi-list-task" target="_blank" rel="noopener noreferrer" style="font-size: 1rem"></i>
+    Abstract &amp; More » 
+    </a>
+    <a href="./articles/Marine Ecology Progress Series_2006_10.3354_meps311251/Stachowicz and Byrnes - 2006 - Species diversity, invasion success, and ecosystem functioning disentangling the influence of resou.pdf" <button="" class="btn btn-secondary btn-sm">
+    <i class="bi bi-file-earmark-pdf" target="_blank" rel="noopener noreferrer" style="font-size: 1rem"></i>
+    pdf
+    </a>
+    <a href="./articles/Marine Ecology Progress Series_2006_10.3354_meps311251/cite.bib" <button="" class="btn btn-secondary btn-sm">
+    <i class="bi bi-blockquote-left" target="_blank" rel="noopener noreferrer" style="font-size: 1rem"></i>
+    bib
+    </a>
+    <a href="NA" <button="" class="btn btn-secondary btn-sm">
     <i class="bi bi-link" target="_blank" rel="noopener noreferrer" style="font-size: 1rem"></i>
     url
     </a>

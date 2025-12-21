@@ -17,4 +17,5 @@ url_code: ""
 url_dataset: ""
 bib: "./articles/Ecology_2013_10.1890_13-0179.1/cite.bib"
 pdf: "./articles/Ecology_2013_10.1890_13-0179.1/Griffin et al. - 2013 - Effects of predator richness on prey suppression a meta-analysis.pdf"
+categories: ["biodiversity ecosystem function"]
 ---

@@ -17,4 +17,5 @@ url_code: ""
 url_dataset: ""
 bib: "./articles/Global Change Biology_2011_10.1111_j.1365-2486.2011.02409.x/cite.bib"
 pdf: "./articles/Global Change Biology_2011_10.1111_j.1365-2486.2011.02409.x/Byrnes et al. - 2011 - Climate driven increases in storm frequency simplify kelp forest food webs.pdf"
+categories: ["global change biology", "kelp forest ecology"]
 ---

@@ -17,4 +17,5 @@ url_code: ""
 url_dataset: ""
 bib: "./articles/Nature_2012_10.1038_nature11118/cite.bib"
 pdf: "./articles/Nature_2012_10.1038_nature11118/Hooper et al. - 2012 - A global synthesis reveals biodiversity loss as a major driver of ecosystem change.pdf"
+categories: ["biodiversity ecosystem function"]
 ---

@@ -17,4 +17,5 @@ url_code: ""
 url_dataset: ""
 bib: "./articles/Ecosphere_2024_10.1002_ecs2.4800/cite.bib"
 pdf: "./articles/Ecosphere_2024_10.1002_ecs2.4800/Byrnes et al. - 2024 - Notes from the past show how local variability can.pdf"
+categories: ["kelp forest ecology", "new england ecology"]
 ---

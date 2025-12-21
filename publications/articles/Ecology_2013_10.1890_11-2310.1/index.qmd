@@ -17,4 +17,5 @@ url_code: ""
 url_dataset: ""
 bib: "./articles/Ecology_2013_10.1890_11-2310.1/cite.bib"
 pdf: "./articles/Ecology_2013_10.1890_11-2310.1/Byrnes et al. - 2013 - Interactions between sea urchin grazing and prey diversity on temperate rocky reef communities.pdf"
+categories: ["kelp forest ecology"]
 ---

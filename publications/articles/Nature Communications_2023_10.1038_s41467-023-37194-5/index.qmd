@@ -17,4 +17,5 @@ url_code: ""
 url_dataset: ""
 bib: "./articles/Nature Communications_2023_10.1038_s41467-023-37194-5/cite.bib"
 pdf: "./articles/Nature Communications_2023_10.1038_s41467-023-37194-5/Dee et al. - 2023 - Clarifying the effect of biodiversity on productiv.pdf"
+categories: ["biodiversity ecosystem function", "causal ecology"]
 ---
