@@ -1,18 +1,19 @@
 [
   {
-    "listing": "/current_members.html",
+    "listing": "/pets.html",
     "items": [
-      "/current_members/jarrett_byrnes.html",
-      "/current_members/breckie_mccollum.html",
-      "/current_members/lexi_wilkes.html",
-      "/current_members/daniel_lopez.html",
-      "/current_members/melba_torres.html",
-      "/current_members/curtis_morris.html",
-      "/current_members/taylor_kielczewski.html",
-      "/current_members/natalie_izbicki.html",
-      "/current_members/josie_wrinkle.html",
-      "/current_members/sarah_beecy.html",
-      "/current_members/sundar_balan.html"
+      "/pets/baby/index.html",
+      "/pets/cleo/index.html",
+      "/pets/girasol/index.html",
+      "/pets/kaylee/index.html",
+      "/pets/medium/index.html",
+      "/pets/mimolette/index.html",
+      "/pets/noorm/index.html",
+      "/pets/pearl/index.html",
+      "/pets/pepita/index.html",
+      "/pets/pepper/index.html",
+      "/pets/pierogi/index.html",
+      "/pets/zola/index.html"
     ]
   },
   {
@@ -60,17 +61,6 @@
       "/lab_alums/tori_silverman.html",
       "/lab_alums/wendi_white.html",
       "/lab_alums/yichi_zhang.html"
-    ]
-  },
-  {
-    "listing": "/research.html",
-    "items": [
-      "/research/coastal_protection_ecology.html",
-      "/research/causal_ecology.html",
-      "/research/new_england_ecology.html",
-      "/research/biodiversity_ecosystem_function.html",
-      "/research/coastal_ecology_at_scale.html",
-      "/research/kelp_forest_ecology.html"
     ]
   },
   {
@@ -147,39 +137,22 @@
     ]
   },
   {
-    "listing": "/pets.html",
-    "items": [
-      "/pets/baby/index.html",
-      "/pets/cleo/index.html",
-      "/pets/girasol/index.html",
-      "/pets/kaylee/index.html",
-      "/pets/medium/index.html",
-      "/pets/mimolette/index.html",
-      "/pets/noorm/index.html",
-      "/pets/pearl/index.html",
-      "/pets/pepita/index.html",
-      "/pets/pepper/index.html",
-      "/pets/pierogi/index.html",
-      "/pets/zola/index.html"
-    ]
-  },
-  {
-    "listing": "/research/causal_ecology.html",
-    "items": [
-      "/publications/articles/Ecology Letters_2025_10.1111_ele.70192/index.html",
-      "/publications/articles/EcoEvoRxiv_2025_67/index.html",
-      "/publications/articles/Ecology Letters_2025_10.1111_ele.70023/index.html",
-      "/publications/articles/Ecology_2024_10.1002_ecy.4334/index.html",
-      "/publications/articles/Ecosphere_2018_10.1002_ecs2.2283/index.html"
-    ]
-  },
-  {
-    "listing": "/code_data.html",
-    "items": []
-  },
-  {
     "listing": "/teaching.html",
     "items": []
+  },
+  {
+    "listing": "/research/coastal_ecology_at_scale.html",
+    "items": [
+      "/publications/articles/Marine Policy_2026_10.1016_j.marpol.2025.106922/index.html",
+      "/publications/articles/Annual Review of Marine Science_2025_10.1146_annurev-marine-040523-020221/index.html",
+      "/publications/articles/Science_2019_10.1126_science.aaw1620/index.html",
+      "/publications/articles/Frontiers in Marine Science_2019_10.3389_fmars.2019.00317/index.html",
+      "/publications/articles/bioRxiv_2017_10.1101_162362/index.html",
+      "/publications/articles/Ecology_2016_10.1890_15-1759.1/index.html",
+      "/publications/articles/Proceedings of the National Academy of Sciences_2016_10.1073_pnas.1606102113/index.html",
+      "/publications/articles/Global Change Biology_2011_10.1111_j.1365-2486.2011.02409.x/index.html",
+      "/publications/articles/PloS one_2007_10.1371_journal.pone.0000295/index.html"
+    ]
   },
   {
     "listing": "/research/new_england_ecology.html",
@@ -198,6 +171,16 @@
     "items": [
       "/publications/articles/Climatic Change_2020_10.1007_s10584-020-02781-8/index.html",
       "/publications/articles/NA_2018_30/index.html"
+    ]
+  },
+  {
+    "listing": "/research/causal_ecology.html",
+    "items": [
+      "/publications/articles/Ecology Letters_2025_10.1111_ele.70192/index.html",
+      "/publications/articles/EcoEvoRxiv_2025_67/index.html",
+      "/publications/articles/Ecology Letters_2025_10.1111_ele.70023/index.html",
+      "/publications/articles/Ecology_2024_10.1002_ecy.4334/index.html",
+      "/publications/articles/Ecosphere_2018_10.1002_ecs2.2283/index.html"
     ]
   },
   {
@@ -223,20 +206,6 @@
     ]
   },
   {
-    "listing": "/research/coastal_ecology_at_scale.html",
-    "items": [
-      "/publications/articles/Marine Policy_2026_10.1016_j.marpol.2025.106922/index.html",
-      "/publications/articles/Annual Review of Marine Science_2025_10.1146_annurev-marine-040523-020221/index.html",
-      "/publications/articles/Science_2019_10.1126_science.aaw1620/index.html",
-      "/publications/articles/Frontiers in Marine Science_2019_10.3389_fmars.2019.00317/index.html",
-      "/publications/articles/bioRxiv_2017_10.1101_162362/index.html",
-      "/publications/articles/Ecology_2016_10.1890_15-1759.1/index.html",
-      "/publications/articles/Proceedings of the National Academy of Sciences_2016_10.1073_pnas.1606102113/index.html",
-      "/publications/articles/Global Change Biology_2011_10.1111_j.1365-2486.2011.02409.x/index.html",
-      "/publications/articles/PloS one_2007_10.1371_journal.pone.0000295/index.html"
-    ]
-  },
-  {
     "listing": "/research/kelp_forest_ecology.html",
     "items": [
       "/publications/articles/Ecology and Evolution_2025_10.1002_ece3.71459/index.html",
@@ -252,6 +221,37 @@
       "/publications/articles/Ecology_2013_10.1890_11-2310.1/index.html",
       "/publications/articles/PeerJ PrePrints_2013_10.7287_peerj.preprints.174v1/index.html",
       "/publications/articles/Global Change Biology_2011_10.1111_j.1365-2486.2011.02409.x/index.html"
+    ]
+  },
+  {
+    "listing": "/research.html",
+    "items": [
+      "/research/coastal_protection_ecology.html",
+      "/research/causal_ecology.html",
+      "/research/new_england_ecology.html",
+      "/research/biodiversity_ecosystem_function.html",
+      "/research/coastal_ecology_at_scale.html",
+      "/research/kelp_forest_ecology.html"
+    ]
+  },
+  {
+    "listing": "/code_data.html",
+    "items": []
+  },
+  {
+    "listing": "/current_members.html",
+    "items": [
+      "/current_members/jarrett_byrnes.html",
+      "/current_members/breckie_mccollum.html",
+      "/current_members/lexi_wilkes.html",
+      "/current_members/daniel_lopez.html",
+      "/current_members/melba_torres.html",
+      "/current_members/curtis_morris.html",
+      "/current_members/taylor_kielczewski.html",
+      "/current_members/natalie_izbicki.html",
+      "/current_members/josie_wrinkle.html",
+      "/current_members/sarah_beecy.html",
+      "/current_members/sundar_balan.html"
     ]
   }
 ]

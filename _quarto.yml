@@ -33,7 +33,11 @@ website:
         text: For Undergraduates
     right:
       - text: "{{< fa brands github >}}"
-        href: https://github.com/jebyrnes
+        menu:
+          - href: https://github.com/jebyrnes
+            text: Jarrett Byrnes
+          - href: http://githib.com/byrneslab
+            text: celp-lab github
       - text: "{{< fa brands bluesky >}}"
         href: https://bsky.app/profile/jebyrnes.bsky.social/lists/3laooalcpjz2c
       - text: "{{<fa brands flickr>}}"
