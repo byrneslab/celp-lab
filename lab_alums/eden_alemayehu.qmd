@@ -1,0 +1,11 @@
+---
+title: "Eden Alemayehu"
+image: '/images/students/Eden_Alemayehu.jpg'
+date: "2019-03-20"
+categories:
+    - Undergrad
+    - Tech
+include-in-header: 
+      text: |
+        <meta http-equiv="refresh" content="0; url=https://www.linkedin.com/in/edualemayehu/">
+---
