@@ -1,0 +1,14 @@
+---
+title: "Destiny Ruiz Sanchez"
+date: "2026-04-01"
+date-format: " "
+image: "/images/students/destiny_ruiz_sanchez.jpg"
+object-position: bottom
+categories:
+  - Undergrad
+include-in-header: 
+      text: |
+        <meta http-equiv="refresh" content="0; url=https://www.linkedin.com/in/destinyroxette">
+---
+
+Linkedin is [here](https://www.linkedin.com/in/destinyroxette)  
