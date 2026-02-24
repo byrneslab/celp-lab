@@ -28,3 +28,10 @@ source("publications/_scripts/bibtex_2_website_qmds.R")
 #     overwrite = FALSE
 # )
 
+# bibtex_2_website_qmds(
+#     bibfile = "publications/_zotero_outputs/correia_2026/correia_2026.bib",
+#     pdf_files_folder_location = "publications/_zotero_outputs/correia_2026/files",
+#     outfold = "publications/articles/",
+#     overwrite = FALSE
+# )
+

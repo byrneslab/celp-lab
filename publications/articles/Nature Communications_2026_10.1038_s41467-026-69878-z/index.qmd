@@ -1,0 +1,23 @@
+---
+title: "Best practices for moving from correlation to causation in ecological research"
+date: "2026"
+year: "2026"
+author: ["Hannah E. Correia", "Laura E. Dee", "Jarrett E. K. Byrnes", "John R. Fieberg", "Marie-Josee Fortin", "Clark Glymour", "Jakob Runge", "Bill Shipley", "Ilya Shpitser", "Katherine J. Siegel", "George Sugihara", "Betsy von Holle", "Paul J. Ferraro"]
+publication: "Nature Communications"
+volume: "17"
+number: "1"
+pages: "1981"
+doi: "10.1038/s41467-026-69878-z"
+abstract: "In ecology, causal questions are ubiquitous, yet the literature describing systematic approaches to answering these questions is vast and fragmented across different traditions (e.g., randomization, structural equation modeling, convergent cross mapping). In our Perspective, we connect the causal assumptions, tasks, frameworks, and methods across these traditions, thereby providing a synthesis of the concepts and methodological advances for detecting and quantifying causal relationships in ecological systems. Through a newly developed workflow, we emphasize how ecologists’ choices among empirical approaches are guided by the pre-existing knowledge that ecologists have and the causal assumptions that ecologists are willing to make."
+keywords: "ecology, causal inference"
+url: "https://www.nature.com/articles/s41467-026-69878-z"
+image: fig3.jpeg    
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: "./articles/Nature Communications_2026_10.1038_s41467-026-69878-z/cite.bib"
+pdf: "./articles/Nature Communications_2026_10.1038_s41467-026-69878-z/Correia et al. - 2026 - Best practices for moving from correlation to causation in ecological research.pdf"
+categories: ["causal inference"]
+---
+
+![](fig3.jpeg)
