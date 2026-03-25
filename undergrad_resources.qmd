@@ -10,6 +10,7 @@ Interested in joining our lab as an undergrad at UMass Boston? Drop [Jarrett an 
 <p>So, you're graduating with a biology or environmental science or marine bio degree! Hurray! You've finished your stint at college, and you've gained a lot of new skills. Maybe you've done some time in research, maybe not (!!!), but now that you've wrapped up, you want to find a job in the environmental sciences. Something that will give you research experience, and help you on your way to either a career or deciding whether you want to go into research.</p>
 <p>OK, where do you go now?</p>
 <p>Here are some compiled resources. Feel free to <a href="mailto:jarrett.byrnes@umb.edu">contact us</a> with more.</p>
+
 <p><b>General</b></p>
 <ul>
 <li>Sign up for the Ecological Society of America's <a href="http://community.esa.org/group.htm?mode=home&amp;igid=35455">mailing list</a>. Lots of opportunities flow through there.</li>
@@ -26,7 +27,9 @@ Interested in joining our lab as an undergrad at UMass Boston? Drop [Jarrett an 
 <li>If you're interested in education, museums, and wildlife, the <a href="http://www.aza.org/JobListings/">Association of Zoos and Aquariums</a> has a wide variety of opportunities.</li>
 <li>If you are a Scientific Diver, see the <a href="https://www.aaus.org/AAUS/Members/JobBoard/AAUS/Job_Posting/MemberJob_Opportunities.aspx">American Academy of Underwater Scientists Job Board.</a></li>
 <li>And last, for a ton of additional information for postgrad and beyond, <a href="http://www.des.ucdavis.edu/faculty/baskett/links/academia.html">Marissa Baskett</a> maintains a superb website. It's a bit beyond the scope of what we're talking about here, and just academia focused, but it provides a great jumping off point.</li>
+<li>Check out the <a href="https://www.conservationjobboard.com/">Conservation Job Board</a> - always a lot of opportunities.</li>
 </ul>
+
 <p><b>Within Massachusetts and New England</b></p>
 <ul>
 <li>The <a href="https://groups.google.com/g/ne_marine_sci_opportunities/">New England Marine Science Opportunities listserv</a> has a variety of jobs across the area posted every year.</li>
