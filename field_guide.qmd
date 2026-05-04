@@ -1,0 +1,5 @@
+---
+title: "Field Guide"
+include-in-header: 
+  text: '<meta http-equiv="refresh" content="0; url=https://celp-lab.github.io/species_lists/">'
+---
