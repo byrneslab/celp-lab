@@ -1,0 +1,20 @@
+---
+title: "Direct and indirect effects of disturbance on net primary production in giant kelp forests"
+date: "2026"
+year: "2026"
+author: ["Billie A. Beckley", "Andrew Rassweiler", "Max C. N. Castorani", "Jarrett E. K. Byrnes", "Daniel C. Reed", "Robert J. Miller"]
+publication: "Ecology"
+volume: "107"
+number: "5"
+pages: "e70393"
+doi: "10.1002/ecy.70393"
+abstract: "Disturbances can strongly impact the biomass, abundance, and size and age structure of plant populations, with cascading consequences for net primary production (NPP). Studies investigating sources of interannual variation in annual NPP have largely focused on how interannual fluctuations in resources control plant growth throughout the year, without considering the extent to which interannual fluctuations in disturbance impact the production potential of the system. To address this gap, we evaluated how interannual variation in disturbance affects annual NPP via its three constituent parts, initial production potential, recruitment, and growth in southern California (USA) kelp forests, which are among the world's most productive ecosystems. We estimated mass-specific growth rates and NPP of giant kelp (Macrocystis pyrifera) from a model of biomass dynamics developed from monthly field measurements at three sites over a 20-year period. We discovered that initial production potential (i.e., foliar standing biomass at the start of the growing season) and recruitment of new plants accounted for 46% and 26% of the observed variation in annual NPP, respectively. By contrast, the annual growth rate of giant kelp, which averaged 2%–6% day−1, did not explain significant variation in annual NPP despite substantial interannual variation in environmental conditions (e.g., temperature) and nutrient availability during the study period. A piecewise structural equation model explained 82% of the variation in annual NPP and revealed how disturbance from winter waves and sand burial of reef substrate indirectly influenced NPP via their direct and indirect effects on initial production potential and recruitment. Our results highlight the critical but understudied role of disturbance in altering production potential and recruitment to control ecosystem productivity, and the importance of long-term studies in gaining a mechanistic understanding of these processes under intensifying disturbance regimes."
+keywords: "kelp forest, biomass, disturbance, recruitment, growth, resources, giant kelp Macrocystis pyrifera, net primary production, sand, sea urchin grazing, shading"
+url: "https://onlinelibrary.wiley.com/doi/abs/10.1002/ecy.70393"
+image: featured.png    
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: "./articles/Ecology_2026_10.1002_ecy.70393/cite.bib"
+pdf: "./articles/Ecology_2026_10.1002_ecy.70393/Beckley et al. - 2026 - Direct and indirect effects of disturbance on net primary production in giant kelp forests.pdf"
+---

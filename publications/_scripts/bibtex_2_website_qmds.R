@@ -235,7 +235,7 @@ create_qmd <- function(x,
   # file.copy was being weird so I just went with cp and its overwrite option
   # -n for do not overwrite
   ov <- ""
-  if(!overwrite) ov <- "-n"
+  #if(!overwrite) ov <- "-n" # HRM - misbehaving - figure out why
   system(glue("cp '{pdf_files_folder_location}/{x$file}' '{outfold}/{x$foldername}/' {ov}"))
   #file.copy(glue("'{pdf_files_folder_location}/{x$file}'"), glue("{outfold}/{x$foldername}/"),
   #          overwrite = overwrite)
