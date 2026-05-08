@@ -1,0 +1,13 @@
+---
+title: "Clare Dana"
+image: "/images/students/clare_dana.jpeg"
+date: "2024-01-01"
+categories:
+  - Tech
+---
+![](/images/students/clare_dana.jpeg)
+
+Clare Dana is a summer tech in the CELP Lab and a Master's student at UMASS Boston's School for the Environment, working under the guidance of Dr. Katherine Dafforn with the Stone Living Lab. She is interested in studying the larval distribution and recruitment of oysters around Boston Harbor in hopes of providing data that will aid in future oyster restoration around the harbor. Clare received a B.S. in marine science and environmental studies through Stony Brook University.
+
+For more info about Clare, [see here](https://www.linkedin.com/in/clare-dana)
+
