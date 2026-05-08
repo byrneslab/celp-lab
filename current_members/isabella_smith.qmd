@@ -1,0 +1,11 @@
+---
+title: "Isabella Smith"
+image: '/images/students/isabella_smith.jpeg'
+date: "2025-09-03"
+categories:
+    - Tech
+    - Undergrad
+include-in-header: 
+      text: |
+        <meta http-equiv="refresh" content="0; url=https://www.linkedin.com/in/isabella-smith-892300280/">
+---
