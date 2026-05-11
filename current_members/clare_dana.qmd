@@ -1,7 +1,7 @@
 ---
 title: "Clare Dana"
 image: "/images/students/clare_dana.jpeg"
-date: "2024-01-01"
+date: "2026-05-08"
 categories:
   - Tech
 ---

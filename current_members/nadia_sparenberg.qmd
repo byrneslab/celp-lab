@@ -1,0 +1,19 @@
+---
+title: "Nadia Sparenberg"
+date: "2024-01-10"
+image: "/images/students/nadia_sparenberg.jpg"
+date-format: " "
+categories:
+  - PhD Student
+---
+
+
+
+![](/images/students/nadia_tank_cleanup.jpg){width="70%"}  
+
+
+Email: [Nadia.Sparenberg001@umb.edu](mailto:Nadia.Sparenberg001@umb.edu)
+  
+  
+I am a first year PhD Student in the Byrnes Lab with an interest in studying shifting community structure in urban environments.
+
