@@ -1,0 +1,10 @@
+---
+title: "Carly Buck"
+image: '/images/students/carly_buck.jpeg'
+date: "2024-03-20"
+categories:
+    - Tech
+include-in-header: 
+      text: |
+        <meta http-equiv="refresh" content="0; url=https://www.linkedin.com/in/carly-buck-2142722b5">
+---
