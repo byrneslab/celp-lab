@@ -1,0 +1,20 @@
+---
+title: "A climate services organization supporting coastal resilience: lessons from the Stone Living Lab"
+date: "2026"
+year: "2026"
+author: ["K. A. Dafforn", "M. Borrelli", "K. Bosma", "J. E. K. Byrnes", "L. Castro-Diaz", "R. F. Chen", "J. Christo", "D. Cook", "F. Peri", "R. Shoer", "M. Albert", "K. Bradley", "L. Firth", "D. Kent", "J. Knisel", "D. Lopez", "C. R. Morris", "A. Novelly", "L. Nurse", "C. Osgood", "S. Plesset", "E. Solomon", "C. Thornber", "M. Torres Sosa", "E. Zlevor", "P. Kirshen"]
+publication: "Climatic Change"
+volume: "179"
+number: "7"
+pages: "150"
+doi: "10.1007/s10584-026-04243-z"
+abstract: "There is a growing recognition that effective climate adaptation requires organizations that can translate science into policy-relevant, place-based implementation. The Stone Living Lab (SLL) was established as a climate services organization to help bridge the gap between climate adaptation research and real-world application. In this paper, we present the Lab as a model for how universities and NGOs can partner with government agencies, Indigenous groups, and local communities to strengthen coastal resilience, highlighting the structures, guiding principles and lessons learned over the last five years. Four guiding principles shape and distinguish the Lab’s approach, extending beyond the traditional focus on science and engineering research to also include climate preparedness, education and outreach and policy engagement. These principles continue to evolve in response to experience, particularly in navigating complex partnerships and engaging with stakeholder networks, which require sustained coordination, clear communication, and intentional alignment of roles, expectations, and timelines. Other lessons highlight the importance of visible, place-based solutions, knowledge sharing and maintaining a clear mission focus while balancing short-term outcomes with long-term resilience goals. Our aim here is to provide practical insights for researchers, practitioners and managers seeking to design or strengthen similar climate services organizations."
+keywords: "Boundary organization, Climate change adaptation, Coastal resilience, Living lab, Nature-based approaches, Translational science"
+url: "https://doi.org/10.1007/s10584-026-04243-z"
+image: featured.png    
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: "./articles/Climatic Change_2026_10.1007_s10584-026-04243-z/cite.bib"
+pdf: "./articles/Climatic Change_2026_10.1007_s10584-026-04243-z/Dafforn et al. - 2026 - A climate services organization supporting coastal resilience lessons from the Stone Living Lab.pdf"
+---
