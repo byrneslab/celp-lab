@@ -1,0 +1,10 @@
+---
+title: "Annika Morse"
+image: '/images/students/annika_morse.jpg'
+date: "2024-03-20"
+categories:
+    - Tech
+include-in-header: 
+      text: |
+        <meta http-equiv="refresh" content="0; url=https://www.linkedin.com/in/annika-morse-7b1119347/">
+---
