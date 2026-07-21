@@ -17,56 +17,30 @@
     ]
   },
   {
-    "listing": "/lab_alums.html",
+    "listing": "/current_members.html",
     "items": [
-      "/lab_alums/alannah_dodd.html",
-      "/lab_alums/alex_marston.html",
-      "/lab_alums/alex_walus.html",
-      "/lab_alums/alison_haupt.html",
-      "/lab_alums/amy_jones.html",
-      "/lab_alums/andrew_natter.html",
-      "/lab_alums/bradlie_morgan.html",
-      "/lab_alums/breckie_mccollum.html",
-      "/lab_alums/brianna_shaughnessy.html",
-      "/lab_alums/callie_herschfield.html",
-      "/lab_alums/christian_alsterberg.html",
-      "/lab_alums/chena_farhat.html",
-      "/lab_alums/eden_alemayehu.html",
-      "/lab_alums/ella_watson.html",
-      "/lab_alums/emily_bucari.html",
-      "/lab_alums/farah_ahmad.html",
-      "/lab_alums/felicia_horton.html",
-      "/lab_alums/gwendolyn_heller.html",
-      "/lab_alums/hudson_filas.html",
-      "/lab_alums/ingrid_comella.html",
-      "/lab_alums/isaac_rosenthal.html",
-      "/lab_alums/jillian_dunic.html",
-      "/lab_alums/jillian_hubbard.html",
-      "/lab_alums/laura_dissly.html",
-      "/lab_alums/liana_greenberg-nielsen.html",
-      "/lab_alums/libby_menders.html",
-      "/lab_alums/lily_knudsen.html",
-      "/lab_alums/linnea_sturdy.html",
-      "/lab_alums/lucy_lockwood.html",
-      "/lab_alums/madison_lin.html",
-      "/lab_alums/marcia_campbell.html",
-      "/lab_alums/matt_souza.html",
-      "/lab_alums/melody_rose.html",
-      "/lab_alums/meredith_mcpherson.html",
-      "/lab_alums/michael_moscote.html",
-      "/lab_alums/michael_roy.html",
-      "/lab_alums/nelson_nease.html",
-      "/lab_alums/nour_taibidi.html",
-      "/lab_alums/richard_wong.html",
-      "/lab_alums/rose_serra.html",
-      "/lab_alums/sarah_strohacker.html",
-      "/lab_alums/sofia_roitman.html",
-      "/lab_alums/taylor_kielczewski.html",
-      "/lab_alums/ted_lyman.html",
-      "/lab_alums/tori_silverman.html",
-      "/lab_alums/wendi_white.html",
-      "/lab_alums/yichi_zhang.html"
+      "/current_members/jarrett_byrnes.html",
+      "/current_members/lexi_wilkes.html",
+      "/current_members/daniel_lopez.html",
+      "/current_members/melba_torres.html",
+      "/current_members/curtis_morris.html",
+      "/current_members/nadia_sparenberg.html",
+      "/current_members/carly_buck.html",
+      "/current_members/ella_watson.html",
+      "/current_members/annika_morse.html",
+      "/current_members/natalie_izbicki.html",
+      "/current_members/josie_wrinkle.html",
+      "/current_members/sarah_beecy.html",
+      "/current_members/marcia_campbell.html",
+      "/current_members/sundar_balan.html",
+      "/current_members/isabella_smith.html",
+      "/current_members/destiny_ruiz_sanchez.html",
+      "/current_members/clare_dana.html"
     ]
+  },
+  {
+    "listing": "/code_data.html",
+    "items": []
   },
   {
     "listing": "/publications/index.html",
@@ -145,51 +119,32 @@
     ]
   },
   {
-    "listing": "/teaching.html",
-    "items": []
-  },
-  {
-    "listing": "/research/coastal_ecology_at_scale.html",
+    "listing": "/research.html",
     "items": [
-      "/publications/articles/Marine Policy_2026_10.1016_j.marpol.2025.106922/index.html",
-      "/publications/articles/Annual Review of Marine Science_2025_10.1146_annurev-marine-040523-020221/index.html",
-      "/publications/articles/Science_2019_10.1126_science.aaw1620/index.html",
-      "/publications/articles/Frontiers in Marine Science_2019_10.3389_fmars.2019.00317/index.html",
-      "/publications/articles/bioRxiv_2017_10.1101_162362/index.html",
-      "/publications/articles/Ecology_2016_10.1890_15-1759.1/index.html",
-      "/publications/articles/Proceedings of the National Academy of Sciences_2016_10.1073_pnas.1606102113/index.html",
-      "/publications/articles/Global Change Biology_2011_10.1111_j.1365-2486.2011.02409.x/index.html",
-      "/publications/articles/PloS one_2007_10.1371_journal.pone.0000295/index.html"
+      "/research/coastal_protection_ecology.html",
+      "/research/causal_ecology.html",
+      "/research/new_england_ecology.html",
+      "/research/biodiversity_ecosystem_function.html",
+      "/research/coastal_ecology_at_scale.html",
+      "/research/kelp_forest_ecology.html"
     ]
   },
   {
-    "listing": "/research/new_england_ecology.html",
+    "listing": "/research/kelp_forest_ecology.html",
     "items": [
+      "/publications/articles/Ecology and Evolution_2025_10.1002_ece3.71459/index.html",
+      "/publications/articles/Ecology_2025_10.1002_ecy.70007/index.html",
       "/publications/articles/Ecosphere_2024_10.1002_ecs2.4800/index.html",
       "/publications/articles/Ecology_2024_10.1002_ecy.4334/index.html",
       "/publications/articles/Scientific Reports_2023_10.1038_s41598-023-44685-4/index.html",
-      "/publications/articles/Sustainability Science_2023_10.1007_s11625-023-01414-0/index.html",
-      "/publications/articles/EcoEvoRxiv_2022_13/index.html",
-      "/publications/articles/Marine Ecology Progress Series_2021_10.3354_meps13811/index.html",
-      "/publications/articles/Journal of Experimental Marine Biology and Ecology_2003_10.1016_S0022-0981(03)00166-7/index.html"
-    ]
-  },
-  {
-    "listing": "/research/coastal_protection_ecology.html",
-    "items": [
-      "/publications/articles/Climatic Change_2020_10.1007_s10584-020-02781-8/index.html",
-      "/publications/articles/NA_2018_30/index.html"
-    ]
-  },
-  {
-    "listing": "/research/causal_ecology.html",
-    "items": [
-      "/publications/articles/Nature Communications_2026_10.1038_s41467-026-69878-z/index.html",
-      "/publications/articles/Ecology Letters_2025_10.1111_ele.70192/index.html",
-      "/publications/articles/EcoEvoRxiv_2025_67/index.html",
-      "/publications/articles/Ecology Letters_2025_10.1111_ele.70023/index.html",
-      "/publications/articles/Ecology_2024_10.1002_ecy.4334/index.html",
-      "/publications/articles/Ecosphere_2018_10.1002_ecs2.2283/index.html"
+      "/publications/articles/Nature Communications_2023_10.1038_s41467-023-37385-0/index.html",
+      "/publications/articles/PLOS Biology_2022_10.1371_journal.pbio.3001702/index.html",
+      "/publications/articles/arXiv_1801.08522_2018_20/index.html",
+      "/publications/articles/Proceedings of the National Academy of Sciences_2016_10.1073_pnas.1606102113/index.html",
+      "/publications/articles/PeerJ_2015_10.7717_peerj.719/index.html",
+      "/publications/articles/Ecology_2013_10.1890_11-2310.1/index.html",
+      "/publications/articles/PeerJ PrePrints_2013_10.7287_peerj.preprints.174v1/index.html",
+      "/publications/articles/Global Change Biology_2011_10.1111_j.1365-2486.2011.02409.x/index.html"
     ]
   },
   {
@@ -215,58 +170,101 @@
     ]
   },
   {
-    "listing": "/research/kelp_forest_ecology.html",
+    "listing": "/research/causal_ecology.html",
     "items": [
-      "/publications/articles/Ecology and Evolution_2025_10.1002_ece3.71459/index.html",
-      "/publications/articles/Ecology_2025_10.1002_ecy.70007/index.html",
+      "/publications/articles/Nature Communications_2026_10.1038_s41467-026-69878-z/index.html",
+      "/publications/articles/Ecology Letters_2025_10.1111_ele.70192/index.html",
+      "/publications/articles/EcoEvoRxiv_2025_67/index.html",
+      "/publications/articles/Ecology Letters_2025_10.1111_ele.70023/index.html",
+      "/publications/articles/Ecology_2024_10.1002_ecy.4334/index.html",
+      "/publications/articles/Ecosphere_2018_10.1002_ecs2.2283/index.html"
+    ]
+  },
+  {
+    "listing": "/research/coastal_protection_ecology.html",
+    "items": [
+      "/publications/articles/Climatic Change_2020_10.1007_s10584-020-02781-8/index.html",
+      "/publications/articles/NA_2018_30/index.html"
+    ]
+  },
+  {
+    "listing": "/research/new_england_ecology.html",
+    "items": [
       "/publications/articles/Ecosphere_2024_10.1002_ecs2.4800/index.html",
       "/publications/articles/Ecology_2024_10.1002_ecy.4334/index.html",
       "/publications/articles/Scientific Reports_2023_10.1038_s41598-023-44685-4/index.html",
-      "/publications/articles/Nature Communications_2023_10.1038_s41467-023-37385-0/index.html",
-      "/publications/articles/PLOS Biology_2022_10.1371_journal.pbio.3001702/index.html",
-      "/publications/articles/arXiv_1801.08522_2018_20/index.html",
-      "/publications/articles/Proceedings of the National Academy of Sciences_2016_10.1073_pnas.1606102113/index.html",
-      "/publications/articles/PeerJ_2015_10.7717_peerj.719/index.html",
-      "/publications/articles/Ecology_2013_10.1890_11-2310.1/index.html",
-      "/publications/articles/PeerJ PrePrints_2013_10.7287_peerj.preprints.174v1/index.html",
-      "/publications/articles/Global Change Biology_2011_10.1111_j.1365-2486.2011.02409.x/index.html"
+      "/publications/articles/Sustainability Science_2023_10.1007_s11625-023-01414-0/index.html",
+      "/publications/articles/EcoEvoRxiv_2022_13/index.html",
+      "/publications/articles/Marine Ecology Progress Series_2021_10.3354_meps13811/index.html",
+      "/publications/articles/Journal of Experimental Marine Biology and Ecology_2003_10.1016_S0022-0981(03)00166-7/index.html"
     ]
   },
   {
-    "listing": "/research.html",
+    "listing": "/research/coastal_ecology_at_scale.html",
     "items": [
-      "/research/coastal_protection_ecology.html",
-      "/research/causal_ecology.html",
-      "/research/new_england_ecology.html",
-      "/research/biodiversity_ecosystem_function.html",
-      "/research/coastal_ecology_at_scale.html",
-      "/research/kelp_forest_ecology.html"
+      "/publications/articles/Marine Policy_2026_10.1016_j.marpol.2025.106922/index.html",
+      "/publications/articles/Annual Review of Marine Science_2025_10.1146_annurev-marine-040523-020221/index.html",
+      "/publications/articles/Science_2019_10.1126_science.aaw1620/index.html",
+      "/publications/articles/Frontiers in Marine Science_2019_10.3389_fmars.2019.00317/index.html",
+      "/publications/articles/bioRxiv_2017_10.1101_162362/index.html",
+      "/publications/articles/Ecology_2016_10.1890_15-1759.1/index.html",
+      "/publications/articles/Proceedings of the National Academy of Sciences_2016_10.1073_pnas.1606102113/index.html",
+      "/publications/articles/Global Change Biology_2011_10.1111_j.1365-2486.2011.02409.x/index.html",
+      "/publications/articles/PloS one_2007_10.1371_journal.pone.0000295/index.html"
     ]
   },
   {
-    "listing": "/code_data.html",
+    "listing": "/teaching.html",
     "items": []
   },
   {
-    "listing": "/current_members.html",
+    "listing": "/lab_alums.html",
     "items": [
-      "/current_members/jarrett_byrnes.html",
-      "/current_members/lexi_wilkes.html",
-      "/current_members/daniel_lopez.html",
-      "/current_members/melba_torres.html",
-      "/current_members/curtis_morris.html",
-      "/current_members/nadia_sparenberg.html",
-      "/current_members/carly_buck.html",
-      "/current_members/ella_watson.html",
-      "/current_members/annika_morse.html",
-      "/current_members/natalie_izbicki.html",
-      "/current_members/josie_wrinkle.html",
-      "/current_members/sarah_beecy.html",
-      "/current_members/marcia_campbell.html",
-      "/current_members/sundar_balan.html",
-      "/current_members/isabella_smith.html",
-      "/current_members/destiny_ruiz_sanchez.html",
-      "/current_members/clare_dana.html"
+      "/lab_alums/alannah_dodd.html",
+      "/lab_alums/alex_marston.html",
+      "/lab_alums/alex_walus.html",
+      "/lab_alums/alison_haupt.html",
+      "/lab_alums/amy_jones.html",
+      "/lab_alums/andrew_natter.html",
+      "/lab_alums/bradlie_morgan.html",
+      "/lab_alums/breckie_mccollum.html",
+      "/lab_alums/brianna_shaughnessy.html",
+      "/lab_alums/callie_herschfield.html",
+      "/lab_alums/christian_alsterberg.html",
+      "/lab_alums/chena_farhat.html",
+      "/lab_alums/eden_alemayehu.html",
+      "/lab_alums/emily_bucari.html",
+      "/lab_alums/farah_ahmad.html",
+      "/lab_alums/felicia_horton.html",
+      "/lab_alums/gwendolyn_heller.html",
+      "/lab_alums/hudson_filas.html",
+      "/lab_alums/ingrid_comella.html",
+      "/lab_alums/isaac_rosenthal.html",
+      "/lab_alums/jillian_dunic.html",
+      "/lab_alums/jillian_hubbard.html",
+      "/lab_alums/laura_dissly.html",
+      "/lab_alums/liana_greenberg-nielsen.html",
+      "/lab_alums/libby_menders.html",
+      "/lab_alums/lily_knudsen.html",
+      "/lab_alums/linnea_sturdy.html",
+      "/lab_alums/lucy_lockwood.html",
+      "/lab_alums/madison_lin.html",
+      "/lab_alums/matt_souza.html",
+      "/lab_alums/melody_rose.html",
+      "/lab_alums/meredith_mcpherson.html",
+      "/lab_alums/michael_moscote.html",
+      "/lab_alums/michael_roy.html",
+      "/lab_alums/nelson_nease.html",
+      "/lab_alums/nour_taibidi.html",
+      "/lab_alums/richard_wong.html",
+      "/lab_alums/rose_serra.html",
+      "/lab_alums/sarah_strohacker.html",
+      "/lab_alums/sofia_roitman.html",
+      "/lab_alums/taylor_kielczewski.html",
+      "/lab_alums/ted_lyman.html",
+      "/lab_alums/tori_silverman.html",
+      "/lab_alums/wendi_white.html",
+      "/lab_alums/yichi_zhang.html"
     ]
   }
 ]

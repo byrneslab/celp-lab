@@ -31,6 +31,8 @@ website:
         text: Prospective Students
       - href: undergrad_resources.qmd
         text: For Undergraduates
+      - href: https://celp-lab.github.io/lab-manual/
+        text: Lab Manual
     right:
       - text: "{{< fa brands github >}}"
         menu:
