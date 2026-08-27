@@ -93,6 +93,8 @@ if(is.null(mypubs$date)) mypubs$date <- mypubs$year
 
 # if there is no journaltitle, make it journal
 if(is.null(mypubs$journaltitle)) mypubs$journaltitle <- mypubs$journal
+if(is.null(mypubs$volume)) mypubs$volume <- ""
+if(is.null(mypubs$pages)) mypubs$pages <- ""
 
 mypubs <- mypubs |>
   # create a year field

@@ -1,0 +1,26 @@
+---
+title: "Comparative Assessment of Deep Learning Architectures for Underwater Subsurface Kelp Forest Segmentation with The Kelp-o-Tron"
+date: "2026"
+year: "2026"
+author: ["Sundarabalan Balasubramanian", "Cesar Borja", "Ana C. Murillo", "Lexi N. Wilkes", "Meredith L. McPherson", "Kira A. Krumhansl", "Jennifer A. Dijkstra", "Jarrett E. K. Byrnes"]
+publication: "arXiv"
+volume: ""
+number: "NA"
+pages: ""
+doi: "10.48550/arXiv.2608.24594"
+abstract: "Submerged kelp forests are vital coastal ecosystems that support marine biodiversity and ecosystem dynamics, yet accurate underwater kelp segmentation remains challenging due to optical degradation, illumination variability, turbidity, overlapping vegetation, and complex benthic backgrounds. We systematically evaluated three deep learning semantic segmentation frameworks, ResNet34-U-Net, ResNet50-DeepLabV3, and a hybrid ResNet50-ASPP-Transformer architecture, for kelp detection using high-resolution underwater RGB imagery collected from northeastern U.S. coastal waters. A dataset of 3,395 SSeg assisted annotated image-mask pairs was developed for model training and validation, while geographically independent sites were used for quantitative and qualitative evaluation. All models used consistent preprocessing, augmentation, and evaluation protocols. On independent test data, ResNet50-DeepLabV3 achieved the highest Dice (0.7120) and Intersection over Union (IoU; 0.6267), followed by ResNet34 U Net (Dice 0.6868; IoU 0.5978). The hybrid ASPP Transformer achieved the highest pixel accuracy (0.8528) but lower Dice (0.6437) and IoU (0.5746). External qualitative evaluation further showed that DeepLabV3 produced more consistent segmentation across varying environmental conditions, image qualities, and benthic habitats. Overall, ResNet50-DeepLabV3, termed Kelp-O-Tron, provided the best balance of segmentation accuracy, robustness, and generalization. The dataset, annotation workflow, and comparative evaluation provide resources for advancing automated underwater habitat mapping and ecological monitoring."
+keywords: "Computer Science - Computer Vision and Pattern Recognition"
+url: "http://arxiv.org/abs/2608.24594"
+image: featured.png    
+url_preprint: "http://arxiv.org/abs/2608.24594"
+url_code: "https://github.com/Sundarabalan/KelpSegModels"
+url_dataset: ""
+bib: "./articles/arXiv_2026_10.48550_arXiv.2608.24594/cite.bib"
+pdf: "./articles/arXiv_2026_10.48550_arXiv.2608.24594/Balasubramanian et al. - 2026 - Comparative Assessment of Deep Learning Architectures for Underwater Subsurface Kelp Forest Segmenta.pdf"
+---
+
+![Representative underwater kelp images and corresponding ground-truth segmentation masks
+illustrating different levels of kelp cover: (a) high, (b) moderate, (c) low, and (d) very low. For each
+example, the upper panel shows the original RGB image, and the lower panel shows the corresponding
+SSeg-assisted annotated ground-truth mask, with kelp regions highlighted in pink. Note that in the very low
+kelp cover, the image is dominated by seagrass, which is not labeled.](fig2.png)

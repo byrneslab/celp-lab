@@ -49,4 +49,10 @@ source("publications/_scripts/bibtex_2_website_qmds.R")
 #     overwrite = TRUE
 # )
 
+# bibtex_2_website_qmds(
+#     bibfile = "publications/_zotero_outputs/cv_papers/cv_papers.bib",
+#     pdf_files_folder_location = "publications/_zotero_outputs/cv_papers/",
+#     outfold = "publications/articles/",
+#     overwrite = TRUE
+# )
 
